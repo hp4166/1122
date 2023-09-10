@@ -21,6 +21,12 @@
 
 {"key":"腾讯","name":"腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"http://vip.xn--yet226clhctt4b.fun:66/js/tengxun.js"},
 
+{"key": "xml_奇艺","name":"爱奇艺","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable": 1},
+
+{"key": "xml_360","name":"三三解析","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/360kan","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable": 1},
+
+{"key": "xml_狐狐","name":"搜狐解析","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable": 1},
+
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
