@@ -21,15 +21,13 @@
 
 {"key": "xiaoya","name": "小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
 
-{"key":"爱奇异","name":"爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+{"key": "xml_腾讯","name":"腾腾☆deta","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable": 1},
 
-{"key":"优酷","name":"优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
+{"key": "xml_奇艺","name":"爱爱☆deta","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable": 1},
 
-{"key":"腾讯","name":"腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
+{"key": "xml_360","name":"三三☆deta","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/360kan","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable": 1},
 
-{"key":"芒果","name":"芒果(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
-
-{"key":"搜狗","name":"搜狗(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/caigou.js"},
+{"key": "xml_狐狐","name":"搜狐☆deta","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable": 1},
 
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
