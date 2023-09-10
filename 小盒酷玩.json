@@ -19,6 +19,8 @@
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
+{"key": "xiaoya","name": "小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
+
 {"key":"爱奇异","name":"爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
 
 {"key":"优酷","name":"优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
