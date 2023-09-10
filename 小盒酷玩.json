@@ -13,7 +13,7 @@
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "网飞","name": "网飞影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.js"},
+{"key": "网飞","name": "网飞影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
