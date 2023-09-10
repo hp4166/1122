@@ -17,6 +17,18 @@
 
 {"key":"厂长影视","name":"🌾厂长┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/厂长.json"},
 
+{"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
+
+{"key":"爱奇异","name":"爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+
+{"key":"优酷","name":"优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
+
+{"key":"腾讯","name":"腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
+
+{"key":"芒果","name":"芒果(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
+
+{"key":"搜狗","name":"搜狗(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/caigou.js"},
+
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
