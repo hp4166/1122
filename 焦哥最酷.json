@@ -106,10 +106,36 @@
       "ext": "https://www.wxtv.net/api.php/app/"
     },
     {
-      "key": "subaibai",
-      "name": "☁️素白 | 业余♻️",
-      "type": 3,
-      "api": "subaibai_open.js"
+          {
+      "key": "t4_wo",
+      "name": "🚀玩偶哥哥┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+    },
+    {
+      "key": "小纸条_cli",
+      "name": "🚀小纸条┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
+    {
+      "key": "荐片",
+      "name": "🚀荐片┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 30
     },
     {
       "key": "yszj",
