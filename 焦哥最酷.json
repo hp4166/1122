@@ -38,6 +38,18 @@
       }
     },
     {
+      "key": "csp_胖虎",
+      "name": "📽胖虎┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名":"胖虎影视",
+        "主页url":"https://www.maolvys.com/",
+        "分类":"电影$1#剧集$2#综艺$3#动漫$4",
+        "分类url":"https://www.maolvys.com/vodshow/{cateId}/{area}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
       "key": "csp_熊猫",
       "name": "📽️熊猫┃BPQ",
       "type": 3,
