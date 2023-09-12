@@ -26,6 +26,88 @@
       "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/tx.js"
     },
     {
+          {
+      "key": "555",
+      "name": "😎555┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://555dy3.com/api.php/app/"
+    },
+    {
+      "key": "hoho",
+      "name": "😎HOHO┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://hoho.tv/api.php/app/"
+    },
+    {
+      "key": "lggys",
+      "name": "😎落攻阁┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.lggys.cn/api.php/app/"
+    },
+    {
+      "key": "baoxian",
+      "name": "😎宝仙┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://webdillo.com/api.php/app/"
+    },
+    {
+      "key": "heyik",
+      "name": "😎何以┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.heyik.cn/api.php/v1.vod"
+    },
+    {
+      "key": "shaozeyy",
+      "name": "😎少泽┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://yk.shaozeyy.com/api.php/app/"
+    },
+    {
+      "key": "wxtv",
+      "name": "😎无限┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.wxtv.net/api.php/app/"
+    },
+    {
+      "key": "yszj",
+      "name": "😎影视┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://yszj.cm/xgapp.php/v2/"
+    },
+    {
+
       "key": "xml_玩偶",
       "name": "🧙玩偶┃哥哥",
       "type": 4,
