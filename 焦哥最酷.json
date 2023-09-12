@@ -106,6 +106,12 @@
       "ext": "https://www.wxtv.net/api.php/app/"
     },
     {
+      "key": "subaibai",
+      "name": "☁️素白 | 业余♻️",
+      "type": 3,
+      "api": "subaibai_open.js"
+    },
+    {
       "key": "yszj",
       "name": "😎影视┃App",
       "type": 3,
