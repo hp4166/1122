@@ -25,6 +25,17 @@
       "api": "./lib/drpy2.min.js",
       "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/tx.js"
     },
+    {  
+      "key": "csp_胖虎",
+      "name": "📽️胖虎┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名":"胖虎影视",
+        "主页url":"https://www.panghuys.com/",
+        "分类":"电影$1#剧集$2#综艺$3#动漫$4",
+        "分类url":"https://www.panghuys.com/vodshow/{cateId}/{area}/page/{catePg}/year/{year}.html"
+    },
     {
       "key": "555",
       "name": "😎555┃App",
