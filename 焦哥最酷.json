@@ -35,6 +35,16 @@
       "changeable": 1,
       "ext": "https://555dy3.com/api.php/app/"
     },
+    {   
+      "key": "chiguafilm",
+      "name": "😎吃瓜┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.chiguafilm.com/api.php/v1.vod"
+    },  
     {
       "key": "hoho",
       "name": "😎HOHO┃App",
