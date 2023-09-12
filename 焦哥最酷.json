@@ -102,6 +102,13 @@
       "ext": "https://webdillo.com/api.php/app/"
     },
     {
+      "key": "csp_淘剧影视",
+      "name": "淘剧影视",
+      "type": 3,
+      "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": "./json/淘剧影院.json"},
+    },
+    {
       "key": "heyik",
       "name": "😎何以┃App",
       "type": 3,
