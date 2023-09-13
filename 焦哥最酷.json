@@ -37,7 +37,16 @@
         "分类url":"https://www.panghuys.com/vodshow/{cateId}/{area}/page/{catePg}/year/{year}.html"
       }
     },
-    {
+    { 
+      "key": "csp_白嫖者联盟",
+      "name": "白嫖者联盟┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+       "分类url":"https://188mv.cc/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg]/year/{year}.html",
+       "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
       "key": "csp_毛驴",
       "name": "毛驴┃BPQ",
       "type": 3,
