@@ -38,6 +38,16 @@
       }
     },
     {
+      "key": "csp_猫猫",
+      "name": "猫猫┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+       "分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg]/year/{year}.html",
+       "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
       "key": "csp_熊猫",
       "name": "📽️熊猫┃BPQ",
       "type": 3,
