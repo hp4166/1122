@@ -41,7 +41,7 @@
        "key": "csp_毛驴",
        "name": "📽️毛驴┃BPQ",
        "type": 3,
-       "jar": "./jar/xiaomi/jar",
+       "jar": "./jar/xiaomi.jar",
        "api": "csp_XBPQ",
        "ext": {
         "站名":"毛驴影视",
