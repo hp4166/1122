@@ -27,7 +27,7 @@
     },
     {
       "key": "csp_胖虎",
-      "name": "🎥胖虎┃BPQ",
+      "name": "📽️胖虎┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -58,7 +58,7 @@
     },  
     {
       "key": "csp_白嫖者联盟",
-      "name": "🚅白嫖者联盟┃BPQ",
+      "name": "📽️白嫖者联盟┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -68,7 +68,7 @@
     },
     {
 	    "key": "1080a",
-	    "name": "☀️1080P站-A",
+	    "name": "📹1080P站-A",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
 	    "key": "1080b",
-	    "name": "☀️1080P站-B",
+	    "name": "📹1080P站-B",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -88,7 +88,7 @@
     },
     {
 	    "key": "me_qq",
-	    "name": "☀️4KHDR站-C",
+	    "name": "📹4KHDR站-C",
 	    "type": 1,
 	    "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
 	    "searchable": 1,
@@ -96,7 +96,7 @@
     },
     {
 	    "key": "MX",
-	    "name": "☀️4KHDR站-D",
+	    "name": "📹4KHDR站-D",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -106,7 +106,7 @@
     },
     {
 	    "key": "yc",
-	    "name": "☀️4KHDR站-D",
+	    "name": "📹4KHDR站-D",
 	    "type": 3,
       "playerType": 1,
 	    "api": "csp_Hdhive",
@@ -118,7 +118,7 @@
     },
     {
       "key": "csp_毛驴",
-      "name": "🎥毛驴┃BPQ",
+      "name": "📽️毛驴┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -128,7 +128,7 @@
     },
     {
       "key": "csp_熊猫",
-      "name": "🎥熊猫┃BPQ",
+      "name": "📽️熊猫┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
