@@ -27,7 +27,7 @@
     },
     {
       "key": "csp_胖虎",
-      "name": "📽️胖虎┃BPQ",
+      "name": "🎥胖虎┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -39,7 +39,7 @@
     },
     {
 	    "key": "drpy_js_农民",
-	    "name": "影视 | 农民[js]",
+	    "name": "👨‍🌾影|农民[js]",
 	    "type": 3,
 	    "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 	    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
@@ -55,8 +55,8 @@
       }
     },
     {
-	    "key": "1080b",
-	    "name": "1080P站-B",
+	    "key": "1080a",
+	    "name": "☀️1080P站-A",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
 	    "key": "1080b",
-	    "name": "1080P站-C",
+	    "name": "☀️1080P站-B",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -76,7 +76,7 @@
     },
     {
 	    "key": "me_qq",
-	    "name": "4KHDR站-B",
+	    "name": "☀️4KHDR站-C",
 	    "type": 1,
 	    "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
 	    "searchable": 1,
@@ -84,7 +84,7 @@
     },
     {
 	    "key": "MX",
-	    "name": "4KHDR站-C",
+	    "name": "☀️4KHDR站-D",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -94,7 +94,7 @@
     },
     {
 	    "key": "yc",
-	    "name": "4KHDR站-D",
+	    "name": "☀️4KHDR站-D",
 	    "type": 3,
       "playerType": 1,
 	    "api": "csp_Hdhive",
@@ -106,7 +106,7 @@
     },
     {
       "key": "csp_毛驴",
-      "name": "毛驴┃BPQ",
+      "name": "🎥毛驴┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -116,7 +116,7 @@
     },
     {
       "key": "csp_熊猫",
-      "name": "📽️熊猫┃BPQ",
+      "name": "🎥熊猫┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -180,7 +180,7 @@
     },
     {
       "key": "csp_淘剧影视",
-      "name": "淘剧影视",
+      "name": "🎥淘剧┃影视",
       "type": 3,
       "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": "./json/淘剧影院.json"
@@ -258,7 +258,7 @@
     },
     {
       "key": "xml_玩偶",
-      "name": "🧙玩偶┃哥哥",
+      "name": "🚀玩偶┃哥哥",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=59982b02e05b47e890a38982e5a7402d",
       "searchable": 1,
@@ -275,7 +275,7 @@
     },
     {
       "key": "6v",
-      "name": "🤘6V┃磁力",
+      "name": "🫰6V┃磁力",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
