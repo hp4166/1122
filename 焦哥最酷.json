@@ -403,12 +403,12 @@
     },
     {
       "key": "萌猫",
-      "name": "🐼萌猫┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./json/萌猫.json"
-    },
+	    "name": "🐼萌猫┃影视",
+	    "type": 3,
+	    "api": "csp_XBPQ",
+	    "playerType": "1",
+	    "ext": "./json/萌猫.json"
+    },  
     {
       "key": "007",
       "name": "🎈007┃影视",
