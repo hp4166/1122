@@ -70,7 +70,7 @@
     },  
     {
       "key": "csp_白嫖者联盟",
-      "name": "📽️白嫖者联盟┃BPQ",
+      "name": "📽️白嫖┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -90,7 +90,7 @@
     },
     {  
       "key":"EMO",
-      "name":"EMO蓝光",
+      "name":"✨EMO┃蓝光",
       "type":3,
       "api":"csp_AppYsV2",
       "ext":"http://one3.emofun.top/mogai_api.php/v1.vod"
@@ -306,7 +306,7 @@
     },
     {
       "key": "6v",
-      "name": "🫰6V┃磁力",
+      "name": "🧲6V┃磁力",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
