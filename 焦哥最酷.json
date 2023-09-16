@@ -80,7 +80,7 @@
     },
     {
 	    "key": "1080a",
-	    "name": "🐳1080P站-A",
+	    "name": "🎦HD┃A-站",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
 	    "key": "1080b",
-	    "name": "🐳1080P站-B",
+	    "name": "🎦HD┃B-站",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
@@ -107,7 +107,7 @@
     },
     {
 	    "key": "me_qq",
-	    "name": "🐳4KHDR站-C",
+	    "name": "🎦HDR┃C-站",
 	    "type": 1,
 	    "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
 	    "searchable": 1,
@@ -115,7 +115,7 @@
     },
     {
 	    "key": "MX",
-	    "name": "🐳4KHDR站-D",
+	    "name": "🎦HDR┃D-站",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "searchable": 1,
