@@ -136,14 +136,14 @@
 	    "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
     },
     {
-      "key": "蚂蚁",
-      "name": "🐜蚂蚁┃直连",
-      "type": 3,
-      "api": "csp_Mayiys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://rzys.xyz"
+      "key": "jszy",
+      "name": "极速资源 ",
+	    "type": 1,
+	    "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+	    "searchable": 1,
+	    "changeable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1
     },
     {
       "key": "csp_毛驴",
@@ -818,6 +818,15 @@
         "4k.clyjx.cn:97"
       ]
     },
+    {
+      "name": "极速",
+      "hosts": [
+                "jszy"
+            ],
+      "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+    },
     {
       "host": "renren.pro",
       "rule": [
