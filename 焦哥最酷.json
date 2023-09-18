@@ -817,15 +817,6 @@
         "m3u8?",
         "4k.clyjx.cn:97"
       ]
-    },
-    {
-      "name": "极速",
-      "hosts": [
-                "jszy"
-            ],
-      "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
     },
     {
       "host": "renren.pro",
