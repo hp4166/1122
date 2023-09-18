@@ -587,6 +587,16 @@
             }
     },
     {
+            "name": "1080P_HDR",
+            "type": 1,
+            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/3.12.11"
+                }
+            }
+    },
+    {
       "name": "🌽玉米",
       "type": 1,
       "url": "http://61.147.93.21:8090/index.php?url="
