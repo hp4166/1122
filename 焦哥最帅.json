@@ -14,7 +14,7 @@
 
 {"key": "网飞","name": "🎾网飞┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
-{"key":"厂长影视","name":"🌾厂长┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/厂长.json"},
+{"key":"厂长影视","name":"👷厂长┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/厂长.json"},
 
 {"key":"腾讯","name":"腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
