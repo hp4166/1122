@@ -68,7 +68,7 @@
     },
     {
 	    "key": "csp_AppYsV2_嘉靓",
-	    "name": "嘉靓影视",
+	    "name": "💿嘉靓┃影视",
 	    "type": 3,
 	    "api": "csp_AppYsV2",
 	    "playerType": 2,
@@ -79,7 +79,7 @@
     },
     {
       "key": "光影猫",
-      "name": "光影猫",
+      "name": "📶光影猫┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
