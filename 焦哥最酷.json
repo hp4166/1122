@@ -30,6 +30,25 @@
       "jar": "https://jihulab.com/zmjwy/yyds/-/raw/main/jar/fty.jar"
     },
     {
+      "key": "Auete",
+      "name": "🏝奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    }
+      "key": "奇奇",
+      "name": "🍓奇奇┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://mp4.ghlyys.com/api.php/app/"
+    },
+    {
       "key": "tengxun",
       "name": "⭐腾讯┃4K",
       "type": 3,
