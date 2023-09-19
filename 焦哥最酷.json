@@ -30,14 +30,13 @@
       "jar": "https://jihulab.com/zmjwy/yyds/-/raw/main/jar/fty.jar"
     },
     {
-      "key": "Auete",
-      "name": "🏝奥特┃直连",
+      "key": "kuaikan",
+      "name": "👀快看┃App",
       "type": 3,
-      "api": "csp_Auete",
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://jihulab.com/zmjwy/yyds/-/raw/main/jar/fty.jar"
+      "changeable": 1
     },
     {
       "key": "奇奇",
