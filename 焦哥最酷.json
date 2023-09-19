@@ -53,6 +53,7 @@
       "key": "csp_YYDS",
       "name": "📽️YYDS┃BPQ",
       "type": 3,
+      "jar": "https://jihulab.com/zmjwy/yyds/-/raw/main/jar/xm.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
