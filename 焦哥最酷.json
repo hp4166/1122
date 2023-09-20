@@ -9,6 +9,23 @@
       "ext": "./js/douban.js"
     },
     {
+     "ext": "eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==",
+     "filterable": 1,
+     "quickSearch": 1,
+     "name": "小雅",
+     "viewType": {
+     "style": {
+     "type": "rect"
+    }
+    },
+     "changeable": 0,
+     "jar": "http://218.79.116.9:9245/spring.jar",
+     "api": "csp_XiaoYa",
+     "type": 3,
+     "key": "csp_XiaoYa",
+     "searchable": 1
+    },
+    {
       "key": "csp_WoGG",
       "name": "👽玩偶┃云盘",
       "type": 3,
@@ -17,6 +34,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+    },
+    {
+	    "key": "sp360",
+	    "name": "♻️360影视.弹幕|解析",
+	    "type": 3,
+	    "api": "csp_Sp360",
+	    "searchable": 1,
+	    "filterable": 1,
+	    "changeable": 1,
+	    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/920.jar"
     },
     {
       "key": "蚂蚁",
