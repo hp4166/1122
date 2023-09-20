@@ -83,6 +83,63 @@
         "分类url":"https://www.bxgco.com/bxtop/{cateId}/page/{catePg}/year/{year}.html"   
       }
     },
+    {    
+        "key": "迪欧",
+        "name": "💟迪欧剧院",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "ext": {
+        "数组":"class=\"list_tab_img&&</ul>",
+        "链接":"href=\"&&\"",
+        "图片":"xsrc=\"&&\"",
+        "标题":"alt=\"&&\"",
+        "副标题":"<label class=\"title\">&&</label>",
+        "线路数组":"class=\"play-title\">&&</div>",
+        "播放数组":"<ul class=\"plau-ul-list\">&&</ul>",
+        "简介":"<div class=\"vod_content\">&&</div>",
+        "搜索模式":"1", 
+        "搜索数组":"<ul class=\"new_tab_img&&</ul>",
+        "搜索url":"http://www.dioudy.com/search.php?searchword={wd}",
+        "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+        "分类url":"http://www.dioudy.com/category/{cateId}_{catePg}.html[http://www.dioudy.com/category/{cateId}.html]"   
+      }
+    },
+    {
+        "key": "十品",
+        "name": "💟十品剧院",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "ext": {
+        "数组":"class=\"v-pic\">&&</div>",
+        "链接":"href=\"&&\"",
+        "图片":"data-src=\"&&\"",
+        "标题":"title=\"&&\"",
+        "副标题":"class=\"v-tips\">&&</div>",
+        "首页":"电视剧",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url":"http://v.sh5187.com/spshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html"   
+      }
+    },
+    {
+        "key": "csp_茶杯狐",
+        "name": "📽️茶杯┃BPQ",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "ext": {
+      
+        
+        "搜索数组":"class=\"myui-vodlist__&&</a >",
+        "搜索标题":"title=\"&&\"",
+        "搜索图片":"data-original=\"&&\"",
+        "搜索链接":"href=\"&&\"",
+        "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+        "搜索模式":"1",
+        "搜索url":"https://www.chabeihu123.com/search.php?searchword={wd}",    
+        
+        "分类":"电影$1#电视剧$2#综艺$4#动漫$3",
+        "分类url":"https://www.chabeihu123.com/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area}"
+      }
+    },
     {
       "key": "tengxun",
       "name": "⭐腾讯┃4K",
