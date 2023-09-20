@@ -26,6 +26,30 @@
      "searchable": 1
     },
     {
+      "key": "csp_奈飞影视",
+      "name": "📽️奈飞┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名":"奈飞影视",
+        "主页url":"https://www.naifei.im/",
+        "分类":"电影$1#剧集$2#综艺$3#动漫$4",
+        "分类url":"https://www.naifei.im/vod/show/{cateId}-{area}-------{catePg}---{year}.html"
+      }
+    },
+    {
+      "key": "csp_AucFox",
+      "name": "📽️AucFox┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名":"AucFox影视",
+        "主页url": "https://www.aucfox.fun/",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",
+        "分类url": "https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+      }
+    },
+    {
       "key": "csp_WoGG",
       "name": "👽玩偶┃云盘",
       "type": 3,
