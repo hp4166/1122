@@ -61,7 +61,7 @@
     },
     {
         "key": "maolv_open",
-        "name": "🦩毛驴┃影视",
+        "name": "🐨毛驴┃影视",
         "type": 3,
         "api": "csp_Maolv",
         "searchable": 1,
