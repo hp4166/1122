@@ -61,13 +61,13 @@
     },
     {
 	    "key": "sp360",
-	    "name": "♻️360影视┃弹幕",
+	    "name": "♻️360影视┃弹屏",
 	    "type": 3,
 	    "api": "csp_Sp360",
 	    "searchable": 1,
 	    "filterable": 1,
 	    "changeable": 1,
-	    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/920.jar"
+	    "jar": "./jar/920弹幕.jar"
     },
     {
       "key": "蚂蚁",
