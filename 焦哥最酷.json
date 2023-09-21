@@ -39,7 +39,7 @@
     },
     {
       "key": "SNzy",
-      "name": "♻️索尼┃资源",
+      "name": "🐲索尼┃资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -61,7 +61,7 @@
     },
     {
         "key": "maolv_open",
-        "name": "影视|毛驴",
+        "name": "🦩毛驴┃影视",
         "type": 3,
         "api": "csp_Maolv",
         "searchable": 1,
