@@ -60,6 +60,16 @@
       }
     },
     {
+        "key": "maolv_open",
+        "name": "影视|毛驴",
+        "type": 3,
+        "api": "csp_Maolv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },
+    {
       "key": "csp_WoGG",
       "name": "👽玩偶┃云盘",
       "type": 3,
