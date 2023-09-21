@@ -80,6 +80,18 @@
         "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
     {
+	      "key": "星途",
+	      "name": "星途剧院",
+	      "type": 3,
+	      "api": "csp_XBPQ",
+	      "ext": {
+		    "免嗅": "0",
+		    "线路数组": "class=\"stui-pannel_hd&&</div>[不包含:线路#评论][排序:云云解析>蓝光>云云菠菜]",
+		    "线路标题": "<h3 class=\"title\">&&</h3>[替换:星途影视③>>云云解析#星途影视②>>云云菠菜2#星途影视①>>云云菠菜1#蓝光①>>蓝光菠菜1]",
+		    "分类url": "https://www.xinttv.com/xtyy/{cateld}/page/{catePg}/year/{year}.html#"
+	    }
+    },
+    {   
       "key": "csp_WoGG",
       "name": "👽玩偶┃云盘",
       "type": 3,
