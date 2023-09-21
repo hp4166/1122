@@ -26,6 +26,16 @@
      "searchable": 1
     },
     { 
+     "key":"csp_Alistxy",
+     "name":"🅿️Alist网盘",     
+     "type":3,
+     "api":"csp_AListxy",
+     "searchable":1,
+     "quickSearch":1,
+     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/Alistxy.json",
+     "jar":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar"
+    },
+    { 
       "key": "csp_奈飞影视",
       "name": "📽️奈飞┃BPQ",
       "type": 3,
