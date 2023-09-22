@@ -91,6 +91,16 @@
 		    "分类url": "https://www.xinttv.com/xtyy/{cateld}/page/{catePg}/year/{year}.html#"
 	    }
     },
+    {
+      "key": "drpy_追忆",
+      "name": "🤳追忆┃TV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
+    },
     {   
       "key": "csp_WoGG",
       "name": "👽玩偶┃云盘",
