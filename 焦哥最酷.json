@@ -9,15 +9,15 @@
       "ext": "./js/douban.js"
     },
     { 
-     "key":"csp_Alistxy",
-     "name":"🅿️Alist网盘",     
-     "type":3,
-     "jar":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
-     "api":"csp_AListxy",
-     "searchable":1,
-     "quickSearch":1,
-     "ext": {
-    "drives": [
+      "key":"csp_Alistxy",
+      "name":"🅿️Alist网盘",     
+      "type":3,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
+      "api":"csp_AListxy",
+      "searchable":1,
+      "quickSearch":1,
+      "ext": {
+      "drives": [
       {
         "name": "小雅搜索1",
         "server": "http://124.71.206.236:5678",
