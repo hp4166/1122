@@ -12,6 +12,49 @@
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
+{"key": "PT","name": "葡萄剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
+
+{
+            "key": "xml_大漠",
+            "name": "大漠资源",
+            "type": 1,
+            "api": "https://damozy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "热门短剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "悬疑片",
+                "犯罪篇",
+                "奇幻片",
+                "冒险片",
+                "纪录片",
+                "伦理片",
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "韩国剧",
+                "日本剧",
+                "美国剧",
+                "泰剧",
+                "动画片",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+
 {"key": "网飞","name": "🎾网飞┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
 {"key":"厂长影视","name":"👷厂长┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/厂长.json"},
