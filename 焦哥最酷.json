@@ -89,6 +89,19 @@
         "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
     {
+	      "key": "OXS",
+	      "name": "O先生影视",
+	      "type": 3,
+	      "api": "csp_XBPQ",
+	      "searchable": 1,
+	      "quickSearch": 1,
+	      "filterable": 1,
+	      "ext": {
+		    "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+		    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+	    }
+    },
+    {
 	      "key": "星途",
 	      "name": "🌠星途┃剧院",
 	      "type": 3,
