@@ -501,6 +501,26 @@
       "ext": "https://www.wxtv.net/api.php/app/"
     },
     {
+      "key": "py_dapei",
+      "name": "💃┃搭配┃教程",
+      "type": 3,
+      "api": "py_dapei",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/搭配.py"
+    },
+    {
+      "key": "py_dashan",
+      "name": "💋┃搭讪┃教程",
+      "type": 3,
+      "api": "py_dashan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/搭讪.py"
+    },
+    {
       "key": "t4_wo",
       "name": "👽玩偶┃T4",
       "type": 4,
