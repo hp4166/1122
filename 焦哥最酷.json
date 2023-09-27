@@ -57,6 +57,16 @@
       }
     },
     {
+	    "key": "csp_XYQBiu_骚火VIP",
+	    "name": "👶骚火┃VIP",
+	    "type": 3,
+	    "api": "csp_XYQBiu",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "ext": "./json/骚火电影VIP.json"
+    },
+    {
       "key": "SNzy",
       "name": "🐲索尼┃资源",
       "type": 1,
