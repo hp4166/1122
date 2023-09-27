@@ -695,6 +695,16 @@
       "jar": "./jar/xyq.jar"
     },
     {
+      "key": "py_cctv",
+      "name": "❤️央视大全",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/cctv.py"
+    },
+    {
       "key": "Paper",
       "name": "📝纸条┃搜索",
       "type": 4,
