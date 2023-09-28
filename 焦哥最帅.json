@@ -26,13 +26,13 @@
 
 {"key": "xml_玩偶","name": "🎭玩偶┃妹妹（4K）","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"drpy_js_奇珍异兽","name":"✌爱奇艺","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/奇珍异兽.js"},
+{"key":"drpy_js_奇珍异兽","name":"✌爱奇艺┃影视","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/奇珍异兽.js"},
 
-{"key":"drpy_js_优酷","name":"✌优酷","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/优酷.js"},
+{"key":"drpy_js_优酷","name":"✌优酷┃影视","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/优酷.js"},
 
-{"key":"drpy_js_腾云驾雾","name":"✌腾讯","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/腾云驾雾.js"},
+{"key":"drpy_js_腾云驾雾","name":"✌腾讯┃影视","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/腾云驾雾.js"},
 
-{"key":"drpy_js_百忙无果","name":"✌芒果","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/百忙无果.js"},
+{"key":"drpy_js_百忙无果","name":"✌芒果┃影视","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/百忙无果.js"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
@@ -73,6 +73,16 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
 {"name": "web聚合","type": 3,"url": "Web"},
+
+{"name": "比u比u🥭","type": 1,"url": "https://jxjson.cf/json.php?url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
+
+{"name": "✌哎呀服务器解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+
+{"name": "✌哎呀服务器解析2","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
+
+{"name": "✌哎呀服务器解析3","type": 1,"url": "http://42.157.128.109:2323/CH/app/tv.php?url="},
+
+ {"name": "✌哎呀服务器解析4","type": 1,"url": "https://jiexi.xn--654a.cc/home/api?type-ys&uid-2119758&key-egjkmotwyCHPS04569&ur1="},
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
