@@ -20,6 +20,8 @@
 
 {"key": "网飞","name": "🎾网飞┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
+{"key": "追忆","name": "🎾追忆┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
+
 {"key": "探探","name": "🏵影探┃APP","type": 3,"playerType": "1","api": "csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext": "vip.lyyytv.cn","jar":"./jar/fty.jar"},
 
 {"key":"厂长影视","name":"👷厂长┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/厂长.json"},
