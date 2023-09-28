@@ -334,11 +334,11 @@
     },
     {
       "key": "4K世界",
-      "name": "📶4K┃影视",
+      "name": "🌏4K┃世界",
       "type": 3,
       "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 2,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/4k世界.js/"
     },
