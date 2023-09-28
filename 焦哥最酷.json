@@ -333,6 +333,16 @@
 	    "ext": "http://cms.jialiangos.com/api.php/app/"
     },
     {
+      "key": "4K世界",
+      "name": "📶4K┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/4k世界.js/"
+    },
+    {
       "key": "光影猫",
       "name": "📶光影┃影视",
       "type": 3,
