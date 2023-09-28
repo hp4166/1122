@@ -78,6 +78,16 @@
       "filterable": 1
     },
     {
+	    "key": "Xinsj",
+	    "name": "🗻视觉┃新版",
+	    "type": 3,
+	    "api": "csp_Xinsj",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "ext": "https://www.6080yy3.com/"
+    },
+    {
       "key": "csp_AucFox",
       "name": "📽️AucFox┃BPQ",
       "type": 3,
