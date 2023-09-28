@@ -670,14 +670,15 @@
       "ext": "http://mp4.ghlyys.com/api.php/app/"
     },
     {
-      "key": "csp_AppYsV2_影探",
-      "name": "🕵影探┃4K",
+      "key": "探探",
+      "name": "🏵影探┃APP",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "playerType": "1",
+      "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "热播之家",
