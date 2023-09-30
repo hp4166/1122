@@ -112,6 +112,8 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
+{"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+
 {"name": "比u比u🥭","type": 1,"url": "https://jxjson.cf/json.php?url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
 
 {"name": "✌哎呀服务器解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
