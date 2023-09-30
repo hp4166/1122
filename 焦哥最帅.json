@@ -12,6 +12,18 @@
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
+{"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix0929.jar"},
+
+{"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./jar/fix0929.jar"},
+
+{"key":"csp_Appto_米诺","name":"👶米诺☆巧技","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix0929.jar"},
+
+{"key":"csp_Appto_追忆","name":"👶追忆☆巧技","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./jar/fix0929.jar"},
+
+{"key": "FCDM","name": "风车动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
+
+{"key": "csp_xml_路人甲","name": "路人甲┃影视","type": 1,"api": "http://dytt996.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","短剧视频","海外剧","综艺","动漫" ] },
+
 {"key": "PT","name": "葡萄剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 
 {"key":"MTV转点播","name": "🎶万首| MTV","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/lf_live_min.js","ext":"https://agit.ai/Yemaozhi123/lng/raw/branch/master/mv.txt"},	  
