@@ -14,7 +14,7 @@
 
 {"key": "速搜","name": "速搜影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/速搜影视.json"},
 
-{"key": "京项","name": "京项影视","type": 3,"api": "./lib/AppYsV2","ext": "./json.京项影视js"},
+{"key": "京项","name": "京项影视","type": 3,"api": "csp_AppYsV2","ext": "./json.京项影视js","jar":"./jar/fix0929.jar"},
 
 {"key": "酷茶","name": "酷茶影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/酷茶影视.json"},
 
