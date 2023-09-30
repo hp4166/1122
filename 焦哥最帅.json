@@ -10,6 +10,18 @@
 
 {"key": "豆瓣","name": "江湖路漫漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
+{"key": "厂长","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/厂长.json"},
+
+{"key": "速搜","name": "速搜影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/速搜影视.json"},
+
+{"key": "京项","name": "京项影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json.京项影视js"},
+
+{"key": "酷茶","name": "酷茶影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/酷茶影视.json"},
+
+{"key": "耐看","name": "耐看影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/耐看影视.json"},
+
+{"key": "360","name": "360影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
+
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
 {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix0929.jar"},
