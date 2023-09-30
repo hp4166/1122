@@ -12,13 +12,7 @@
 
 {"key": "厂长","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/厂长.json","jar":"./jar/xyq.jar"},
 
-{"key": "速搜","name": "速搜影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/速搜影视.json","jar":"./jar/xyq.jar"},
-
-{"key": "京项","name": "💘┃京项┃影视","type": 1,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫","4K","体育" ],"jar":"./jar/fix0929.jar"},
-
-{"key": "酷茶","name": "酷茶影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/酷茶影视.json","jar":"./jar/xyq.jar"},
-
-{"key": "耐看","name": "耐看影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/耐看影视.json","jar":"./jar/xyq.jar"},
+{"key": "耐看","name": "耐看影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/耐看影视.json","jar":"./jar/fty.jar"},
 
 {"key": "360","name": "360影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
