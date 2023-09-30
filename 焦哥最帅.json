@@ -32,7 +32,7 @@
 
 {"key": "网飞","name": "🎾网飞┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
-{"key": "追忆","name": "🎾追忆┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/追忆.js"},
+{"key":"酷影","name":"酷影┃影视","type":3,"api":"http://ck.realdou.cn/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ck.realdou.cn/JS/js/酷影蓝光.js"},
 
 {"key": "探探","name": "🏵影探┃APP","type": 3,"playerType": "1","api": "csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext": "vip.lyyytv.cn","jar":"./jar/fty.jar"},
 
