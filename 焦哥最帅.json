@@ -12,7 +12,7 @@
 
 {"key": "橘子","name": "🍊橘子┃直连","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ","jar":"./jar/fix0929.jar"},
 
-{"key": "耐看","name": "耐看影视","type": 3,"api": "csp_xyq","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/耐看影视.json","jar":"./jar/xyq.jar"},
+{"key": "耐看","name": "耐看影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/耐看影视.json","jar":"./jar/xyq.jar"},
 
 {"key": "360","name": "360影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
