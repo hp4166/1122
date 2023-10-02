@@ -14,7 +14,7 @@
 
 {"key":"NAKAN","name":"耐看点播","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://www.nkvod.com/nk/-------------.html?wd={wd}","分类":"电影$1#连续剧$2#综艺$29#动漫$3","分类url":"https://www.nkvod.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 
-{"key":"速搜", "name": "速搜影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/速搜影院.json","jar":"./jar/xm.jar"},
+{"key":"速搜", "name": "速搜影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/速搜影院.json","jar":"./jar/nb.jar"},
 
 {"key": "360","name": "360影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
