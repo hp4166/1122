@@ -102,6 +102,8 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
+{"name":"追忆","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/1314.php?url="},
+
 {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 
 {"name": "比u比u🥭","type": 1,"url": "https://jxjson.cf/json.php?url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
