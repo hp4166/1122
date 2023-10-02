@@ -16,7 +16,7 @@
 
 { "key": "365", "name": "🚛365┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
-{ "key": "蘑菇影视", "name": "🚛蘑菇┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://11111111.moguys.xyz/api.php/app/"},
+{ "key": "蘑菇影视", "name": "🚛蘑菇┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://11111111.moguys.xyz/api.php/app/","jar":"./jar/xbpq.jar"},
 
 {"key":"速搜", "name": "速搜影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/速搜影院.json","jar":"http://xiaohewanwan.love/自用/jar/2.jar;md5;d86999aba43144a25646757a06363b8f"},
 
