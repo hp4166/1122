@@ -14,11 +14,11 @@
 
 {"key":"NAKAN","name":"耐看点播","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://www.nkvod.com/nk/-------------.html?wd={wd}","分类":"电影$1#连续剧$2#综艺$29#动漫$3","分类url":"https://www.nkvod.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 
-{ "key": "365", "name": "🚛365┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/","jar":"./jar/XYQ.jar"},
+{ "key": "365", "name": "🚛365┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/","jar":"./jar/xbpq.jar"},
 
-{"key":"圣城影视","name":"🚛圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/sc1080.json","jar":"./jar/XYQ.jar"},
+{"key":"圣城影视","name":"🚛圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/sc1080.json","jar":"./jar/xbpq.jar"},
 
-{ "key": "蘑菇影视", "name": "🚛蘑菇┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://11111111.moguys.xyz/api.php/app/","jar":"./jar/XYQ.jar"},
+{ "key": "蘑菇影视", "name": "🚛蘑菇┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://11111111.moguys.xyz/api.php/app/","jar":"./jar/xbpq.jar"},
 
 {"key":"速搜", "name": "速搜影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/速搜影院.json","jar":"http://xiaohewanwan.love/自用/jar/2.jar;md5;d86999aba43144a25646757a06363b8f"},
 
