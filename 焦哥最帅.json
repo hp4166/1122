@@ -24,7 +24,7 @@
 
 {"key":"csp_Appto_米诺","name":"👶米诺☆巧技","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix0929.jar"},
 
-{"key":"csp_Appto_追忆","name":"👶追忆☆巧技","type":3,"api":"http://222.211.73.157:1122/api.php/app/o","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
+{"key":"csp_Appto_追忆","name":"👶追忆☆巧技","type":3,"api":"http://222.211.73.157:1122/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
 {"key": "新片热播", "name": "🔷┃新片┃热播","type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
