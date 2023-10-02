@@ -24,6 +24,8 @@
 
 { "key": "追忆", "name": "🚛追忆┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://222.211.73.157:1122/api.php/app/"},
 
+   {"key": "V2","name": "💖分享蓝光","type": 3,"playerType": 1,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext": "https://notabug.org/ygfxz/6/raw/main/js/js/V2.js"},
+
 {"key":"yc","name":"💖分享影巢","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://download.kstore.space/download/4127/ali/app.jar"},
 
 {"key": "新片热播", "name": "🔷┃新片┃热播","type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
