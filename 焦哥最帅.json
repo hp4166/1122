@@ -28,6 +28,8 @@
 
 {"key": "追忆","name": " 追忆┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://222.211.73.157:1122/api.php/app/"},
 
+{"key":"JYZY","name":"🦅金鹰┃影视","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json","searchable":1,"quickSearch":1,"categories":["科幻片","恐怖片","动作片","喜剧片","战争片","爱情片","剧情片","记录片","内地剧","动画片","中国动漫","日本动漫","欧美动漫","欧美剧","香港剧","台湾剧","体育赛事","韩剧","日剧","马泰剧","伦理片","综艺"]},
+
 {"key": "V2","name": "💖分享┃蓝光","type": 3,"playerType": 1,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext": "https://notabug.org/ygfxz/6/raw/main/js/js/V2.js"},
 
 {"key":"yc","name":"💖分享┃影巢","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://download.kstore.space/download/4127/ali/app.jar"},
