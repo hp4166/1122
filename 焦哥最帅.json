@@ -16,6 +16,8 @@
 
 {"key": "360","name": " 360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
+{"key": "yp","name": "🔥YP","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
+
 {"key":"土豪","name":"🪐土豪┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#B站国漫$49#B站番$51#综艺$4","图片":"src=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","搜索url":"https://www.tuhao.tv/vse/-------------.html?wd={wd}"}},
 
 {"key": "csp_AppYs_A8","name": "👶A8☆影视","type": 3, "api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod","jar":"./jar/XYQ.jar"},
