@@ -22,7 +22,7 @@
 
 {"key":"csp_Appto_米诺","name":"👶米诺☆巧技","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix0929.jar"},
 
-{"key": "追忆影视","name": "追忆影视","type": 3,"api": "csp_Appto","ext": "./js/追忆影视.js","jar":"./jar/fix0929.jar"},
+{"key": "追忆","name": "追忆┃影视","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./js/追忆影视.js","jar":"./jar/fix0929.jar"},
 
 {"key": "V2","name": "💖分享蓝光","type": 3,"playerType": 1,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext": "https://notabug.org/ygfxz/6/raw/main/js/js/V2.js"},
 
