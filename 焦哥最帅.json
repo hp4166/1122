@@ -94,6 +94,8 @@
 
 {"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
+{"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666"},
+
 {"key": "douban","name": "焦哥最帅","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
@@ -105,6 +107,18 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
 {"name": "web聚合","type": 3,"url": "Web"},
+
+{"name": "秒开","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url="},
+
+{"name": "爱酷","type": 1,"url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="},
+
+{"name": "77","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
+
+{"name": "叉车","type": 1,"url": "http://cache.json.icu/1804857380.php?url="},
+
+{"name": "影领","type": 1,"url": "http://json.itcxo.cn/api/?key=yOf0ntpu00xdbjnFjo&url="},
+
+{"name": "蓝鹰","type": 1,"url": "http://42.157.128.109:2323/CH/app/tv.php?url="},
 
 {"name":"追忆","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/1314.php?url="},
 
