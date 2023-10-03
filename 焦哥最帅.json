@@ -12,11 +12,11 @@
 
 {"key": "橘子","name": "🍊橘子┃直连","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ","jar":"./jar/fix0929.jar"},
 
-{"key":"NAKAN","name":"耐看点播","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://www.nkvod.com/nk/-------------.html?wd={wd}","分类":"电影$1#连续剧$2#综艺$29#动漫$3","分类url":"https://www.nkvod.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
+{"key":"NAKAN","name":"耐看┃点播","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://www.nkvod.com/nk/-------------.html?wd={wd}","分类":"电影$1#连续剧$2#综艺$29#动漫$3","分类url":"https://www.nkvod.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 
-{"key": "360","name": "360影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
+{"key": "360","name": "360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
-{"key": "京项","name": "京项影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/京项影视.js"},
+{"key": "京项","name": "京项┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/京项影视.js"},
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
@@ -24,9 +24,9 @@
 
 {"key": "追忆","name": "追忆┃影视","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./js/追忆影视.js","jar":"./jar/fix0929.jar"},
 
-{"key": "V2","name": "💖分享蓝光","type": 3,"playerType": 1,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext": "https://notabug.org/ygfxz/6/raw/main/js/js/V2.js"},
+{"key": "V2","name": "💖分享┃蓝光","type": 3,"playerType": 1,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext": "https://notabug.org/ygfxz/6/raw/main/js/js/V2.js"},
 
-{"key":"yc","name":"💖分享影巢","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://download.kstore.space/download/4127/ali/app.jar"},
+{"key":"yc","name":"💖分享┃影巢","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://download.kstore.space/download/4127/ali/app.jar"},
 
 {"key": "新片热播", "name": "🔷┃新片┃热播","type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
@@ -36,11 +36,11 @@
 
 {"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fty.jar"},
 
-{"key": "FCDM","name": "风车动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
+{"key": "FCDM","name": "风车┃动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
 
 {"key": "csp_xml_路人甲","name": "路人甲┃影视","type": 1,"api": "http://dytt996.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","短剧视频","海外剧","综艺","动漫" ] },
 
-{"key": "PT","name": "葡萄剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
+{"key": "PT","name": "葡萄┃剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 
 {"key":"MTV转点播","name": "🎶万首| MTV","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/lf_live_min.js","ext":"https://agit.ai/Yemaozhi123/lng/raw/branch/master/mv.txt"},	  
 
