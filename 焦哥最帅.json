@@ -14,7 +14,7 @@
 
 {"key": "360","name": " 360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
-{"key": "SBB","name": "素白白","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url":"https://m.jubaibaic.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}},
+{"key": "SBB","name": "♈素白白┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url":"https://m.jubaibaic.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}},
 
 {"key": "yp","name": "🔥YP┃影视","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
