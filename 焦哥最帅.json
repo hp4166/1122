@@ -38,7 +38,7 @@
 
 {"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fty.jar"},
 
-{"key": "FCDM","name": "风车┃动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
+{"key": "FCDM","name":"🎢风车┃动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
 
 {"key": "csp_xml_路人甲","name":"🐢路人甲┃影视","type": 1,"api": "http://dytt996.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","短剧视频","海外剧","综艺","动漫" ] },
 
