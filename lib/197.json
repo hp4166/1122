@@ -1,5 +1,5 @@
-﻿{
-"spider":"http://ftp6587998.host131.sanfengyun.cn/tvbox/jar/Yoursmile2.jar",
+{
+"spider":"./jar/Yoursmile2.jar",
 "lives": [{"name": "live","type": 0,"url": "","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
