@@ -16,7 +16,7 @@
 
 {"key":"JMTV","name":"金曼TV1","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#剧集$2#综艺$4#动漫$3#电影解说$20","分类url":"https://jinmantv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"},"jar":"./jar/xm.jar"},
 
-{"key":"NAKAN","name":"耐看点播","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://www.nkvod.com/nk/-------------.html?wd={wd}","分类":"电影$1#连续剧$2#综艺$29#动漫$3","分类url":"https://www.nkvod.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},"jar":"./jar/xm.jar"},
+{"key":"NAKAN","name":"耐看点播","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://www.nkvod.com/nk/-------------.html?wd={wd}","分类":"电影$1#连续剧$2#综艺$29#动漫$3","分类url":"https://www.nkvod.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},"搜索url":"https://www.nkvod.com/vse/-------------.html?wd={wd}"}},
 
 {"key": "yp","name": "🔥YP┃影视","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
