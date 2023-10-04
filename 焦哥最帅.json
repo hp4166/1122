@@ -16,7 +16,7 @@
 
 {"key": "360","name": " 360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
-{"key":"直播转点播","name":"直播转点播","type":3,"api":"csp_XBPQ","ext":"./lib/197.json","jar":"./jar/.jar"},
+{"key":"直播转点播","name":"直播转点播","type":3,"api":"csp_XBPQ","ext":"./lib/197.json","jar":"./jar/yoursmile2.jar"},
 
 {"key": "yp","name": "🔥YP","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
