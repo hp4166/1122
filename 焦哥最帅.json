@@ -48,7 +48,7 @@
 
 {"key":"MTV转点播","name": "🎶万首| MTV","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/lf_live_min.js","ext":"https://agit.ai/Yemaozhi123/lng/raw/branch/master/mv.txt"},	  
 
-{"key":"MV_vod","name":"字母┃点歌台","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
+{"key":"MV_vod","name":"🎤字母┃点歌台","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 
 {"key": "网飞","name":"🐼网飞┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
