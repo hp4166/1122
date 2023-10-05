@@ -40,11 +40,11 @@
 
 {"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fty.jar"},
 
-{"key": "FCDM","name":"🎢风车┃动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
+{"key": "FCDM","name":"🎡风车┃动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
 
 {"key": "csp_xml_路人甲","name":"🐢路人甲┃影视","type": 1,"api": "http://dytt996.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","短剧视频","海外剧","综艺","动漫" ] },
 
-{"key": "PT","name": "葡萄┃剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
+{"key": "PT","name":"🍇葡萄┃剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 
 {"key":"MTV转点播","name": "🎶万首| MTV","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/lf_live_min.js","ext":"https://agit.ai/Yemaozhi123/lng/raw/branch/master/mv.txt"},	  
 
@@ -62,7 +62,7 @@
 
 {"key": "xml_玩偶","name": "🎭玩偶┃妹妹（4K）","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"drpy_js_奇珍异兽","name":"✌爱奇艺┃影视","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/奇珍异兽.js"},
+{"key":"drpy_js_奇珍异兽","name":"🐼爱奇艺┃影视","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/奇珍异兽.js"},
 
 {"key":"drpy_js_优酷","name":"🐼优酷┃[js]","type":3,"api":"http://81.68.148.203/aytv/data/json/lib/drpy2.min.js","ext":"http://81.68.148.203/aytv/data/json/js/优酷.js"},
 
