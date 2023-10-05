@@ -52,7 +52,7 @@
 
 {"key": "网飞","name":"🐼网飞┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
-{"key":"yc","name":"🌌宇宙4K","type":3,"playerType":1,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|/alitoken.txt","jar":"./jar/honor.jar"},
+{"key":"yc","name":"🌌宇宙┃4K","type":3,"playerType":1,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|/alitoken.txt","jar":"./jar/honor.jar"},
 
 {"key": "探探","name": "🏵影探┃APP","type": 3,"playerType": "1","api": "csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext": "vip.lyyytv.cn","jar":"./jar/fty.jar"},
 
@@ -100,7 +100,7 @@
 
 {"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key": "csp_WoGG","name": "🔥玩偶☆业余版","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
+{"key": "csp_WoGG","name": "🔥玩偶┃业余版","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
 
 {"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666"},
 
