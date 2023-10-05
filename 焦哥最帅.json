@@ -18,57 +18,9 @@
 
 {"key": "yp","name": "🔥YP┃影视","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
-{
-            "key": "csp_XBPQ_好戏",
-            "name": "👶好戏☆影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://haoxi.vip/",
-                "简介": "简介：&&</li>",
-                "导演": "导演：&&</li>",
-                "主演": "主演：&&</li>",
-                "影片状态": "状态：&&</li>",
-                "影片类型": "类型：&&</li>",
-                "影片地区": "地区：&&</li>",
-                "影片年代": "年份：&&</li>",
-                "数组": "_self\" class=\"public-list-exp\"&&</div>",
-                "标题": "title=\"&&\"",
-                "副标题": "public-list-prb hide ft2\">&&</span>",
-                "图片": "data-src=\"&&\"",
-                "搜索url": "/vodsearch/-------------/?wd={wd}",
-                "搜索数组": "a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
-                "搜索标题": "<a target=\"_self\" href= >&&</a >",
-                "搜索副标题": "public-list-prb hide ft2\">&&</span>",
-                "搜索图片": "data-src=\"&&\"",
-                "线路数组": "<i class=\"fa ds-dianying\">&&</a >",
-                "线路标题": "</i>&&</span>",
-                "播放数组": "<ul class=\"anthology-list-play size\"&&</ul>",
-                "播放标题": ">&&</a >",
-                "播放列表": "<li&&</li>",
-                "线路二次截取": "<div class=\"swiper-wrapper\"&&</div>",
-                "分类url": "https://www.haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
-                "分类": "电影$1#连续剧$2#综艺$3#动漫$4#B站$5#电影解说$43"
-      }
-},
+{"key": "timizy","name": "🔞甜蜜资源","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": "2"},
 
-{
-      "key": "timizy",
-      "name": "🔞甜蜜资源",
-      "type": 1,
-
-      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": "2"
-},
-
-{"key":"奇优","name":"️奇优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html","分类":"伦理$6"}},
+{"key":"奇优","name":"️奇优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html","分类":"伦理$6"},"jar":"./jar/XYQ.jar"},
 
 {"key": "色窝","name": "色窝","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 1,"playUrl":"https://player.sewojx.com/m3u8/?url="}
 
