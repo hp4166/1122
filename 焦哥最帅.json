@@ -55,7 +55,25 @@
       }
 },
 
+{
+      "key": "timizy",
+      "name": "🔞甜蜜资源",
+      "type": 1,
+
+      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "2"
+},
+
 {"key":"奇优","name":"️奇优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html","分类":"伦理$6"}},
+
+{"key": "色窝","name": "色窝","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 1,"playUrl":"https://player.sewojx.com/m3u8/?url="}
+
+{"key": "jszy","name": "🌍极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,
+ "categories":["惊悚片", "犯罪片", "冒险片", "动作片", "科幻片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "战争片", "悬疑片", "剧情片", "记录片", "港台剧", "欧美剧"]}, 
 
 {"key":"土豪","name":"🪐土豪┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#B站国漫$49#B站番$51#综艺$4","图片":"src=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","搜索url":"https://www.tuhao.tv/vse/-------------.html?wd={wd}"}},
 
