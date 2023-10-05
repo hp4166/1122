@@ -52,7 +52,7 @@
 
 {"key": "网飞","name":"🐼网飞┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/网飞.TV.js"},
 
-{"key":"yc","name":"宇宙4K","type":3,"playerType":1,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|/alitoken.txt","jar":"./jar/honor.jar"},
+{"key":"yc","name":"🌌宇宙4K","type":3,"playerType":1,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|/alitoken.txt","jar":"./jar/honor.jar"},
 
 {"key": "探探","name": "🏵影探┃APP","type": 3,"playerType": "1","api": "csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext": "vip.lyyytv.cn","jar":"./jar/fty.jar"},
 
@@ -84,7 +84,7 @@
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
-{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
+{"key": "萌猫","name": "😻萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "xiaoya","name":🐼"小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
 
