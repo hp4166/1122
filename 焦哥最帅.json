@@ -86,7 +86,7 @@
 
 {"key": "萌猫","name": "😻萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
-{"key": "色窝","name": "👄色窝┃直连","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 1,"playUrl":"https://player.sewojx.com/m3u8/?url="},
+{"key": "色窝","name": "👄爱神┃直连","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 1,"playUrl":"https://player.sewojx.com/m3u8/?url="},
 
 {"key": "xiaoya","name":🐼"小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
 
