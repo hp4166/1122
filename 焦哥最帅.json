@@ -26,8 +26,6 @@
 
 {"key": "yp","name":"🔥YP┃影视","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
-{"key":"api.maozyapi.com","name":"数字影院1","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
-
 {"key": "drpy_js_moflix影视","name":"Ⓜ️moflix┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/moflix.js"},
 
 {"key":"土豪","name":"🪐土豪┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#B站国漫$49#B站番$51#综艺$4","图片":"src=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","搜索url":"https://www.tuhao.tv/vse/-------------.html?wd={wd}"}},
@@ -97,6 +95,8 @@
 {"key": "萌猫","name": "😻萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "色窝","name": "👄爱神┃直连","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 1,"playUrl":"https://player.sewojx.com/m3u8/?url="},
+
+{"key":"api.maozyapi.com","name":"👄爱神2┃直连","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
 
 {"key": "xiaoya","name":🐼"小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
 
