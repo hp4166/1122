@@ -18,6 +18,14 @@
 
 {"key": "csp_345KP","name": "🔥看片┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>[替换:播放线路>>传说接口→线路]","分类url":"https://www.345kp.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4","筛选":"1","免嗅":"1"}},
 
+{"key": "奇奇","name": "🐭┃迷迷┃影视","type": 3,"api": "csp_AppYsV2","playerType": "2","ext": "http://www.miniku.cc/xgapp.php/v1/","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key": "csp_快车资源","name": "🦄快车┃资源","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","playurl": "json:https://jiexi.kczyapi.com/m3u8/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","纪录片"]},
+
+{ "key": "csp_XBPQ_miniju", "name": "️短剧", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html", "分类": "短剧$20" } },
+
+{"key":"VSYY","name":"VS影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}},
+
 {"key":"布蕾影视","name":"👶布蕾☆影视","type":3,"api":"csp_Appto","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","playerType":2,"ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ=="},
 
 {"key":"极珀","name":"极珀┃影视","type":1,"api":"https://jipo.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["电影解说","足球","篮球","动作片","动画片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","短片","家庭片","古装片","历史片","记录片","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日本动漫","欧美动漫"] },
@@ -146,6 +154,8 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
 {"name": "web聚合","type": 3,"url": "Web"},
+
+{"name":"锦哥解析","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 
 {"name": "4K视界","type": 1,"url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="},
 
