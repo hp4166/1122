@@ -120,11 +120,8 @@
 
 {"key":"MV_vod","name":"🎤字母┃点歌台","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 
-{"key": "色窝","name": "👄爱神┃直连","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 1,"playUrl":"https://player.sewojx.com/m3u8/?url="},
 
-{"key":"api.maozyapi.com","name":"👄爱神2┃直连","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
-
-{"key":"Hdhive","name":"阿里|影巢","type":3,"api":"csp_Hdhive","ext":"$$$socks5://192.168.101.1:1080","jar":"./jar/fm.nogo3.jar","jar":"./jar/fm3.jar"},
+{"key":"Hdhive","name":"影巢┃网盘","type":3,"api":"csp_Hdhive","ext":"$$$socks5://192.168.101.1:1080","jar":"./jar/fm.nogo3.jar","jar":"./jar/fm3.jar"},
 
 {"key": "xiaoya","name":🐼"小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
 
