@@ -14,19 +14,19 @@
 
 {"key": "360","name":"🐼360┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/360影视.js"},
 
-{"key": "js_v2-yj","name": "🍎苹果","type": 3,"api": "./lib/drpy2.js","ext": "./js/小苹果.js"},
+{"key": "js_v2-yj","name": "🍎苹果┃[js]","type": 3,"api": "./lib/drpy2.js","ext": "./js/小苹果.js"},
 
-{"key": "csp_345KP","name": "看片┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>[替换:播放线路>>传说接口→线路]","分类url":"https://www.345kp.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4","筛选":"1","免嗅":"1"}},
+{"key": "csp_345KP","name": "🔥看片┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>[替换:播放线路>>传说接口→线路]","分类url":"https://www.345kp.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4","筛选":"1","免嗅":"1"}},
 
 {"key":"布蕾影视","name":"布蕾┃影视","type":3,"api":"csp_Appto","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","playerType":2,"ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ=="},
 
 {"key":"极珀","name":"极珀┃影视","type":1,"api":"https://jipo.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["电影解说","足球","篮球","动作片","动画片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","短片","家庭片","古装片","历史片","记录片","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日本动漫","欧美动漫"] },
 
-{"key": "影视觉","name": " 新视觉|影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.6080yy3.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3"}},
+{"key": "影视觉","name": "🔥新视觉|影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.6080yy3.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3"}},
 
 {"key": "csp_好戏影视","name": "好戏≛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/好戏影视.json"},
  
-{"key": "SBB","name": "♈素白白┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url":"https://m.jubaibaic.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}},
+{"key": "SBB","name": "🔥素白白┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url":"https://m.jubaibaic.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}},
 
 {"key":"蜗牛","name":"🐌蜗牛┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"class=\"video-info-item video-info-content vod_content\">&&</span>","数组":"class=\"module-item-text\"&&class=\"loading\"","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","副标题": " class=\"module-item-text\">&&</div>","分类":"电影$1#日韩剧$21#海外剧$2#动漫$20","分类url":"https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
 
