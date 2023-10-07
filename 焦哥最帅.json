@@ -46,7 +46,7 @@
 "战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说",
 "国产动漫"]},
 
-{"key": "xml_玩偶","name": "🎭玩偶┃HDR","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "xml_玩偶","name": "🎭玩偶┃4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "drpy_js_moflix影视","name":"Ⓜ️moflix┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/moflix.js"},
 
