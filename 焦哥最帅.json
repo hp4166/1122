@@ -94,7 +94,9 @@
 
 { "key": "天空资源","name": "🎀天空┃采集","type": 1,  "api": "https://api.tiankongapi.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["国产剧", "剧情片","大陆综艺","动作片" ] },
 
- {"key": "cjzy_无尽资源","name": "🐼无尽┃采集","type": 1,"api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["电影", "连续剧","综艺","动漫","体育赛事","影视解说" ] },
+{"key": "cjzy_无尽资源","name": "🐼无尽┃采集","type": 1,"api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list"},
+
+{"key": "cjzy_无尽资源","name": "🐼卧龙┃资源","type": 1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
