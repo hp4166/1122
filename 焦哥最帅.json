@@ -96,7 +96,7 @@
 
 {"key": "cjzy_无尽资源","name": "🐼无尽┃采集","type": 1,"api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list"},
 
-{"key": "cjzy_无尽资源","name": "🐼卧龙┃资源","type": 1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list"},
+{"key": "cjzy_卧龙资源","name": "🐼卧龙┃资源","type": 1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
