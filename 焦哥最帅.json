@@ -20,9 +20,7 @@
 
 {"key": "影视觉","name": " 新视觉|影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.6080yy3.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3"}},
 
-{"key":"酷影","name":"酷影┃影视","type":3,"api":"http://ck.realdou.cn/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ck.realdou.cn/JS/js/酷影蓝光.js","jar":"./jar/XYQ.jar"},
-
-{"key": "csp_好戏影视","name": "好戏≛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/好戏影视.js"},
+{"key": "csp_好戏影视","name": "好戏≛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/好戏影视.json"},
     
 {"key": "SBB","name": "♈素白白┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url":"https://m.jubaibaic.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}},
 
