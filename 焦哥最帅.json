@@ -40,6 +40,10 @@
 
 {"key": "me_qq","name": "1080P站-D","type": 1,"playerType": 2,"api": "http://119.91.31.224:89/itvbox/qq.php","searchable": 1,"quickSearch": 1},
 
+{"key": "索尼","name": "4KHDR站-C","type": 1,"playerType": 2,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片",
+"战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说",
+"国产动漫"]},
+
 {"key": "drpy_js_moflix影视","name":"Ⓜ️moflix┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/moflix.js"},
 
 {"key":"土豪","name":"🪐土豪┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#B站国漫$49#B站番$51#综艺$4","图片":"src=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","搜索url":"https://www.tuhao.tv/vse/-------------.html?wd={wd}"}},
