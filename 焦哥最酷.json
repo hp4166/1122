@@ -595,14 +595,6 @@
       "ext": "./json/虎虎.json"
     },
     {
-      "key": "小鹿",
-      "name": "🦌小鹿┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/小鹿.json",
-      "jar": "./jar/xm.jar"
-    },
-    {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
       "type": 3,
@@ -618,7 +610,8 @@
 	    "type": 3,
 	    "api": "csp_XBPQ",
 	    "playerType": "1",
-	    "ext": "./json/萌猫.json"
+	    "ext": "./json/萌猫.json",
+      "jar": "./jar/xm.jar"
     },  
     {
       "key": "007",
@@ -640,7 +633,8 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "./json/素白白.json"
+      "ext": "./json/素白白.json",
+      "jar": "./jar/xm.jar"
     },
     {
       "key": "腾讯",
