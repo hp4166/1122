@@ -599,7 +599,7 @@
       "name": "🦌小鹿┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/小鹿.json"
+      "ext": "./json/小鹿.json",
       "jar": "./jar/xm.jar"
     },
     {
