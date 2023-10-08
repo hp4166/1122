@@ -578,16 +578,6 @@
       "ext": "./json/来米.json"
     },
     {
-      "key": "玉米",
-      "name": "🌽玉米┃切片",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
-    },
-    {
       "key": "虎虎",
       "name": "🐯Tiger┃TV",
       "type": 3,
@@ -603,15 +593,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/freeok.json"
-    },
-    {
-      "key": "萌猫",
-	    "name": "🐼萌猫┃影视",
-	    "type": 3,
-	    "api": "csp_XBPQ",
-	    "playerType": "1",
-	    "ext": "./json/萌猫.json",
-      "jar": "./jar/xm.jar"
     },  
     {
       "key": "007",
@@ -626,15 +607,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/北川.json"
-    },
-    {
-      "key": "素白",
-      "name": "♈素白白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./json/素白白.json",
-      "jar": "./jar/xm.jar"
     },
     {
       "key": "腾讯",
