@@ -174,17 +174,6 @@
       "ext": "http://v.aaaa0.top:2525/api.php/app/"
     },
     {
-      "key": "奇奇",
-      "name": "🍓奇奇┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/",
-      "jar": "./jar/xm3.jar"
-    },
-    {
       "key": "csp_YYDS",
       "name": "📽️YYDS┃BPQ",
       "type": 3,
@@ -342,26 +331,6 @@
       "ext": "http://yycms.77ev.cn/api.php/app/"
     },
     {
-      "key": "光影猫",
-      "name": "📶光影┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://gymcms.xn--654a.cc/api.php/app/"
-    },
-    {
-	    "key": "1080a",
-	    "name": "🎦HD┃A-站",
-	    "type": 3,
-	    "api": "csp_AppYsV2",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1,
-	    "ext": "http://154.12.90.7:85/api.php/app/"
-    },
-    {  
       "key":"EMO",
       "name":"✨EMO┃蓝光",
       "type":3,
@@ -369,36 +338,8 @@
       "ext":"http://one3.emofun.top/mogai_api.php/v1.vod"
     },
     {
-	    "key": "1080b",
-	    "name": "🎦HD┃B-站",
-	    "type": 3,
-	    "api": "csp_AppYsV2",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1,
-	    "ext": "https://tv.iptv.ski/api.php/app/"
-    },
-    {
-	    "key": "me_qq",
-	    "name": "🎦HDR┃C-站",
-	    "type": 1,
-	    "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
-	    "searchable": 1,
-	    "quickSearch": 1
-    },
-    {
-	    "key": "MX",
-	    "name": "🎦HDR┃D-站",
-	    "type": 3,
-	    "api": "csp_AppYsV2",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1,
-	    "ext": "http://154.12.90.7:86/api.php/app/"
-    },
-    {
 	    "key": "yc",
-	    "name": "🎦HDR┃E-站",
+	    "name": "🎦HDR┃B-站",
 	    "type": 3,
       "playerType": 1,
 	    "api": "csp_Hdhive",
@@ -407,20 +348,6 @@
 	    "filterable": 0,
 	    "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
 	    "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-    {
-      "key": "csp_熊猫",
-      "name": "📽️熊猫┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/熊猫.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
     },
     {
       "key": "555", 
@@ -433,36 +360,6 @@
       "ext": "https://555dy3.com/api.php/app/"
     },
     {   
-      "key": "chiguafilm",
-      "name": "😎吃瓜┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.chiguafilm.com/api.php/v1.vod"
-    },  
-    {
-      "key": "hoho",
-      "name": "😎HOHO┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://hoho.tv/api.php/app/"
-    },
-    {
-      "key": "lggys",
-      "name": "😎落攻阁┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.lggys.cn/api.php/app/"
-    },
-    {
       "key": "baoxian",
       "name": "😎宝仙┃App",
       "type": 3,
@@ -656,17 +553,7 @@
       "api": "csp_XYQHiker",
       "playerType": "1",
       "ext": "./json/电影港.json",
-      "jar": "./jar/xyq.jar"
-    },
-    {
-      "key": "路人",
-      "name": "🚶路人┃秒播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "探探",
@@ -688,7 +575,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/热播.json",
-      "jar": "./jar/xyq.jar"
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "来米影视",
@@ -720,6 +607,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/子子.json"
+      "jar": "./jar/xm.jar"
     },
     {
       "key": "虎虎",
