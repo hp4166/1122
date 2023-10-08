@@ -65,7 +65,7 @@
 	    "quickSearch": 1,
 	    "filterable": 1,
 	    "ext": "./json/骚火电影.json",
-      "jar": "./jar/xyq.jar"
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "SNzy",
