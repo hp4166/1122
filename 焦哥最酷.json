@@ -544,7 +544,7 @@
       "api": "csp_XYQHiker",
       "playerType": 1,
       "ext": "./json/6v.json",
-      "jar": "./jar/xyq.jar"
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "电影港",
@@ -606,7 +606,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/子子.json"
+      "ext": "./json/子子.json",
       "jar": "./jar/xm.jar"
     },
     {
