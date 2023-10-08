@@ -76,7 +76,7 @@
 
 {"key": "爱迪影视","name": "💘┃爱迪┃影视","type": 3,"playerType": "2","api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
 
-{"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fty.jar"},
+{"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.cz01.pro/"},
 
 {"key": "FCDM","name":"🎡风车┃动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.dm3.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "动漫电影$dongmandianying#国产动漫$guochandongman#欧美动漫$omeidongman#日本动漫$ribendongman"}},
 
