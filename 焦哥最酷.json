@@ -567,17 +567,6 @@
       "ext": "http://vip.lyyytv.cn/api.php/app/"
     },
     {
-      "key": "热播之家",
-      "name": "🔥热播┃之家",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/热播.json",
-      "jar": "./jar/XYQ.jar"
-    },
-    {
       "key": "来米影视",
       "name": "🌾来米┃影视",
       "type": 3,
@@ -599,17 +588,6 @@
       "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
     },
     {
-      "key": "子子影视",
-      "name": "➰子子┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/子子.json",
-      "jar": "./jar/xm.jar"
-    },
-    {
       "key": "虎虎",
       "name": "🐯Tiger┃TV",
       "type": 3,
@@ -622,6 +600,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/小鹿.json"
+      "jar": "./jar/xm.jar"
     },
     {
       "key": "csp_Free",
