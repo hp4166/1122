@@ -42,6 +42,8 @@
 
 {"key": "小猫咪","name":"💘小猫咪┃影视","type": 1,"playerType": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"},
 
+{"key": "49","name":"💘49┃影视","type": 1,"playerType": 1,"api": "https://49zyw.com/api.php/provide/vod/"},
+
 {"key":"drpy_js_两个BT","name":"1080P站-A","type":3,"api":"http://106.52.241.21:81/JS/lib/drpy2.min.js","ext":"http://106.52.241.21:81/JS/js/两个BT.js"},
 
 {"key": "厂长","name": "1080P站-B","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/cz.json"},
