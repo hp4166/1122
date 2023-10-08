@@ -57,17 +57,6 @@
       }
     },
     {
-	    "key": "csp_XYQBiu_骚火VIP",
-	    "name": "👶骚火┃VIP",
-	    "type": 3,
-	    "api": "csp_XYQBiu",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1,
-	    "ext": "./json/骚火电影.json",
-      "jar": "./jar/XYQ.jar"
-    },
-    {
       "key": "SNzy",
       "name": "🐲索尼┃资源",
       "type": 1,
@@ -87,18 +76,6 @@
 	    "filterable": 1,
 	    "ext": "https://www.6080yy3.com/",
       "jar": "./jar/fty.jar"
-    },
-    {
-      "key": "csp_AucFox",
-      "name": "📽️AucFox┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名":"AucFox影视",
-        "主页url": "https://www.aucfox.fun/",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",
-        "分类url": "https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-      }
     },
     {
         "key": "maolv_open",
@@ -204,7 +181,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
+      "ext": "http://mp4.ghlyys.com/api.php/app/",
+      "jar": "./jar/fty.jar"
     },
     {
       "key": "csp_YYDS",
