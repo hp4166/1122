@@ -10,9 +10,9 @@
 
 {"key": "豆瓣","name": "有缘江湖再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"aoao","name":"嗷嗷┃影视","type":3,"api":"https://jihulab.com/ajin0913/JTV/-/raw/master/lib/drpy2.min.js","ext":"https://jihulab.com/ajin0913/JTV/-/raw/master/js/aoao.js"},
+{"key":"aoao","name":"嗷嗷┃影视","type":3,"api":"https://jihulab.com/ajin0913/JTV/-/raw/master/lib/drpy2.min.js","ext":"https://jihulab.com/ajin0913/JTV/-/raw/master/js/aoao.js","jar": "./jar/xm8.jar"},
 
-{"key":"热剧猫","name":"热剧猫┃影视","type":3,"api":"https://jihulab.com/ajin0913/JTV/-/raw/master/lib/drpy2.min.js","ext":"https://jihulab.com/ajin0913/JTV/-/raw/master/js/%E7%83%AD%E5%89%A7%E7%8C%AB.js"},
+{"key":"sohu","name":"🦊搜狐┃(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
 {"key":"csp_appysv2_影库","name":"影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
