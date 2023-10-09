@@ -38,9 +38,6 @@
 {"key": "时常影视","name": "时常影视","type": 3,"api": "csp_SC1080","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": ""
 ,"jar": "./jar/fix1009.jar"},
 
-{"key": "HDMOLI","name": "HDMOLI","api": "csp_HDMOLI","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""
-,"jar": "./jar/fix1009.jar"},
-
 {"key": "Bdys_spider","name": "哔滴影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "./jar/fix1009.jar"},
 
 {"key": "NoSearch_csp_DiDuan","name": "低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0,"jar": "./jar/fix1009.jar"},
@@ -62,17 +59,13 @@
 
 {"key": "NoSearch_csp_BBB","name": "哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.qiaoji8.com/tvbox/bili.json","jar": "./jar/fix1009.jar"},
 
-{"key": "NoSearch_Yj1211_spider","name": "直播聚合","api": "csp_Yj1211","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"jar": "./jar/fix1009.jar"},
-
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "./jar/fix1009.jar"},
-
 {"key": "Music_spider","name": "音乐欣赏","api": "csp_Music","type": 3,"filterable": 0,"quickSearch": 1,"searchable": 1,"ext": "","jar": "./jar/fix1009.jar"},
 
 {"key":"MTV转点播","name": "🎶万首| MTV","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/lf_live_min.js","ext":"https://agit.ai/Yemaozhi123/lng/raw/branch/master/mv.txt"},	  
 
 {"key":"MV_vod","name":"🎤字母┃点歌台","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 
-{"key":"Hdhive","name":"影巢┃网盘","type":3,"api":"csp_Hdhive","ext":"$$$socks5://192.168.101.1:1080","jar":"./jar/fm.nogo3.jar","jar":"./jar/fm3.jar"},
+{"key":"Hdhive","name":"影巢┃网盘","type":3,"api":"csp_Hdhive","ext":"$$$socks5://192.168.101.1:1080","jar":"./jar/fm3.jar"},
 
 {"key": "xiaoya","name":🐼"小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
 
