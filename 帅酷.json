@@ -16,7 +16,6 @@
 
 {"key": "mino4K","name": "mino4K","type": 3,"api": "csp_Appto","ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix1009.jar"},
 
-
 {"key":"csp_appysv2_月儿影视","name":"月儿影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
 
 {"key":"csp_appysv2_鑫总资源","name":"鑫总资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
