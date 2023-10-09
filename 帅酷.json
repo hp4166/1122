@@ -8,7 +8,7 @@
 
 "sites":[
 
-{"key":"csp_appysv2_影库","name":"影库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_影库","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key":"csp_appysv2_月儿影视","name":"月儿影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
 
