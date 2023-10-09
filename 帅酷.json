@@ -18,12 +18,6 @@
 
 {"key": "追忆影视","name": "追忆影视","type": 3,"api": "csp_Appto","ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar": "./jar/fix1009.jar"},
 
-{"key": "橘子影视","name": "橘子影视","type": 3,"api": "csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3DBTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE","jar": "./jar/fix1009.jar"},
-
-{"key": "喵喵影视","name": "喵喵影视","type": 3,"api": "csp_Appto","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3DBNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE=","jar": "./jar/fix1009.jar"},
-
-{"key": "布蕾影视","name": "布蕾影视","type": 3,"api": "csp_Appto","ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3DKMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6OTk4OC9hcHB0by92MQ","jar": "./jar/fix1009.jar"},
-
 {"key": "yqikan","name": "一起看","type": 3,"api": "csp_YQKAPP","ext": "https://api-aws.ctdy.cc"},
 
 {"key": "JianPian","name": "荐片[边下边播]","type": 3,"api": "csp_JianPian","jar": "./jar/fix1009.jar"},
@@ -45,7 +39,7 @@
 ,"jar": "./jar/fix1009.jar"},
 
 {"key": "HDMOLI","name": "HDMOLI","api": "csp_HDMOLI","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""
-},
+,"jar": "./jar/fix1009.jar"},
 
 {"key": "Bdys_spider","name": "哔滴影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "./jar/fix1009.jar"},
 
