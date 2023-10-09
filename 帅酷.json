@@ -10,7 +10,7 @@
 
 {"key": "豆瓣","name": "有缘江湖再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"aoao","name":"嗷嗷┃影视","type":3,"api":"https://jihulab.com/ajin0913/JTV/-/raw/master/lib/drpy2.min.js","ext":"https://jihulab.com/ajin0913/JTV/-/raw/master/js/aoao.js","jar": "./jar/xm8.jar"},
+{"key": "xh","name": "xh┃影视","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
 {"key":"sohu","name":"🦊搜狐┃(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
