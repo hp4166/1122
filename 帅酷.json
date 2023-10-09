@@ -57,79 +57,22 @@
 
 {"key": "快看影视","name": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 
-{"key": "360_spider","name": "360影视""api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""
+{"key": "360_spider","name": "360影视","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""
 },
 
-    {
-      "key": "ZXZJ",
-      "name": "在线之家",
-      "api": "csp_Zxzj",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "NoSearch_csp_BBB",
-      "name": "哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.qiaoji8.com/tvbox/bili.json"
-    },
-    {
-      "key": "NoSearch_Yj1211_spider",
-      "name": "直播聚合",
-      "api": "csp_Yj1211",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
-    },
-    {
-      "key": "Music_spider",
-      "name": "音乐欣赏",
-      "api": "csp_Music",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
+{"key": "ZXZJ","name": "在线之家","api": "csp_Zxzj","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
+
+{"key": "csp_CZSPP","name": "厂长资源","type": 3,"api": "csp_Czsapp","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0},
+
+{"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
+
+{"key": "NoSearch_csp_BBB","name": "哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.qiaoji8.com/tvbox/bili.json"},
+
+{"key": "NoSearch_Yj1211_spider","name": "直播聚合","api": "csp_Yj1211","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1},
+
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+
+{"key": "Music_spider","name": "音乐欣赏","api": "csp_Music","type": 3,"filterable": 0,"quickSearch": 1,"searchable": 1,"ext": ""},
 
 {"key":"MTV转点播","name": "🎶万首| MTV","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/lf_live_min.js","ext":"https://agit.ai/Yemaozhi123/lng/raw/branch/master/mv.txt"},	  
 
