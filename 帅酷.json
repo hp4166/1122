@@ -36,9 +36,9 @@
 
 {"key": "yqikan","name": "一起看┃影视","type": 3,"api": "csp_YQKAPP","ext": "https://api-aws.ctdy.cc"},
 
-{"key": "JianPian","name": "荐片磁力┃慎用","type": 3,"api": "csp_JianPian","jar": "./jar/fix1009.jar"},
+{"key": "JianPian","name": "荐片┃磁力","type": 3,"api": "csp_JianPian","jar": "./jar/fix1009.jar"},
 
-{"key": "Dygang","name": "电影港磁力┃慎用","type": 3,"api": "csp_Dygang","jar": "./jar/fix1009.jar"},
+{"key": "Dygang","name": "电影港┃磁力","type": 3,"api": "csp_Dygang","jar": "./jar/fix1009.jar"},
 
 {"key": "米酷视频","name": "米酷┃视频","type": 3,"api": "csp_DDMJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://43.248.129.116:6688","jar": "./jar/fix1009.jar"},
 
