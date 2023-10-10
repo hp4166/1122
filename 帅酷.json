@@ -12,11 +12,19 @@
 
 {"key": "酷玩","name": "酷玩┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
 
-{"key": "酷玩","name": "酷玩┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
+{"key": "酷玩","name": "达达龟┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/达达龟.js"},
 
-{"key": "酷玩","name": "┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/.js"},
+{"key": "酷玩","name": "酷影┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"},
 
 {"key": "酷","name": "骚火┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/骚火电影.js"},
+
+{"key": "酷玩","name": "聚合┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/聚合.js"},
+
+{"key": "酷玩","name": "影探┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
+
+{"key": "酷玩","name": "荐片┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"},
+
+{"key": "酷玩","name": "直播转点播┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/直播转点播.js"},
 
 {"key": "xh","name": "xh┃资源","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
