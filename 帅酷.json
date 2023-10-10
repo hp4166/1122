@@ -26,13 +26,13 @@
 
 {"key": "光速","name": "光速┃资源","type": 1,"playerType": 1,"api": "  https://api.guangsuapi.com/api.php/provide/vod/from"},
 
-{"key":"sohu","name":"🦊搜狐┃(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+{"key":"sohu","name":"🦊搜狐┃秒播","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
 {"key":"csp_appysv2_影库","name":"影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key": "mino4K","name": "mino┃4K","type": 3,"api": "csp_Appto","ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar": "./jar/fix1009.jar"},
 
-{"key": "追忆影视","name": "追忆┃影视","type": 3,"api": "csp_Appto","ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar": "./jar/fix1009.jar"},
+{"key": "追忆","name": "追忆┃影视","type": 3,"api": "csp_Appto","ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar": "./jar/fix1009.jar"},
 
 {"key": "yqikan","name": "一起看┃影视","type": 3,"api": "csp_YQKAPP","ext": "https://api-aws.ctdy.cc"},
 
@@ -40,18 +40,18 @@
 
 {"key": "Dygang","name": "电影港┃磁力","type": 3,"api": "csp_Dygang","jar": "./jar/fix1009.jar"},
 
-{"key": "米酷视频","name": "米酷┃视频","type": 3,"api": "csp_DDMJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://43.248.129.116:6688","jar": "./jar/fix1009.jar"},
+{"key": "米酷","name": "米酷┃视频","type": 3,"api": "csp_DDMJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://43.248.129.116:6688","jar": "./jar/fix1009.jar"},
 
-{"key": "蚂蚁视频","name": "蚂蚁┃视频","type": 3,"api": "csp_Mayiys","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://rzys.xyz","jar": "./jar/fix1009.jar"},
+{"key": "蚂蚁","name": "蚂蚁┃视频","type": 3,"api": "csp_Mayiys","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://rzys.xyz","jar": "./jar/fix1009.jar"},
 
-{"key": "看看视频","name": "看看┃视频","type": 3,"api": "csp_KanKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/fix1009.jar"},
+{"key": "看看","name": "看看┃视频","type": 3,"api": "csp_KanKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/fix1009.jar"},
 
-{"key": "南瓜影视","name": "南瓜┃影视","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": ""
+{"key": "南瓜","name": "南瓜┃影视","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": ""
 ,"jar": "./jar/fix1009.jar"},
 
 {"key": "EMO","name": "EMO┃蓝光","type": 3,"api": "csp_AppYsV2","ext": "http://one3.emofun.top/mogai_api.php/v1.vod","jar": "./jar/fix1009.jar"},
 
-{"key": "时常影视","name": "时常┃影视","type": 3,"api": "csp_SC1080","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": ""
+{"key": "时常","name": "时常┃影视","type": 3,"api": "csp_SC1080","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": ""
 ,"jar": "./jar/fix1009.jar"},
 
 {"key": "Bdys_spider","name": "哔滴┃影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "./jar/fix1009.jar"},
@@ -60,7 +60,7 @@
 
 {"key": "Lezhu_spider","name": "乐猪┃影视","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "","jar": "./jar/fix1009.jar"},
 
-{"key": "快看影视","name": "快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"jar": "./jar/fix1009.jar"},
+{"key": "快看","name": "快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"jar": "./jar/fix1009.jar"},
 
 {"key": "360_spider","name": "360┃影视","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""
 ,"jar": "./jar/fix1009.jar"},
@@ -78,10 +78,6 @@
 {"key":"MTV转点播","name": "🎶万首| MTV","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/lf_live_min.js","ext":"https://agit.ai/Yemaozhi123/lng/raw/branch/master/mv.txt"},	  
 
 {"key":"MV_vod","name":"🎤字母┃点歌台","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
-
-{"key":"Hdhive","name":"影巢┃网盘","type":3,"api":"csp_Hdhive","ext":"$$$socks5://192.168.101.1:1080","jar":"./jar/fm3.jar"},
-
-{"key": "xiaoya","name":🐼"小雅丨网盘","type": 3,"api": "./js/xiaoya.js","filterable":1,"quickSearch":1,"changeable":0,"searchable":1,"ext": "http://192.168.2.111:4567/vod1/momo"},
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
