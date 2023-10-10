@@ -12,6 +12,12 @@
 
 {"key": "酷玩","name": "酷玩┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
 
+{"key": "酷玩","name": "酷玩┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
+
+{"key": "酷玩","name": "┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/.js"},
+
+{"key": "酷","name": "骚火┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/骚火电影.js"},
+
 {"key": "xh","name": "xh┃资源","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
 {"key": "红牛","name": "红牛┃资源","type": 1,"playerType": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"},
