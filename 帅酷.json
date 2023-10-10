@@ -10,7 +10,19 @@
 
 {"key": "豆瓣","name": "有缘江湖再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "xh","name": "xh┃影视","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
+{"key": "xh","name": "xh┃资源","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
+
+{"key": "红牛","name": "红牛┃资源","type": 1,"playerType": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"},
+
+{"key": "量子","name": "量子┃资源","type": 1,"playerType": 1,"api": " https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"},
+
+{"key": "开放","name": "开放┃资源","type": 1,"playerType": 1,"api": " https://vod-demo.onrender.com/pubdovod.php/"},
+
+{"key": "优质","name": "优质┃资源","type": 1,"playerType": 1,"api": "https://api.1080zyku.com/inc/api.php/provide/vod/"},
+
+{"key": "39","name": "39┃资源","type": 1,"playerType": 1,"api": "https://www.39kan.com/api.php/provide/vod/"},
+
+{"key": "乐活","name": "乐活┃资源","type": 1,"playerType": 1,"api": "https://lehootv.com/api.php/provide/vod/"},
 
 {"key":"sohu","name":"🦊搜狐┃(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
