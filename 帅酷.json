@@ -26,7 +26,7 @@
 
 {"key": "光速","name": "光速┃资源","type": 1,"playerType": 1,"api": "  https://api.guangsuapi.com/api.php/provide/vod/from"},
 
-{"key":"sohu","name":"🦊搜狐┃秒播","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+{"key":"sohu","name":"搜狐┃秒播","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
 {"key":"csp_appysv2_影库","name":"影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
