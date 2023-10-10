@@ -10,7 +10,7 @@
 
 {"key": "豆瓣","name": "有缘江湖再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "影探","name": "影探┃4K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
+{"key": "影探","name": "影探┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
 
 {"key": "xh","name": "xh┃资源","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
