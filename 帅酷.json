@@ -73,21 +73,21 @@
 
 {"key": "NoSearch_csp_BBB","name": "哔哩┃哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.qiaoji8.com/tvbox/bili.json","jar": "./jar/fix1009.jar"},
 
-{"key": "drpy_js_去看吧","name": "动漫 | 去看吧[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/去看吧.js"},
+{"key": "drpy_js_去看吧","name": "动漫 | 去看吧[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/去看吧.js","jar": "./jar/dz10.jar"},
 
-{"key": "drpy_js_咕噜咕噜","name": "动漫 | 咕噜咕噜[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜咕噜.js"},
+{"key": "drpy_js_咕噜咕噜","name": "动漫 | 咕噜咕噜[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜咕噜.js","jar": "./jar/dz10.jar"},
 
-{"key": "drpy_js_嘶哩嘶哩","name": "动漫 | 嘶哩嘶哩[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.js"},
+{"key": "drpy_js_嘶哩嘶哩","name": "动漫 | 嘶哩嘶哩[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.js","jar": "./jar/dz10.jar"},
 
-{"key": "drpy_js_奇米动漫","name": "动漫 | 奇米动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇米动漫.js"},
+{"key": "drpy_js_奇米动漫","name": "动漫 | 奇米动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇米动漫.js","jar": "./jar/dz10.jar"},
 
-{"key": "drpy_js_妮可动漫","name": "动漫 | 妮可动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/妮可动漫.js"},
+{"key": "drpy_js_妮可动漫","name": "动漫 | 妮可动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/妮可动漫.js","jar": "./jar/dz10.jar"},
 
-{"key": "drpy_js_怡萱动漫","name": "动漫 | 怡萱动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/怡萱动漫.js"},
+{"key": "drpy_js_怡萱动漫","name": "动漫 | 怡萱动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/怡萱动漫.js","jar": "./jar/dz10.jar"},
 
-{"key": "drpy_js_异世界动漫","name": "动漫 | 异世界动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/异世界动漫.js"},
+{"key": "drpy_js_异世界动漫","name": "动漫 | 异世界动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/异世界动漫.js","jar": "./jar/dz10.jar"},
 
-{"key": "drpy_js_omofun动漫","name": "动漫 | omofun动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/omofun动漫.js"},
+{"key": "drpy_js_omofun动漫","name": "动漫 | omofun动漫[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/omofun动漫.js","jar": "./jar/dz10.jar"},
 
 {"key": "Music_spider","name": "音乐┃欣赏","api": "csp_Music","type": 3,"filterable": 0,"quickSearch": 1,"searchable": 1,"ext": "","jar": "./jar/fix1009.jar"},
 
