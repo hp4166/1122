@@ -1,10 +1,10 @@
 {
-"作者":"小盒酷玩",
+"作者":"酷玩",
 "站名":"酷玩专用",
 "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
 "数组": "<a&&</a>",
 "图片": "src=\"&&\"",
-"标题": "class=\"card-title\">&&</p>[替换:线路1>>小盒酷玩]",
+"标题": "class=\"card-title\">&&</p>[替换:线路1>>酷玩]",
 "副标题": "class=\"item-speed\">&&</p>",
 "链接": "href=\"&&\"",
 "播放数组": "class=\"plyr-sidebar-list&&</div>",
