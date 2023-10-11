@@ -46,6 +46,8 @@
 
 {"key": "厂长","name": "1080P站-B","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/cz.json"},
 
+{"key": "348","name": "🔥348┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/348.json"},
+
 {"key": "YYCMSA","name": "1080P站-C","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yycms.77ev.cn/api.php/app/"},
 
 {"key": "me_qq","name": "1080P站-D","type": 1,"playerType": 2,"api": "http://119.91.31.224:89/itvbox/qq.php","searchable": 1,"quickSearch": 1},
