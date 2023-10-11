@@ -12,6 +12,8 @@
 
 {"key": "360","name":"🐼360┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
 
+{"key": "厂长","name":"厂长┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/厂长.js"},
+
 {"key": "js_v2-yj","name": "🍎苹果┃[js]","type": 3,"api": "./lib/drpy2.js","ext": "./js/小苹果.js"},
 
 {"key":"猫放","name":"🔥放猫┃影视","type":3,"api":"csp_XBPQ","ext":{"图片":"data-original=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"pic-text text-right\">&&</span>","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.mervod.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;u0m"}},
