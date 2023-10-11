@@ -12,7 +12,7 @@
 
 {"key": "360","name":"🐼360┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
 
-{"key": "厂长","name":"厂长┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/厂长.js"},
+{"key": "厂长","name":"厂子┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/厂长.js"},
 
 {"key": "js_v2-yj","name": "🍎苹果┃[js]","type": 3,"api": "./lib/drpy2.js","ext": "./js/小苹果.js"},
 
