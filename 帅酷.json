@@ -15,6 +15,90 @@
 {"key": "小蜗","name": "小蜗┃BPQ","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0","嗅探词": "xunlei.com#m3u8#.mp4","分类": "电影$1#电视剧$20#动漫$3#综艺$4","搜索模式": "1",
 "搜索url": "https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"}},
 
+{
+      "key": "热剧猫┃影视",
+      "name": "♻️热剧猫",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://v.aaaa0.top:2525/api.php/app/"
+},
+{
+      "key": "FirstAid",
+      "name": "🚑急救┃教学♻️",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+},
+{
+      "key": "csp_XBPQ_jubaibai",
+      "name": "剧白白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "站名": "剧白白影视",
+        "主页url": "https://m.jubaibaic.com/",
+        "简介": "mo-ptxs-0px\">&&</p>",
+        "主演": "主演:&&</li>",
+        "导演": "导演:&&</li>",
+        "影片类型": "类型：&&<span",
+        "影片年代": "年份：&&</div>",
+        "影片地区": "地区：&&<span",
+        "影片状态": "更新：&&</div>",
+        "数组": "video-item\">&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "notes\">&&</div>",
+        "链接": "href=\"&&\"",
+        "搜索url": "/vodsearch/-------------.html?wd={wd}",
+        "搜索数组": "<dl class=\"mo-deta-info mo-cols-rows\">&&</h1>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "<a href=*>&&</a>",
+        "搜索副标题": "mo-coxs-center\">&&</span>",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-bs-toggle=&&</li>",
+        "线路标题": "业余接口-+>&&</button>",
+        "播放数组": "playlist column\">&&</ul>",
+        "播放标题": ">&&</a>",
+        "播放列表": "<li&&</li>",
+        "分类url": "https://m.jubaibaic.com/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
+      }
+},
+{
+      "key": "csp_XBPQ_JOJO",
+      "name": "JOJO┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
+        "数组": "<a&&</a>",
+        "图片": "src=\"&&\"",
+        "标题": "class=\"card-title\">&&</p>",
+        "副标题": "class=\"item-speed\">&&</p>",
+        "链接": "href=\"&&\"",
+        "播放数组": "class=\"tabs-plyr-list\">&&</div>",
+        "嗅探词": "/ts/#/file/#.data.#.bin",
+        "过滤词": "m3u8",
+        "搜索url": "https://jiohub.top/video/search?q={wd}&pid=-qlDbwwDcZ8t1hJN7H0sGh36bnsUqsuyQ2drIL4zs0s=",
+        "分类": "电影$电影#国产$国产#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
+        "分类url": "https://jiohub.top/video/{cateId}?page={catePg}&size=18"
+      }
+},
+
 {"key":"豪华","name":"豪华┃资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","categories":["动画片","中国动漫","日本动漫","欧美动漫","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","内地剧","香港剧","欧美剧","韩剧","日剧","马泰剧","台湾剧","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
 
 {"key":"HLTV","name": "华乐┃影院","type": 3,"api": "csp_XBPQ","ext": {"图片":"data-src=\"&&\"","线路标题":"</i>&nbsp;&&</a >","分类url":"https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}},
