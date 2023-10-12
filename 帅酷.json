@@ -18,7 +18,7 @@
 
 {"key":"蜜蜂","name":"蜜蜂┃资源","type":1,"api":"https://www.beeyao.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","大陆综艺","国产动漫","日韩综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片","动画片","奇幻片","港台剧","欧美剧","日韩剧","其他剧"]},
 
-{"key": "xh","name": "xh┃资源","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
+{"key": "xh","name": "小胡┃资源","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
 {"key": "红牛","name": "红牛┃资源","type": 1,"playerType": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"},
 
