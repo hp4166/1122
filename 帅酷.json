@@ -26,7 +26,7 @@
 },
 {
       "key": "FirstAid",
-      "name": "🚑急救┃教学♻️",
+      "name": "🚑急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
