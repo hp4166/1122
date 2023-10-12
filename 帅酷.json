@@ -16,8 +16,8 @@
 "搜索url": "https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"}},
 
 {
-      "key": "热剧猫┃影视",
-      "name": "♻️热剧猫",
+      "key": "热剧猫",
+      "name": "热剧猫┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -67,7 +67,7 @@
         "搜索副标题": "mo-coxs-center\">&&</span>",
         "搜索链接": "href=\"&&\"",
         "线路数组": "data-bs-toggle=&&</li>",
-        "线路标题": "业余接口-+>&&</button>",
+        "线路标题": "酷玩接口-+>&&</button>",
         "播放数组": "playlist column\">&&</ul>",
         "播放标题": ">&&</a>",
         "播放列表": "<li&&</li>",
