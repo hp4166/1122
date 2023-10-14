@@ -14,7 +14,7 @@
 
 {
             "key": "布蕾┃影视",
-            "name": "布蕾┃影视",
+            "name":"布蕾┃影视",
             "type": 3,
             "api": "csp_Appto",
             "jar": "./jar/fix1013.jar",
