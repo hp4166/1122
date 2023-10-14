@@ -30,7 +30,10 @@
             "ext": "SgfqwZ7mXT9kHnNF5fEfBFRfJVGiy4+WwnapqG/NY3BxdbcjxuSmnXN/KMdKfEmAbW86nRfRRsx8wG3JuaVRwKtFGrTNs9GKFMjzDysgVx+vXROKpT7GgFNl6mjK8KYx2Cd9N8wv9vOboEhX87E2+ckvZL2uDPkYk9cW+IePzeeW7N1VrtZGAJ5s8cnPumrviNowWKczX9/9g3IUgNAchFGWS8MIHy2LHJ/Jj1upM3boVaFchNX3fkkXpdfPjIHoRSgjQ3AkFnS7tcqEno/ZHQexTvGGwDN760tqsJnQiOJgr6wl3DaOAZpfS75U+i5cpvHkX9cYjCMp7Q33fl5FhFiMZruipNxP3ujfF1Y2sKhANvz+fycqBzvJr5ogkLc1sPDw+St4uFsGkDnmAraX0zPzwwggknimRXeudT7TZz1fk8Pfuh1acXEju5g8H6XPzbsi8KcJskusAiIoPiu86apOh6wNcWuD13IDIfs0RXSn+AkD6ELJFa+hPa1UZ8BddfI0Cd+LV15gKaZg0eiKs9n4t8rasm6x4KpP/XBwYR/kzMIS6aYri42R37koBsuHChJkOdsaRjS0+xUNTuIN8aM9QOWBK4fmoU1f4qYW3Nf/sdICVIh0FflXgHO0NgfE9tenAPWDCtxZia8eo3C4JcR43a7wRgJf3HyA6zcIh7eOs74eDoak9b1wU82+EHNhec3XrkfzSoSpqUzqz2NMtPYe8RU+lRXAiS6xGU8Uq7fYBzLiw/LfCnfoMXPbsQuwGCCy5348lrN3MqK1v/WMxHY2/7iGEDgHZAs/YJ+0Visz0mULi4bau8BJ9z/VYTZ9O67XWYSpZTvMA55rIDee9OwMGqqgRFVYE4xiiSj8JYVHT0WwxSYkcZes5qBL3h6hcCWUZoUXoY3rvNkdweATQ/nvnD5+Z6hvX6eNP4yUJWvB4CwqCI5htdXwTFQH6sdJWOLVK+oQiicDS8Non9FbFfgI6dGG+W5p5reMIfFExV+MdpOs5QWqVaw8tMPEMqKnG"
    },
 
-   {"key":"MoMo","name":"陌陌┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"图片":"data-original=\"&&\"","链接":"href=\"&&\"","分类":"电影$dianying#连续剧$dianshiju#动漫$dongman#综艺$zongyi","分类url":"https://www.hbdfqc.com/ztshow/dianying{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/"}},
+   {"key":"MoMo","name":" 陌陌┃影院","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":{"图片":"data-original=\"&&\"","链接":"href=\"&&\"","分类":"电影$dianying#连续剧$dianshiju#动漫$dongman#动作$dongzuopian#喜剧$xijupian#科幻$kehuanpian#恐怖$kongbupian#爱情$aiqingpian#战争$zhanzhengpian#犯罪$fanzuipian#电影漫$donghuadianying#邵氏电影$shaoshidianying#国剧$guochanju#港台$gangtaiju#欧美$oumeiju#日韩$rihanju#综艺$zongyi","分类url":"https://www.hbdfqc.com/ztt/{cateId}-{catePg}/"}},
+
+   {"key":"HTYY","name": " 海兔┃影院","type": 3,"api": "csp_XBPQ","ext": {"播放数组":"class=\"sort-item\"&&</div>","分类url":"https://www.haituu.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3"}},
+
     {
             "key": "jojo",
             "name": "JOJO┃弹幕版",
