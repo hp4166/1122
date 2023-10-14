@@ -12,6 +12,8 @@
 
 {"key": "影探","name": "影探┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
 
+{"key":"sohu","name":"搜狐┃秒播","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+
 {"key":"365","name": "365┃资源","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 
 {"key":"360影视","name":"360影视","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/ok.jar"},
