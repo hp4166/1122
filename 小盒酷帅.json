@@ -36,7 +36,7 @@
 
    {"key":"Efuns","name":" Efuns┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.pili5.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 
-   {"key":"Qin","name":"QinDiea┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://qindiea.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{yeat}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#理论$23"}},
+   {"key":"Qin","name":"QinDiea┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://qindiea.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{yeat}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#"}},
 
    {"key":"HTYY","name": " 海兔┃影院","type": 3,"api": "csp_XBPQ","ext": {"播放数组":"class=\"sort-item\"&&</div>","分类url":"https://www.haituu.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3"}},
 
