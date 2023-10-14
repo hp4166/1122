@@ -137,9 +137,10 @@
             "name": "腾讯采集",
             "type": 1,
             "playerType": 2,
-            "api": "http://119.91.31.224:89/itvbox/qq.php",
+            "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "ext": "http://119.91.31.224:89/itvbox/qq.php"
     },
     {
             "key": "ok荐片弹幕版",
