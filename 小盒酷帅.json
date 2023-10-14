@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "酷玩丨",
+      "name": "小盒酷帅",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://xn--yet226clhctt4b.fun:66/js/douban.js"
@@ -188,7 +188,7 @@
     },
     {
             "key": "csp_AppYsV2_4K视界",
-            "name": "🖤4K视界(APP)",
+            "name": "🖤4K视界┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -207,7 +207,7 @@
       "ext": "./json/好戏.json"
     },
     {
-      "key": "大鹏",
+      "key": "嘉靓",
       "name": "🦇嘉靓┃TV",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -217,51 +217,11 @@
       "ext": "http://api.jialiangos.com:88/api.php/app/"
     },
     {
-      "key": "ytvip",
-      "name": "🕵影探┃TV",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-      "jar": "./jar/YT.jar"
-    },
-    {
-      "key": "追忆",
-      "name": "🌠追忆┃TV",
-      "type": 3,
-      "api": "csp_Appto",
-      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE",
-      "jar": "http://xn--yet226clhctt4b.fun:66/jar/Appto.jar"
-    },
-    {
-      "key": "csp_AppYsV2_玉米",
-      "name": "🌽玉米┃切片",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playUrl": "http://61.147.93.21:8090/index.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ym.dytt996.com:3/api.php/app/"
-    },
-    {
       "key": "熊猫",
       "name": "🐼熊猫┃追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/熊猫.json"
-    },
-    {
-      "key": "酷影",
-      "name": "🧿酷影┃TV",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.realdou.cn:16285/api.php/app/"
     },
     {
       "key": "来米",
