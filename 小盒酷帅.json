@@ -158,7 +158,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "🎉一起┃App",
+      "name": " 一起┃App",
       "type": 3,
       "jar": "./jar/fty1013.jar",
       "api": "csp_YQKan",
@@ -187,27 +187,14 @@
       "ext": "http://mp4.ghlyys.com:916/api.php/app/"
     },
     {
-      "key": "maolv_open",
-      "name": "🐴毛驴┃TV",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Maolv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "jar": "./jar/ML.jar"
-    },
-    {
-      "key": "csp_AppYsV2_大鹏",
-      "name": "🍳大鹏┃TV",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms.jialiangos.com/api.php/app/"
+            "key": "csp_AppYsV2_4K视界",
+            "name": "🖤4K视界(APP)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yycms.77ev.cn/api.php/app/"
     },
     {
       "key": "csp_XBPQ_好戏",
