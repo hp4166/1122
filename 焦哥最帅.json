@@ -12,9 +12,8 @@
 
 {"key": "360","name":"🐼360┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
 
-{"key": "js_v2-yj","name": "🍎苹果┃[js]","type": 3,"api": "./lib/drpy2.js","ext": "./js/小苹果.js"},
+{"key":"猫放","name":"🔥放猫┃影视","type":3,"api":"csp_XBPQ","ext":{"图片":"data-original=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"pic-text text-right\">&&</span>","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.mervod.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;u0m"},"jar": "./jar/xbpq.jar"},
 
-{"key":"猫放","name":"🔥放猫┃影视","type":3,"api":"csp_XBPQ","ext":{"图片":"data-original=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"pic-text text-right\">&&</span>","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.mervod.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;u0m"}},
 
 {"key": "csp_345KP","name": "🔥看片┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>[替换:播放线路>>传说接口→线路]","分类url":"https://www.345kp.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4","筛选":"1","免嗅":"1"}},
 
@@ -77,11 +76,7 @@
 
 {"key": "csp_AppYs_A8","name": "👶A8☆影视","type": 3, "api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod","jar":"./jar/XYQ.jar"},
 
-{"key": "京项","name":"🐼京项┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./json/京项影视.js"},
-
 {"key":"csp_Appto_米诺","name":"👶米诺☆巧技","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix0929.jar"},
-
-{"key": "追忆","name":"🐼追忆┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/追忆.js"},
 
 {"key": "V2","name":"🐼分享┃[js]","type": 3,"playerType": 1,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext": "https://notabug.org/ygfxz/6/raw/main/js/js/V2.js"},
 
