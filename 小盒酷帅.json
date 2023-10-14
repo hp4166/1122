@@ -11,79 +11,14 @@
       "ext": "http://xn--yet226clhctt4b.fun:66/js/douban.js"
     },
     {
-      "key": "csp_WoGG",
-      "name": "👽玩偶┃云盘",
+      "key": "csp_厂长",
+      "name": "🍎主力源",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
-    },
-    {
-      "key": "影巢",
-      "name": " 影巢┃4k",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "playerType":1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./https://jihulab.com/0004/0/-/raw/main/tk.php",
-      "jar": "./jar/app.jar"
-    },
-    {
-      "key": "酷玩",
-      "name": "酷玩┃云盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "98d854b9ad834c4d90dfd4b2d8afcd54",
-        "filter": "./json/wogg.json"
-      },
-      "jar": "./jar/wogg.jar"
-    },
-    {
-      "key": "xml_玩偶",
-      "name": "🧙玩偶┃哥哥",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=98d854b9ad834c4d90dfd4b2d8afcd54",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-            "key": "玩偶弹幕版",
-            "name": "玩偶哥哥┃弹幕版",
-            "type": 3,
-            "jar": "./jar/ok.jar",
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-                "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json",
-                "danmu": true,
-                " \"site\"": "http://tvfan.xxooo.cf/"
-            }
-    },
-    {
-            "key": "玩偶",
-            "name": "玩偶哥哥┃无弹幕",
-            "type": 3,
-            "jar": "./jar/ok.jar",
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-                "filter": "http://ftp6587948.host121.sanfengyun.cn/json/wogg.json",
-                "danmu": false
-            }
+      "filterable": 1,
+      "ext": "./json/厂长.json"
     },
     {
             "key": "jojo",
@@ -109,21 +44,15 @@
             "changeable": 1
     },
     {
-            "key": "csp_OK荐片",
-            "name": "荐片┃无弹幕",
-            "type": 3,
-            "jar": "./jar/ok.jar",
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": false
-            }
+      "key": "腾讯",
+      "name": "⭕官方┃资源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/tengxun.js"
     },
     {
             "key": "官源采集",
-            "name": "官源采集",
+            "name": "官源┃采集",
             "type": 3,
             "playerType": 2,
             "api": "csp_AppYsV2",
@@ -131,19 +60,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://106.52.241.21:83/api.php/app/"
-    },
-    {
-            "key": "ok荐片弹幕版",
-            "name": "荐片┃弹幕版",
-            "type": 3,
-            "jar": "./jar/ok.jar",
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
     },
     {
             "key": "橘子",
@@ -241,24 +157,6 @@
       "ext": "http://xn--yet226clhctt4b.fun:66/js/在线.js"
     },
     {
-      "key": "6v",
-      "name": "🤘6V┃磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 1,
-      "ext": "./json/6v.json",
-      "jar": "./jar/xyq.jar"
-    },
-    {
-      "key": "电影港",
-      "name": "💫电影┃港湾",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": "1",
-      "ext": "./json/电影港.json",
-      "jar": "./jar/xyq.jar"
-    },
-    {
       "key": "xsj",
       "name": "🍬新视觉┃影视",
       "type": 3,
@@ -341,21 +239,12 @@
       "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
     },
     {
-      "key": "csp_厂长",
-      "name": "🍎主力源",
+      "key": "爱迪",
+      "name": "💡爱迪┃外剧",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/厂长.json"
-    },
-    {
-      "key": "腾讯",
-      "name": "⭕官方┃资源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/tengxun.js"
+      "api": "csp_AppYsV2",
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/",
+      "jar": "./jar/xyq.jar"
     },
     {
       "key": "荐片",
@@ -366,12 +255,123 @@
       "ext": "http://xn--yet226clhctt4b.fun:66/js/荐片.js"
     },
     {
-      "key": "爱迪",
-      "name": "💡爱迪┃外剧",
+      "key": "6v",
+      "name": "🤘6V┃磁力",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/",
+      "api": "csp_XYQHiker",
+      "playerType": 1,
+      "ext": "./json/6v.json",
       "jar": "./jar/xyq.jar"
+    },
+    {
+      "key": "电影港",
+      "name": "💫电影┃港湾",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": "1",
+      "ext": "./json/电影港.json",
+      "jar": "./jar/xyq.jar"
+    },
+    {
+            "key": "csp_OK荐片",
+            "name": "荐片┃无弹幕",
+            "type": 3,
+            "jar": "./jar/ok.jar",
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": false
+            }
+    },
+    {
+            "key": "ok荐片弹幕版",
+            "name": "荐片┃弹幕版",
+            "type": 3,
+            "jar": "./jar/ok.jar",
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "👽玩偶┃云盘",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+    },
+    {
+      "key": "影巢",
+      "name": " 影巢┃4k",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "playerType":1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./https://jihulab.com/0004/0/-/raw/main/tk.php",
+      "jar": "./jar/app.jar"
+    },
+    {
+      "key": "酷玩",
+      "name": "酷玩┃云盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "98d854b9ad834c4d90dfd4b2d8afcd54",
+        "filter": "./json/wogg.json"
+      },
+      "jar": "./jar/wogg.jar"
+    },
+    {
+      "key": "xml_玩偶",
+      "name": "🧙玩偶┃哥哥",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=98d854b9ad834c4d90dfd4b2d8afcd54",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+            "key": "玩偶弹幕版",
+            "name": "玩偶哥哥┃弹幕版",
+            "type": 3,
+            "jar": "./jar/ok.jar",
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+                "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json",
+                "danmu": true,
+                " \"site\"": "http://tvfan.xxooo.cf/"
+            }
+    },
+    {
+            "key": "玩偶",
+            "name": "玩偶哥哥┃无弹幕",
+            "type": 3,
+            "jar": "./jar/ok.jar",
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+                "filter": "http://ftp6587948.host121.sanfengyun.cn/json/wogg.json",
+                "danmu": false
+            }
     },
     {
       "key": "PanSearch",
