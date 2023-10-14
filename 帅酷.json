@@ -63,15 +63,6 @@
 "搜索url": "https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"}},
 
 {
-      "key": "热剧猫",
-      "name": "热剧猫┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://v.aaaa0.top:2525/api.php/app/"
-},
-{
             "key": "图图影视",
             "name": "图图┃影视",
             "type": 3,
