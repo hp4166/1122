@@ -10,7 +10,7 @@
 
 {"key": "豆瓣","name": "有缘江湖再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "影探","name": "影探┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
+{"key": "影探","name":"影探┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
 
 {
             "key": "布蕾┃影视",
