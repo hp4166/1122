@@ -281,7 +281,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "playerType": "2",
       "api": "csp_XBPQ",
       "ext": {
@@ -322,7 +322,7 @@
       "name": "蘑菇┃BPQ",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -344,7 +344,7 @@
       "name": "龟龟┃BPQ",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -365,7 +365,7 @@
       "key": "看看",
       "name": "看看┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "playerType": "1",
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -390,7 +390,7 @@
       "key": "双黄",
       "name": "双黄┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -407,7 +407,7 @@
       "key": "蜗牛",
       "name": "蜗牛┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0",
@@ -423,7 +423,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "ext": {
         "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
         "分类": "电影&剧集&动漫&综艺",
@@ -457,7 +457,7 @@
       "name": "速映┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "ext": {
         "站名": "速映影视",
         "主页url": "http://www.suying.life/",
@@ -482,7 +482,7 @@
       "name": "耐看┃BPQ",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -552,7 +552,7 @@
       "playerType": 2,
       "api": "csp_XBPQ",
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "./jar/fty1013.jar",
       "ext": {
         "站名": "乐猪影视",
         "主页url": "http://www.lezhutv.com/",
@@ -707,7 +707,7 @@
 	    "searchable": 1,
 	    "quickSearch": 1,
 	    "filterable": 1,
-	    "ext": "http://cms.jialiangos.com/api.php/app/"
+	    "ext": "http://api.jialiangos.com:88/api.php/app/"
     },
     {
       "key": "4K世界",
