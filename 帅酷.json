@@ -42,8 +42,6 @@
 
 {"key":"sohu","name":" 搜狐┃秒播","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
-{"key":"365","name": " 365┃资源","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
-
 {"key":"360影视","name":" 360┃影视","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/ok.jar"},
 
 {"key":"360影视弹幕版","name":"360影视┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/ok.jar"},
@@ -160,8 +158,6 @@
 {"key": "红牛","name": " 红牛┃资源","type": 1,"playerType": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"},
 
 {"key": "量子","name": " 量子┃资源","type": 1,"playerType": 1,"api": " https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"},
-
-{"key": "天堂","name": " 天堂┃资源","type": 1,"playerType": 1,"api": " http://vipmv.cc/api.php/provide/vod/"},
 
 {"key": "快车","name": " 快车┃资源","type": 1,"playerType": 1,"api": "  https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"},
 
