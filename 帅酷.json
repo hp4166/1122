@@ -55,7 +55,7 @@
 
 {"key":"365","name": " 365┃资源","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 
-{"key":"360影视","name":"360影视","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/ok.jar"},
+{"key":"360影视","name":" 360┃影视","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/ok.jar"},
 
 {"key":"360影视弹幕版","name":"360影视┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/ok.jar"},
 
