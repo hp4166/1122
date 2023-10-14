@@ -202,7 +202,7 @@
       "name": "低端┃BPQ",
       "type": 3,
       "changeable": 1,
-      "jar": "./jar/xm1013.jar",
+      "jar": "./jar/fty1013.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -233,6 +233,7 @@
       "key": "直播转点播",
       "name": "电视┃直播",
       "type": 3,
+      "jar": "./jar/fty1013.jar",
       "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "http://xhww.fun:63/小米/源222/直播.json"
     },
