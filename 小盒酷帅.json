@@ -21,6 +21,16 @@
       "ext": "./json/厂长.json"
     },
     {
+      "key": "77",
+      "name": " 七七┃App",
+      "type": 3,
+      "jar": "./jar/fty1013.jar",
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
             "key": "追忆影视",
             "name": "追忆┃影视",
             "type": 3,
