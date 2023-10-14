@@ -76,6 +76,7 @@
       "key": "FirstAid",
       "name": "🚑急救┃教学",
       "type": 3,
+      "jar": "./jar/fty1013.jar",
       "api": "csp_FirstAid",
       "searchable": 0,
       "quickSearch": 0,
