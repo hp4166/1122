@@ -57,6 +57,14 @@
       }
     },
     {
+      "key": "厂长在线",
+      "name": "👷厂长┃在线",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/在线.js"
+    },
+    {
       "key": "aotv",
       "name": "📽️嗷嗷┃BPQ",
       "type": 3,
@@ -230,14 +238,6 @@
       }
     },
     {
-      "key": "直播转点播",
-      "name": "电视┃直播",
-      "type": 3,
-      "jar": "./jar/fty1013.jar",
-      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
-      "ext": "http://xhww.fun:63/小米/源222/直播.json"
-    },
-    {
       "key": "速搜",
       "name": "速搜┃BPQ",
       "type": 3,
@@ -384,23 +384,6 @@
         "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]",
         "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
         "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
-    {
-      "key": "双黄",
-      "name": "双黄┃BPQ",
-      "type": 3,
-      "jar": "./jar/fty1013.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-        "请求头": "手机#Referer$https://www.dandanju.cc/",
-        "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-        "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-        "搜索模式": "1",
-        "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-        "搜索数组": "<li class=\"active clearfix&&</li"
       }
     },
     {
@@ -739,6 +722,63 @@
 	    "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
     },
     {
+      "key": "探探",
+      "name": "🏵影探┃APP",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://vip.lyyytv.cn/api.php/app/"
+    },
+    {
+      "key": "虎虎",
+      "name": "🐯Tiger┃TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/虎虎.json"
+    },
+    {
+      "key": "csp_Free",
+      "name": "🌱Free┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/freeok.json"
+    },  
+    {
+      "key": "007",
+      "name": "🎈007┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/007影视.json"
+    },
+    {
+      "key": "bei",
+      "name": "🗻北川┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/北川.json"
+    },
+    {
+      "key": "腾讯",
+      "name": "⭕官方┃资源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/tengxun.js"
+    },
+    {
+      "key": "爱迪",
+      "name": "💡爱迪┃外剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/",
+      "jar": "./jar/xyq.jar"
+    },
+    {
       "key": "555", 
       "name": "😎555┃App",
       "type": 3,
@@ -878,6 +918,72 @@
       "filterable": 1,
       "ext": "./lib/搭讪.py"
     },
+    {
+      "key": "荐片",
+      "name": "🚀荐片┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "荐片",
+      "name": "🔪荐片┃磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/荐片.js"
+    },
+    {
+      "key": "6v",
+      "name": "🧲6V┃磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 1,
+      "ext": "./json/6v.json",
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "电影港",
+      "name": "💫电影┃港湾",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": "1",
+      "ext": "./json/电影港.json",
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+	    "key": "小学课堂",
+	    "name": "🅱️教育┃学习",
+	    "type": 3,
+	    "api": "csp_Bili",
+	    "searchable": 0,
+	    "quickSearch": 0,
+	    "filterable": 0,
+	    "ext": "./json/小学课堂.json?sign=M9Yy0JDj_uwsAsiHY0YChEk27S55kj30rdi_3zU7Nb4=:0",
+	    "jar": "./jar/xyq.jar"
+    },
+    {
+      "key": "py_cctv",
+      "name": "❤️央视┃大全",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/cctv.py"
+    },
+    {
+      "key": "xml_玩偶",
+      "name": "👽玩偶┃哥哥",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=59982b02e05b47e890a38982e5a7402d",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {   
       "key": "csp_WoGG",
       "name": "👽玩偶┃云盘",
@@ -910,126 +1016,6 @@
       "timeout": 30
     },
     {
-      "key": "荐片",
-      "name": "🚀荐片┃T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_JP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 30
-    },
-    {
-      "key": "xml_玩偶",
-      "name": "👽玩偶┃哥哥",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=59982b02e05b47e890a38982e5a7402d",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "厂长在线",
-      "name": "👷厂长┃在线",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/在线.js"
-    },
-    {
-      "key": "6v",
-      "name": "🧲6V┃磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 1,
-      "ext": "./json/6v.json",
-      "jar": "./jar/XYQ.jar"
-    },
-    {
-      "key": "电影港",
-      "name": "💫电影┃港湾",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": "1",
-      "ext": "./json/电影港.json",
-      "jar": "./jar/XYQ.jar"
-    },
-    {
-      "key": "探探",
-      "name": "🏵影探┃APP",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://vip.lyyytv.cn/api.php/app/"
-    },
-    {
-      "key": "虎虎",
-      "name": "🐯Tiger┃TV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/虎虎.json"
-    },
-    {
-      "key": "csp_Free",
-      "name": "🌱Free┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/freeok.json"
-    },  
-    {
-      "key": "007",
-      "name": "🎈007┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/007影视.json"
-    },
-    {
-      "key": "bei",
-      "name": "🗻北川┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/北川.json"
-    },
-    {
-      "key": "腾讯",
-      "name": "⭕官方┃资源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/tengxun.js"
-    },
-    {
-      "key": "荐片",
-      "name": "🔪荐片┃磁力",
-      "type": 3,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/荐片.js"
-    },
-    {
-      "key": "爱迪",
-      "name": "💡爱迪┃外剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/",
-      "jar": "./jar/xyq.jar"
-    },
-    {
-      "key": "py_cctv",
-      "name": "❤️央视┃大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/cctv.py"
-    },
-    {
       "key": "Paper",
       "name": "📝纸条┃搜索",
       "type": 4,
@@ -1058,17 +1044,6 @@
       "filterable": 1,
       "ext": "./tvbox/tok.txt",
       "jar": "./jar/ali.jar"
-    },
-    {
-	    "key": "小学课堂",
-	    "name": "🅱️教育┃学习",
-	    "type": 3,
-	    "api": "csp_Bili",
-	    "searchable": 0,
-	    "quickSearch": 0,
-	    "filterable": 0,
-	    "ext": "./json/小学课堂.json?sign=M9Yy0JDj_uwsAsiHY0YChEk27S55kj30rdi_3zU7Nb4=:0",
-	    "jar": "./jar/xyq.jar"
     },
     {
       "key": "PanSearch",
@@ -1122,8 +1097,8 @@
       "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
     {
-      "key": "xh",
-      "name": "🎯2023.10.8更新",
+      "key": "焦哥最酷",
+      "name": "🎯2023.10.15更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
