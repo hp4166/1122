@@ -111,7 +111,7 @@
     },
     {
       "key": "一起看 ",
-      "name": " 一起┃App",
+      "name": " 一起看┃App",
       "type": 3,
       "jar": "./jar/fty1013.jar",
       "api": "csp_YQKan",
@@ -141,7 +141,7 @@
     },
     {
       "key": "csp_XBPQ_好戏",
-      "name": "👹好戏┃TV",
+      "name": "👹好戏┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -151,7 +151,7 @@
     },
     {
       "key": "嘉靓",
-      "name": "🦇嘉靓┃TV",
+      "name": "🦇嘉靓┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
