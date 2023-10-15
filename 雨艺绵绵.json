@@ -656,6 +656,7 @@
       "key": "csp_WoGG",
       "name": "🎬玩偶┃阿里🎉",
       "type": 3,
+      "jar": ".jar/xm1015.jar",
       "api": "csp_WoGG",
       "changeable": 0,
       "searchable": 1,
