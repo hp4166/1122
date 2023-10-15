@@ -668,7 +668,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbo/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
      {
       "key": "Wogg33",
@@ -680,7 +680,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
-      "ext": "http://127.0.0.1:9978/file/阿里/token.txt$$$https://wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "Wobg",
@@ -692,7 +692,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/阿里/token.txt$$$http://wobge.run.goorm.io"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://wobge.run.goorm.io"
     },
     {
       "key": "csp_阿里七夜",
