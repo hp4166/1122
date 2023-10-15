@@ -656,7 +656,7 @@
       "key": "xml_玩偶",
       "name": "👽玩偶┃哥哥",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=59982b02e05b47e890a38982e5a7402d",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
