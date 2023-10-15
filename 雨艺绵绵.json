@@ -670,6 +670,40 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
+     {
+      "key": "Wogg33",
+      "name": "阿里|玩偶哥哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wogg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
+    },
+    {
+      "key": "Wobg",
+      "name": "阿里|玩偶表哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
+    },
+    {
+      "key": "csp_woggcli",
+      "name": "♻️俊哥玩偶.T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },
     {
       "key": "csp_阿里七夜",
       "name": "阿里 ┃ 七夜[4K]",
