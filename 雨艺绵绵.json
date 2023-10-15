@@ -672,7 +672,7 @@
     },
      {
       "key": "Wogg33",
-      "name": "阿里|玩偶哥哥",
+      "name": "阿里┃玩偶哥哥",
       "type": 3,
       "style": {
         "type": "rect",
@@ -684,7 +684,7 @@
     },
     {
       "key": "Wobg",
-      "name": "阿里|玩偶表哥",
+      "name": "阿里┃玩偶表哥",
       "type": 3,
       "style": {
         "type": "rect",
@@ -696,7 +696,7 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "♻️俊哥玩偶.T4",
+      "name": "俊哥玩偶┃T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
@@ -766,9 +766,9 @@
     },
     {
       "key": "csp_Alistxy",
-      "name": "🅿️Alist网盘♻️",
+      "name": "🅿️Alist┃网盘",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
+      "jar": "./jar/AListxy.jar",
       "api": "csp_AListxy",
       "searchable": 1,
       "quickSearch": 1,
