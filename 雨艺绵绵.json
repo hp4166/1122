@@ -654,14 +654,13 @@
     },  
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
+      "name": "🎬玩偶┃阿里🎉",
       "type": 3,
-      "jar": ".jar/fty1013.jar",
       "api": "csp_WoGG",
+      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "csp_阿里七夜",
