@@ -695,6 +695,18 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://wobge.run.goorm.io"
     },
     {
+	    "key": "csp_Hdhive",
+	    "name": "阿里 | 影巢[jar]",
+	    "type": 3,
+      "jar": "./jar/xyq.jar",
+	    "api": "csp_Hdhive",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$socks5://192.168.1.9:4592",
+	    "timeout": 30
+    },
+    {
       "key": "csp_阿里七夜",
       "name": "阿里 ┃ 七夜[4K]",
       "type": 3,
