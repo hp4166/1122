@@ -72,11 +72,11 @@
       "ext": "./js/ddys.js"
     },
     {
-      "key": "drpy_js_热剧",
-      "name": "影视 |热剧猫[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/热剧猫1015.js"
+      "key":"drpy_js_EMO蓝光[V2]",
+      "name":"影视 | EMO蓝光[V2]",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/EMO蓝光[V2].js"
     },
     {
       "key": "drpy_js_农民",
