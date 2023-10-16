@@ -221,7 +221,7 @@
     },
     {
       "key": "狐狸",
-      "name": "🌀狐狸┃4k",
+      "name": "🌀狐狸┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -231,7 +231,7 @@
     },
     {
       "key": "csp_kc",
-      "name": "🌀酷茶┃高清",
+      "name": "🌀酷茶┃┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -309,7 +309,7 @@
     },
     {
       "key": "555影视",
-      "name": "🌀555┃蓝光",
+      "name": "🌀555┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -389,7 +389,7 @@
     },
     {
       "key": "csp_xp_yinfans",
-      "name": "🌀音范丝┃4K",
+      "name": "🌀音范丝┃影视",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -413,15 +413,6 @@
       "api": "https://cj.vodimg.top/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "csp_Bd",
-      "name": "🌀哔嘀┃影视",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "率率",
@@ -488,14 +479,14 @@
     },
     {
       "key": "drpy_js_酷云七七",
-      "name": "🌀影视┃酷云七七[js]",
+      "name": "🌀酷云七七┃影视[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/酷云77.js"
     },
     {
       "key": "drpy_js_秋霞影院",
-      "name": "🌀影视|秋霞影院[js]",
+      "name": "🌀秋霞┃影视[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/秋霞影视.js"
@@ -509,21 +500,14 @@
     },
     {
       "key": "drpy_js_零度影视",
-      "name": "🌀影视|零度影视[js]",
+      "name": "🌀零度┃影视[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/零度影视.js"
     },
     {
-      "key": "drpy_js_B站影视",
-      "name": "🌀影视|B站影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/B站影视.js"
-    },
-    {
       "key": "drpy_js_哔哩影视",
-      "name": "🌀影视|哔哩影视[js]",
+      "name": "🌀哔哩┃影视[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/哔哩影视.js"
@@ -558,7 +542,7 @@
     },
     {
       "key": "快车资源",
-      "name": "🌀快车┃资源",
+      "name": "🌀快车┃采集",
       "type": 1,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -566,7 +550,7 @@
     },
     {
       "key": "量子资源",
-      "name": "🌀量子┃资源",
+      "name": "🌀量子┃采集",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -574,7 +558,7 @@
     },
     {
       "key": "红牛资源",
-      "name": "🌀红牛┃资源",
+      "name": "🌀红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -582,7 +566,7 @@
     },
     {
       "key": "飞速资源",
-      "name": "🌀飞速┃资源",
+      "name": "🌀飞速┃采集",
       "type": 1,
       "api": "https://www.feisuzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -590,7 +574,7 @@
     },
     {
       "key": "光速资源",
-      "name": "🌀光速┃资源",
+      "name": "🌀光速┃采集",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -614,7 +598,7 @@
     },
     {
       "key": "天空资源",
-      "name": "🌀天空┃资源",
+      "name": "🌀天空┃采集",
       "type": 1,
       "api": "http://api.tiankongapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -624,7 +608,7 @@
     },
     {
       "key": "天堂资源",
-      "name": "🌀天堂┃资源",
+      "name": "🌀天堂┃采集",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
       "playUrl": "",
@@ -674,63 +658,63 @@
     },
     {
       "key": "drpy_js_爱弹幕",
-      "name": "🌀动漫|爱弹幕[js]",
+      "name": "🌀动漫┃爱弹幕[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/爱弹幕.js"
     },
     {
       "key": "drpy_js_哔哩直播",
-      "name": "🌀直播|哔哩[js]",
+      "name": "🌀直播┃哔哩[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/哔哩直播.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
-      "name": "🌀直播|斗鱼[js]",
+      "name": "🌀直播┃斗鱼[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/斗鱼直播.js"
     },
     {
       "key": "drpy_js_虎牙直播",
-      "name": "🌀直播|虎牙[js]",
+      "name": "🌀直播┃虎牙[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/虎牙直播.js"
     },
     {
       "key": "drpy_js_JustLive",
-      "name": "🌀直播|JustLive[js]",
+      "name": "🌀直播┃JustLive[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/JustLive.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
-      "name": "🌀体育|JRKAN直播[js]",
+      "name": "🌀体育┃JRKAN直播[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/JRKAN直播.js"
     },
     {
       "key": "drpy_js_88看球",
-      "name": "🌀体育|88看球[js]",
+      "name": "🌀体育┃88看球[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/88看球.js"
     },
     {
       "key": "drpy_js_310直播",
-      "name": "🌀体育|310直播[js]",
+      "name": "🌀体育┃310直播[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/310直播.js"
     },
     {
       "key": "drpy_js_酷狗MV",
-      "name": "🌀MV|酷狗[js]",
+      "name": "🌀MV┃酷狗[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/酷狗MV.js"
@@ -747,43 +731,35 @@
     },
     {
       "key": "drpy_js_酷奇MV",
-      "name": "🌀MV|酷奇[js]",
+      "name": "🌀MV┃酷奇[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/酷奇MV.js"
     },
     {
       "key": "drpy_js_短视频",
-      "name": "🌀聚合|短视频[js]",
+      "name": "🌀聚合┃短视频[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/短视频.js"
     },
     {
       "key": "drpy_js_酷6网",
-      "name": "🌀聚合|酷6网[js]",
+      "name": "🌀聚合┃酷6网[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/酷6网.js"
     },
     {
       "key": "drpy_js_网易公版影像",
-      "name": "🌀聚合|网易公版影像[js]",
+      "name": "🌀聚合┃网易公版影像[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/网易公版影像.js"
     },
     {
-      "key": "drpy_js_兔小贝",
-      "name": "🌀少儿┃兔小贝[js]",
-      "type": 3,
-      "api": "./drpy2.min.js",
-      "changeable": 0,
-      "ext": "./js/兔小贝.js"
-    },
-    {
       "key": "drpy_js_JangoIndex",
-      "name": "🌀音频|JangoIndex[js]",
+      "name": "🌀音频┃JangoIndex[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/JangoIndex.js",
@@ -791,7 +767,7 @@
     },
     {
       "key": "drpy_js_DJ音乐",
-      "name": "🌀音频|DJ音乐[js]",
+      "name": "🌀音频┃DJ音乐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/DJ音乐.js",
@@ -799,7 +775,7 @@
     },
     {
       "key": "drpy_js_啦啦DJ",
-      "name": "🌀音频|啦啦DJ[js]",
+      "name": "🌀音频┃啦啦DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/苹果DJ.js",
@@ -807,7 +783,7 @@
     },
     {
       "key": "drpy_js_清风DJ",
-      "name": "🌀音频|清风DJ[js]",
+      "name": "🌀音频┃清风DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/清风DJ.js",
@@ -815,14 +791,14 @@
     },
     {
       "key": "drpy_js_种子音乐",
-      "name": "🌀音频|种子音乐[js]",
+      "name": "🌀音频┃种子音乐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/种子音乐.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
-      "name": "🌀广播|蜻蜓FM[js]",
+      "name": "🌀广播┃蜻蜓FM[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/蜻蜓FM.js",
@@ -830,7 +806,7 @@
     },
     {
       "key": "drpy_js_相声随身听",
-      "name": "🌀相声|相声随身听[js]",
+      "name": "🌀相声┃相声随身听[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/相声随身听.js",
@@ -838,7 +814,7 @@
     },
     {
       "key": "drpy_js_i275听书",
-      "name": "🌀听书|i275听书[js]",
+      "name": "🌀听书┃i275听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/i275听书.js",
@@ -846,7 +822,7 @@
     },
     {
       "key": "drpy_js_喜马拉雅",
-      "name": "🌀听书|喜马拉雅[js]",
+      "name": "🌀听书┃喜马拉雅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/喜马拉雅.js",
@@ -854,7 +830,7 @@
     },
     {
       "key": "drpy_js_六月听书",
-      "name": "🌀听书|六月听书[js]",
+      "name": "🌀听书┃六月听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/六月听书.js",
@@ -862,7 +838,7 @@
     },
     {
       "key": "drpy_js_博看听书",
-      "name": "🌀听书|博看听书[js]",
+      "name": "🌀听书┃博看听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/博看听书.js",
@@ -870,7 +846,7 @@
     },
     {
       "key": "drpy_js_海洋听书",
-      "name": "🌀听书|海洋听书[js]",
+      "name": "🌀听书┃海洋听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/海洋听书.js",
@@ -878,7 +854,7 @@
     },
     {
       "key": "drpy_js_听书网",
-      "name": "🌀听书|听书网[js]",
+      "name": "🌀听书┃听书网[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/听书网.js",
@@ -886,7 +862,7 @@
     },
     {
       "key": "drpy_js_有声小说",
-      "name": "🌀听书|有声小说[js]",
+      "name": "🌀听书┃有声小说[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/有声小说吧.js",
@@ -894,35 +870,21 @@
     },
     {
       "key": "drpy_js_A8音乐",
-      "name": "🌀MV|A8音乐[js]",
+      "name": "🌀MV┃A8音乐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/A8音乐.js"
     },
     {
-      "key": "drpy_js_MV263",
-      "name": "🌀MV|263[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/MV263.js"
-    },
-    {
       "key": "drpy_js_苹果DJ",
-      "name": "🌀MV|苹果DJ[js]",
+      "name": "🌀MV┃苹果DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/苹果DJ.js"
     },
     {
-      "key": "drpy_js_音悦网",
-      "name": "🌀MV|音悦网[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/音悦网.js"
-    },
-    {
       "key": "push_agent",
-      "name": "阿里|推送",
+      "name": "阿里┃推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
