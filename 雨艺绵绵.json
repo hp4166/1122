@@ -834,13 +834,6 @@
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/去看吧.js"
     },
     {
-      "key": "drpy_js_NT动漫",
-      "name": "动漫 | NT动漫[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/NT动漫.js"
-    },
-    {
       "key": "drpy_js_怡萱动漫",
       "name": "动漫 | 怡萱动漫[js]",
       "type": 3,
