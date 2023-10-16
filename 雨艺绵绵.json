@@ -1150,12 +1150,17 @@
       "url": "Parallel"
     },
     {
-      "name": "VIP1解析",
+      "name": "叉车解析",
+      "type": 1,
+      "url": "http://cache.json.icu/1804857380.php?url="
+    },
+    {
+      "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
     },
     {
-      "name": "VIP2解析",
+      "name": "VIP解析",
       "type": 1,
       "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
