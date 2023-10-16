@@ -707,6 +707,30 @@
 	    "timeout": 30
     },
     {
+	    "key": "Gitcafe",
+	    "name": "阿里 | 纸条[jar]",
+	    "type": 3,
+      "jar": "./jar/fm1016.jar",
+	    "api": "csp_Gitcafe",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+	    "timeout": 30
+    },
+    {
+	    "key": "小紙條",
+	    "name": "阿里 | 小紙條[jar]",
+	    "type": 3,
+      "jar": "./jar/fm1016.jar",
+	    "api": "csp_XiaoZhiTiao",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+	    "timeout": 30
+    },
+    {
       "key": "csp_阿里七夜",
       "name": "阿里 ┃ 七夜[4K]",
       "type": 3,
