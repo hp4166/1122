@@ -22,7 +22,7 @@
     },
     {
       "key": "AliYunPan",
-      "name": "👑云盘登录|T签到",
+      "name": "👑云盘登录┃T签到",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
@@ -31,7 +31,7 @@
     },
     {
       "key": "Wogg",
-      "name": "👑玩偶哥哥|HDR",
+      "name": "👑玩偶哥哥┃HDR",
       "type": 3,
       "api": "csp_XPathAli",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "csp_xBPQ_奇优",
-      "name": "👑奇优影视|HDR",
+      "name": "👑奇优影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
     {
       "key": "csp_威士",
-      "name": "👑威士影视|HDR",
+      "name": "👑威士影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -61,7 +61,7 @@
     },
     {
       "key": "csp_午夜",
-      "name": "👑午夜影视|HDR",
+      "name": "👑午夜影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "csp_乐猪",
-      "name": "👑乐猪影视|HDR",
+      "name": "👑乐猪影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -81,7 +81,7 @@
     },
     {
       "key": "csp_农民",
-      "name": "👑农民影视|HDR",
+      "name": "👑农民影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "csp_花猫",
-      "name": "👑花猫影视|HDR",
+      "name": "👑花猫影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "csp_好戏",
-      "name": "👑好戏影视|HDR",
+      "name": "👑好戏影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "csp_低端",
-      "name": "👑低端影视|HDR",
+      "name": "👑低端影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -121,7 +121,7 @@
     },
     {
       "key": "csp_Free",
-      "name": "👑Free影视|HDR",
+      "name": "👑Free影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -131,7 +131,7 @@
     },
     {
       "key": "csp_热播",
-      "name": "👑热播之家|HDR",
+      "name": "👑热播之家┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -141,7 +141,7 @@
     },
     {
       "key": "csp_七月",
-      "name": "👑七月影视|HDR",
+      "name": "👑七月影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -151,7 +151,7 @@
     },
     {
       "key": "csp_日后",
-      "name": "👑日后影视|HDR",
+      "name": "👑日后影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -161,7 +161,7 @@
     },
     {
       "key": "csp_淘剧",
-      "name": "👑淘剧影院|HDR",
+      "name": "👑淘剧影院┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -171,7 +171,7 @@
     },
     {
       "key": "csp_TVB",
-      "name": "👑TVB云播|HDR",
+      "name": "👑TVB云播┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -181,7 +181,7 @@
     },
     {
       "key": "csp_光棍",
-      "name": "👑光棍影视|HDR",
+      "name": "👑光棍影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -191,7 +191,7 @@
     },
     {
       "key": "csp_101",
-      "name": "👑摇玲影视|HDR",
+      "name": "👑摇玲影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -201,7 +201,7 @@
     },
     {
       "key": "csp_圣城",
-      "name": "👑圣城影视|HDR",
+      "name": "👑圣城影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "csp_土豪",
-      "name": "👑土豪影视|HDR",
+      "name": "👑土豪影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -221,7 +221,7 @@
     },
     {
       "key": "csp_奥特",
-      "name": "👑奥特影视|HDR",
+      "name": "👑奥特影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -231,7 +231,7 @@
     },
     {
       "key": "csp_兔年",
-      "name": "👑兔年影视|HDR",
+      "name": "👑兔年影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -241,7 +241,7 @@
     },
     {
       "key": "csp_345",
-      "name": "👑看片影视|HDR",
+      "name": "👑看片影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -251,7 +251,7 @@
     },
     {
       "key": "csp_91",
-      "name": "👑玖摇影视|HDR",
+      "name": "👑玖摇影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -261,7 +261,7 @@
     },
     {
       "key": "csp_七年",
-      "name": "👑柒年影视|HDR",
+      "name": "👑柒年影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -271,7 +271,7 @@
     },
     {
       "key": "csp_酷茶",
-      "name": "👑酷茶影视|HDR",
+      "name": "👑酷茶影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -281,7 +281,7 @@
     },
     {
       "key": "csp_真不卡",
-      "name": "👑不卡影视|HDR",
+      "name": "👑不卡影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -291,7 +291,7 @@
     },
     {
       "key": "csp_xBPQ_66",
-      "name": "👑鎏琉影视|HDR",
+      "name": "👑鎏琉影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -301,7 +301,7 @@
     },
     {
       "key": "csp_蛋蛋",
-      "name": "👑蛋蛋影视|HDR",
+      "name": "👑蛋蛋影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -311,7 +311,7 @@
     },
     {
       "key": "csp_黑狐",
-      "name": "👑黑狐影视|HDR",
+      "name": "👑黑狐影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -321,7 +321,7 @@
     },
     {
       "key": "csp_歪片",
-      "name": "👑歪片星球|HDR",
+      "name": "👑歪片星球┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -331,7 +331,7 @@
     },
     {
       "key": "csp_苹果",
-      "name": "👑苹果影视|HDR",
+      "name": "👑苹果影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -341,7 +341,7 @@
     },
     {
       "key": "csp_米爱",
-      "name": "👑米爱影视|HDR",
+      "name": "👑米爱影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -351,7 +351,7 @@
     },
     {
       "key": "csp_视觉",
-      "name": "👑视觉影视|HDR",
+      "name": "👑视觉影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -361,17 +361,17 @@
     },
     {
       "key": "csp_xBPQ_子子",
-      "name": "👑紫梓影视|HDR",
+      "name": "👑紫梓影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/子子影视.json"
+      "ext": "./json/子子.json"
     },
     {
       "key": "csp_非凡",
-      "name": "👑非凡资源|HDR",
+      "name": "👑非凡资源┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -381,7 +381,7 @@
     },
     {
       "key": "csp_量子",
-      "name": "👑量子资源|HDR",
+      "name": "👑量子资源┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "360",
-      "name": "👑360 官源|HDR",
+      "name": "👑360 官源┃HDR",
       "type": 3,
       "api": "csp_360",
       "searchable": 1,
@@ -400,7 +400,7 @@
     },
     {
       "key": "奇艺",
-      "name": "👑奇艺官源|HDR",
+      "name": "👑奇艺官源┃HDR",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -409,7 +409,7 @@
     },
     {
       "key": "腾讯",
-      "name": "👑腾讯官源|HDR",
+      "name": "👑腾讯官源┃HDR",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -418,7 +418,7 @@
     },
     {
       "key": "芒果",
-      "name": "👑芒果官源|HDR",
+      "name": "👑芒果官源┃HDR",
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
@@ -427,7 +427,7 @@
     },
     {
       "key": "优酷",
-      "name": "👑优酷官源|HDR",
+      "name": "👑优酷官源┃HDR",
       "type": 3,
       "api": "csp_YOUKU",
       "searchable": 1,
@@ -436,7 +436,7 @@
     },
     {
       "key": "荐片",
-      "name": "👑荐片秒播|HDR",
+      "name": "👑荐片秒播┃HDR",
       "type": 3,
       "api": "csp_RinHome",
       "searchable": 1,
@@ -445,7 +445,7 @@
     },
     {
       "key": "音范",
-      "name": "👑音范磁力|HDR",
+      "name": "👑音范磁力┃HDR",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -455,7 +455,7 @@
     },
     {
       "key": "蚂蚁",
-      "name": "👑蚂蚁磁力|HDR",
+      "name": "👑蚂蚁磁力┃HDR",
       "type": 3,
       "api": "csp_XPathAli",
       "searchable": 1,
@@ -465,7 +465,7 @@
     },
     {
       "key": "push_agent",
-      "name": "👑辅助推送|T功能",
+      "name": "👑辅助推送┃T功能",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -474,7 +474,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "🔍阿里|纸条搜",
+      "name": "🔍阿里┃纸条搜",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -484,7 +484,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🔍阿里|盘搜索",
+      "name": "🔍阿里┃盘搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -494,7 +494,7 @@
     },
     {
       "key": "UpYun",
-      "name": "🔍阿里|优盘搜",
+      "name": "🔍阿里┃优盘搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -504,7 +504,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🔍阿里|找资源",
+      "name": "🔍阿里┃找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -514,7 +514,7 @@
     },
     {
       "key": "cctv",
-      "name": "📺央视｜大全",
+      "name": "📺央视┃大全",
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
@@ -523,7 +523,7 @@
     },
     {
       "key": "py_cctv_少儿",
-      "name": "📺央视｜少儿",
+      "name": "📺央视┃少儿",
       "type": 3,
       "api": "py_cctv_full",
       "searchable": 0,
@@ -533,7 +533,7 @@
     },
     {
       "key": "央视经典",
-      "name": "📺央视｜经典",
+      "name": "📺央视┃经典",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -543,7 +543,7 @@
     },
     {
       "key": "py_cctv_企鹅",
-      "name": "📺体育｜直播",
+      "name": "📺体育┃直播",
       "type": 3,
       "api": "py_cctv_full",
       "searchable": 0,
@@ -553,7 +553,7 @@
     },
     {
       "key": "mtv_xp_动漫巴士",
-      "name": "🐼动漫丨巴士",
+      "name": "🐼动漫┃巴士",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -563,7 +563,7 @@
     },
     {
       "key": "mtv_xp_维奇动漫",
-      "name": "🐼维奇丨动漫",
+      "name": "🐼维奇┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -573,7 +573,7 @@
     },
     {
       "key": "哔哩音乐",
-      "name": "🎧哔哩｜音乐",
+      "name": "🎧哔哩┃音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -623,7 +623,7 @@
     },
     {
       "key": "幼儿教育",
-      "name": "👑幼小｜衔接",
+      "name": "👑幼小┃衔接",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -633,7 +633,7 @@
     },
     {
       "key": "哔哩小学",
-      "name": "👑小学｜教育",
+      "name": "👑小学┃教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -643,7 +643,7 @@
     },
     {
       "key": "哔哩初中",
-      "name": "👑初中｜教育",
+      "name": "👑初中┃教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -653,7 +653,7 @@
     },
     {
       "key": "哔哩高中",
-      "name": "👑高中｜教育",
+      "name": "👑高中┃教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -663,7 +663,7 @@
     },
     {
       "key": "兴趣健身",
-      "name": "👑兴趣｜健身",
+      "name": "👑兴趣┃健身",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -673,7 +673,7 @@
     },
     {
       "key": "相声小品",
-      "name": "👑相声｜小品",
+      "name": "👑相声┃小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -683,7 +683,7 @@
     },
     {
       "key": "天下美食",
-      "name": "👑天下｜美食",
+      "name": "👑天下┃美食",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -693,7 +693,7 @@
     },
     {
       "key": "戏曲杂苑",
-      "name": "👑戏曲｜杂苑",
+      "name": "👑戏曲┃杂苑",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
