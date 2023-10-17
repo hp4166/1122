@@ -12,7 +12,7 @@
     },
     {
       "key": "csp_厂长",
-      "name": "🍎主力┃影视",
+      "name": "👷厂长┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -144,14 +144,6 @@
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": "./json/来米.json"
-    },
-    {
-      "key": "厂长在线",
-      "name": "👷厂长┃在线",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/在线.js"
     },
     {
       "key": "xsj",
