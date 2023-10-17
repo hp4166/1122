@@ -57,12 +57,14 @@
       }
     },
     {
-      "key": "厂长在线",
-      "name": "👷厂长┃在线",
+      "key": "csp_xBPQ_厂长",
+      "name": "👷厂长┃影视",
       "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/在线.js"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/厂长1017.json"
     },
     {
       "key": "aotv",
