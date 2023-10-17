@@ -52,6 +52,16 @@
       "ext": "http://rzys.xyz"
     },
     {
+      "key": "csp_xBPQ_厂长",
+      "name": "🌀厂长┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/厂长1017.json"
+    },
+    {
       "key": "csp_xBPQ_奇优",
       "name": "🌀奇优┃影视",
       "type": 3,
