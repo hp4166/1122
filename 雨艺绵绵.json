@@ -1150,21 +1150,6 @@
       "url": "Parallel"
     },
     {
-      "name": "叉车解析",
-      "type": 1,
-      "url": "http://cache.json.icu/1804857380.php?url="
-    },
-    {
-      "name": "小鱼解析",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-    },
-    {
-      "name": "VIP解析",
-      "type": 1,
-      "url": "http://119.91.123.253:1234/Api/cs.php?url="
-    },
-    {
       "name": "巧技解析",
       "type": 1,
       "url": "http://pandown.pro/app/kkdy.php?url=",
@@ -1221,7 +1206,22 @@
       }
     },
     {
-      "name": "热剧猫解析",
+      "name": "叉车解析",
+      "type": 1,
+      "url": "http://cache.json.icu/1804857380.php?url="
+    },
+    {
+      "name": "小鱼解析",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+    },
+    {
+      "name": "VIP解析",
+      "type": 1,
+      "url": "http://119.91.123.253:1234/Api/cs.php?url="
+    },
+    {
+      "name": "热剧解析",
       "type": 1,
       "url": "http://jx.daenys.vip:2587/tnmba.php?url="
     },
@@ -1272,16 +1272,6 @@
           "乐视视频"
         ]
       }
-    },
-    {
-      "name": "小鱼解析",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-    },
-    {
-      "name": "热剧猫解析",
-      "type": 0,
-      "url": "http://jx.daenys.vip:2587/tnmba.php?url="
     },
     {
       "name": "杰森",
