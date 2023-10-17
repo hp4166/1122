@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "小盒酷帅",
+      "name": "仅个人测试使用，禁止商用售卖",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://xn--yet226clhctt4b.fun:66/js/douban.js"
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/厂长.json"
+      "ext": "./json/厂长1017.json"
     },
     {
       "key": "77",
