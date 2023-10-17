@@ -23,7 +23,7 @@
     },
     {
       "key": "jojo_open",
-      "name": "🚁JOJ┃2K",
+      "name": "🚁JOJ┃影视",
       "type": 3,
       "api": "csp_JoJo",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "索尼",
-      "name": "🛸索尼┃2K ",
+      "name": "🛸索尼┃影视 ",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -68,7 +68,7 @@
     },
     {
       "key": "csp_XBPQ_haoxi",
-      "name": "🍎好戏┃2K",
+      "name": "🍎好戏┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "js_czsapp",
-      "name": "🏰┃厂长┃2K",
+      "name": "🏰┃厂长┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -88,7 +88,7 @@
     },
     {
       "key": "往往",
-      "name": "🐶往往┃2K",
+      "name": "🐶往往┃影视",
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
@@ -99,7 +99,7 @@
     },
     {
       "key": "csp_348",
-      "name": "🌜日后┃2K",
+      "name": "🌜日后┃影视",
       "type": 3,
       "jar": "./jar/H.jar",
       "api": "csp_XBPQ",
@@ -110,7 +110,7 @@
     },
     {
       "key": "子子",
-      "name": "🗽子子┃2K",
+      "name": "🗽子子┃影视",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -119,14 +119,14 @@
     },
     {
       "key": "drpy_js_moflix影视",
-      "name": "🐈mof┃2k",
+      "name": "🐈mof┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/moflix.js"
     },
     {
       "key": "csp_FreeOK",
-      "name": "💰️Free┃2K",
+      "name": "💰️Free┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -135,20 +135,18 @@
       "ext": "./json/free.json"
     },
     {
-      "key": "黑狐",
-      "name": "🦇黑狐┃2K",
+      "key": "csp_黑狐",
+      "name": "🐈‍⬛黑狐┃影视",
       "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
-      "playerType": "2",
-      "api": "csp_XBPQ",
+      "filterable": 1,
       "ext": "./json/黑狐影院.json"
     },
     {
       "key": "csp_101",
-      "name": "🛎LOL┃2K",
+      "name": "🛎LOL┃影视",
       "type": 3,
       "jar": "./jar/H.jar",
       "api": "csp_XBPQ",
@@ -159,7 +157,7 @@
     },
     {
       "key": "csp_圣城",
-      "name": "🏰圣城┃2K",
+      "name": "🏰圣城┃影视",
       "type": 3,
       "jar": "./jar/H.jar",
       "api": "csp_XBPQ",
@@ -170,14 +168,14 @@
     },
     {
       "key": "素白",
-      "name": "🦢素白白┃2K",
+      "name": "🦢素白白┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/素白白.json"
     },
     {
       "key": "csp_Bttoo",
-      "name": "🍄比特┃2K",
+      "name": "🍄比特┃影视",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -186,7 +184,7 @@
     },
     {
       "key": "49zy",
-      "name": "🗼49Z┃2K",
+      "name": "🗼49Z┃影视",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -231,7 +229,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "🥬豪华┃2K",
+      "name": "🥬豪华┃影视",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -266,7 +264,7 @@
     },
     {
       "key": "爱迪影视",
-      "name": "💘爱迪┃2K",
+      "name": "💘爱迪┃影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_AppYsV2",
@@ -274,7 +272,7 @@
     },
     {
       "key": "速搜",
-      "name": "🏍速搜┃2K",
+      "name": "🏍速搜┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -311,7 +309,7 @@
     },
     {
       "key": "js_nangua",
-      "name": "🎃南瓜┃2K",
+      "name": "🎃南瓜┃影视",
       "type": 3,
       "api": "./js/drpy2.js",
       "searchable": 1,
@@ -321,7 +319,7 @@
     },
     {
       "key": "DiDuan",
-      "name": "⏮️高端┃2K",
+      "name": "⏮️高端┃影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -330,7 +328,7 @@
     },
     {
       "key": "csp_dadagui",
-      "name": "🐢达达龟┃2K",
+      "name": "🐢达达龟┃影视",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -350,7 +348,7 @@
     },
     {
       "key": "zxzj",
-      "name": "📗在线┃2K",
+      "name": "📗在线┃影视",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -360,7 +358,7 @@
     },
     {
       "key": "Vofl",
-      "name": "✌️VOF┃2K",
+      "name": "✌️VOF┃影视",
       "type": 3,
       "api": "csp_Voflix",
       "searchable": 1,
@@ -369,7 +367,7 @@
     },
     {
       "key": "js_Xinsj",
-      "name": "🐠新视觉┃2K",
+      "name": "🐠新视觉┃影视",
       "type": 3,
       "api": "./js/drpy2.js",
       "searchable": 1,
@@ -379,7 +377,7 @@
     },
     {
       "key": "js_Lib",
-      "name": "🍲利奥┃2K",
+      "name": "🍲利奥┃影视",
       "type": 3,
       "api": "./js/drpy2.js",
       "searchable": 1,
@@ -389,35 +387,35 @@
     },
     {
       "key": "drpy_js_影渣渣",
-      "name": "🍒影渣┃2K",
+      "name": "🍒影渣┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/影渣渣.js"
     },
     {
       "key": "drpy_js_四个圈儿",
-      "name": "🌓四圈┃2K",
+      "name": "🌓四圈┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/四个圈影视.js"
     },
     {
       "key": "drpy_js_新片场",
-      "name": "🔇广告┃2K",
+      "name": "🔇广告┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/新片场.js"
     },
     {
       "key": "drpy_js_人人影视",
-      "name": "🙇人人┃2K",
+      "name": "🙇人人┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/人人影视.js"
     },
     {
       "key": "骑骑影院",
-      "name": "🚵骑骑┃2K",
+      "name": "🚵骑骑┃影视",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
@@ -428,7 +426,7 @@
     },
     {
       "key": "新片热播",
-      "name": "🔷新片┃2K",
+      "name": "🔷新片┃影视",
       "type": 1,
       "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -514,7 +512,7 @@
     },
     {
       "key": "cjzy_暴风资源",
-      "name": "🎈暴风┃影视",
+      "name": "🎈暴风┃资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
