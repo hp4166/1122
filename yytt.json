@@ -308,11 +308,11 @@
       }
     },
     {
-      "key": "js_nangua",
-      "name": "🎃南瓜┃影视",
-      "type": 3,
-      "api": "./js/drpy2.js",
-      "ext": "./js/南瓜影视.js"
+      "key":"drpy_js_南瓜影视",
+      "name":"🎃南瓜┃影视[js]",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/南瓜影视.js"
     },
     {
       "key": "DiDuan",
@@ -370,10 +370,10 @@
       "ext": "./js/新视觉.js"
     },
     {
-      "key": "js_Lib",
-      "name": "🍲利奥┃影视",
+      "key": "drpy_js_LIBVIO",
+      "name": "🌏LIBVIO┃影视[js]",
       "type": 3,
-      "api": "./js/drpy2.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/LIBVIO.js"
     },
     {
