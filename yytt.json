@@ -385,7 +385,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/libvio.js"
+      "ext": "./js/LIBIVO.js"
     },
     {
       "key": "drpy_js_影渣渣",
@@ -745,7 +745,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./js/磁力熊[磁].js"
+      "ext": "./js/磁力熊.js"
     },
     {
       "key": "XYQH_电影港",
