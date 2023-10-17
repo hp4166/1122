@@ -29,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./jar/OpenSpider.jar"
+      "jar": "./jar/OpenSpiderYYTT.jar"
     },
     {
       "key": "索尼",
@@ -80,7 +80,7 @@
       "key": "js_czsapp",
       "name": "🏰┃厂长┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -710,7 +710,7 @@
       "name": "🍊橘子┃4K",
       "type": 3,
       "api": "csp_Appto",
-      "jar": "https://download.kstore.space/download/3313/app/to.jar",
+      "jar": "./jar/to.jar",
       "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
     },
     {
@@ -823,7 +823,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/%E7%A3%81%E5%8A%9B%E7%86%8A%5B%E7%A3%81%5D.js"
+      "ext": "./js/磁力熊[磁].js"
     },
     {
       "key": "XYQH_电影港",
@@ -922,7 +922,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+      "jar": "./jar/OpenSpiderYYTT.jar"
     },
     {
       "key": "Aid",
