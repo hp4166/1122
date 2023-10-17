@@ -136,7 +136,7 @@
     },
     {
       "key": "csp_黑狐",
-      "name": "🐈‍⬛黑狐┃影视",
+      "name": "🦫黑狐┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -312,9 +312,6 @@
       "name": "🎃南瓜┃影视",
       "type": 3,
       "api": "./js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./js/南瓜影视.js"
     },
     {
@@ -370,9 +367,6 @@
       "name": "🐠新视觉┃影视",
       "type": 3,
       "api": "./js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./js/新视觉.js"
     },
     {
@@ -380,9 +374,6 @@
       "name": "🍲利奥┃影视",
       "type": 3,
       "api": "./js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./js/LIBVIO.js"
     },
     {
