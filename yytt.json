@@ -363,11 +363,11 @@
       "changeable": 1
     },
     {
-      "key": "js_Xinsj",
-      "name": "🐠新视觉┃影视",
-      "type": 3,
-      "api": "./js/drpy2.js",
-      "ext": "./js/新视觉.js"
+      "key":"drpy_js_新视觉",
+      "name":"✨新视觉┃影视",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/新视觉.js"
     },
     {
       "key": "drpy_js_LIBVIO",
