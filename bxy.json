@@ -679,23 +679,6 @@
       ]
     },
     {
-      "key": "csp_xp_dmw",
-      "name": "🌀动漫岛┃影视",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/动漫岛.json"
-    },
-    {
-      "key": "drpy_js_爱弹幕",
-      "name": "🌀动漫┃爱弹幕[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/爱弹幕.js"
-    },
-    {
       "key": "drpy_js_哔哩直播",
       "name": "🌀直播┃哔哩[js]",
       "type": 3,
@@ -715,58 +698,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/虎牙直播.js"
-    },
-    {
-      "key": "drpy_js_JustLive",
-      "name": "🌀直播┃JustLive[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/JustLive.js"
-    },
-    {
-      "key": "drpy_js_JRKAN直播",
-      "name": "🌀体育┃JRKAN直播[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/JRKAN直播.js"
-    },
-    {
-      "key": "drpy_js_88看球",
-      "name": "🌀体育┃88看球[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/88看球.js"
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "🌀体育┃310直播[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/310直播.js"
-    },
-    {
-      "key": "drpy_js_酷狗MV",
-      "name": "🌀MV┃酷狗[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/酷狗MV.js"
-    },
-    {
-      "key": "csp_xpath_kuqimv",
-      "name": "🌀经典┃MV",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/json/经典MV.json"
-    },
-    {
-      "key": "drpy_js_酷奇MV",
-      "name": "🌀MV┃酷奇[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/酷奇MV.js"
     },
     {
       "key": "drpy_js_短视频",
@@ -790,8 +721,77 @@
       "ext": "./js/网易公版影像.js"
     },
     {
+      "key": "drpy_js_JustLive",
+      "name": "🌀直播┃JustLive[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/JustLive.js"
+    },
+    {
+      "key": "drpy_js_JRKAN直播",
+      "name": "⚽体育┃JRKAN直播[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/JRKAN直播.js"
+    },
+    {
+      "key": "drpy_js_88看球",
+      "name": "⚽体育┃88看球[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/88看球.js"
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "⚽体育┃310直播[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/310直播.js"
+    },
+    {
+      "key": "csp_xp_dmw",
+      "name": "🐇动漫岛┃影视",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/动漫岛.json"
+    },
+    {
+      "key": "drpy_js_爱弹幕",
+      "name": "🐇动漫┃爱弹幕[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/爱弹幕.js"
+    },
+    {
+      "key": "drpy_js_酷狗MV",
+      "name": "🎵MV┃酷狗[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/酷狗MV.js"
+    },
+    {
+      "key": "csp_xpath_kuqimv",
+      "name": "🎵经典┃MV",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/json/经典MV.json"
+    },
+    {
+      "key": "drpy_js_酷奇MV",
+      "name": "🎵MV┃酷奇[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/酷奇MV.js"
+    },
+    {
       "key": "drpy_js_JangoIndex",
-      "name": "🌀音频┃JangoIndex[js]",
+      "name": "🎵音频┃JangoIndex[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/JangoIndex.js",
@@ -799,7 +799,7 @@
     },
     {
       "key": "drpy_js_DJ音乐",
-      "name": "🌀音频┃DJ音乐[js]",
+      "name": "🎵音频┃DJ音乐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/DJ音乐.js",
@@ -807,7 +807,7 @@
     },
     {
       "key": "drpy_js_啦啦DJ",
-      "name": "🌀音频┃啦啦DJ[js]",
+      "name": "🎵音频┃啦啦DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/苹果DJ.js",
@@ -815,7 +815,7 @@
     },
     {
       "key": "drpy_js_清风DJ",
-      "name": "🌀音频┃清风DJ[js]",
+      "name": "🎵音频┃清风DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/清风DJ.js",
@@ -823,14 +823,14 @@
     },
     {
       "key": "drpy_js_种子音乐",
-      "name": "🌀音频┃种子音乐[js]",
+      "name": "🎵音频┃种子音乐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/种子音乐.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
-      "name": "🌀广播┃蜻蜓FM[js]",
+      "name": "🎵广播┃蜻蜓FM[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/蜻蜓FM.js",
@@ -838,7 +838,7 @@
     },
     {
       "key": "drpy_js_相声随身听",
-      "name": "🌀相声┃相声随身听[js]",
+      "name": "🎵相声┃相声随身听[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/相声随身听.js",
@@ -846,7 +846,7 @@
     },
     {
       "key": "drpy_js_i275听书",
-      "name": "🌀听书┃i275听书[js]",
+      "name": "🎵听书┃i275听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/i275听书.js",
@@ -854,7 +854,7 @@
     },
     {
       "key": "drpy_js_喜马拉雅",
-      "name": "🌀听书┃喜马拉雅[js]",
+      "name": "🎵听书┃喜马拉雅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/喜马拉雅.js",
@@ -862,7 +862,7 @@
     },
     {
       "key": "drpy_js_六月听书",
-      "name": "🌀听书┃六月听书[js]",
+      "name": "🎵听书┃六月听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/六月听书.js",
@@ -870,7 +870,7 @@
     },
     {
       "key": "drpy_js_博看听书",
-      "name": "🌀听书┃博看听书[js]",
+      "name": "🎵听书┃博看听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/博看听书.js",
@@ -878,7 +878,7 @@
     },
     {
       "key": "drpy_js_海洋听书",
-      "name": "🌀听书┃海洋听书[js]",
+      "name": "🎵听书┃海洋听书[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/海洋听书.js",
@@ -886,7 +886,7 @@
     },
     {
       "key": "drpy_js_听书网",
-      "name": "🌀听书┃听书网[js]",
+      "name": "🎵听书┃听书网[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/听书网.js",
@@ -894,7 +894,7 @@
     },
     {
       "key": "drpy_js_有声小说",
-      "name": "🌀听书┃有声小说[js]",
+      "name": "🎵听书┃有声小说[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/有声小说吧.js",
@@ -902,14 +902,14 @@
     },
     {
       "key": "drpy_js_A8音乐",
-      "name": "🌀MV┃A8音乐[js]",
+      "name": "🎵MV┃A8音乐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/A8音乐.js"
     },
     {
       "key": "drpy_js_苹果DJ",
-      "name": "🌀MV┃苹果DJ[js]",
+      "name": "🎵MV┃苹果DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/苹果DJ.js"
