@@ -6,7 +6,7 @@
       "name": "⚡️仅个人测试使用，禁止商用售卖",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./JS/29_022812_drpy.js",
+      "ext": "./js/29_022812_drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
