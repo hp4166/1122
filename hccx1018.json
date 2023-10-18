@@ -757,7 +757,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕2解析",
+      "name": "🏆SVIP➕解析2",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -800,7 +800,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕3解析",
+      "name": "🏆SVIP➕解析3",
       "type": 1,
       "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -828,17 +828,17 @@
       }
     },
     {
-      "name": "🎖️VIP➕4嗅探",
+      "name": "🎖️VIP➕嗅探4",
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "showType": 1
     },
     {
-      "name": "🎖️VIP➕5嗅探",
+      "name": "🎖️VIP➕嗅探5",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "🎖️VIP➕6嗅探",
+      "name": "🎖️VIP➕嗅探6",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -869,12 +869,12 @@
       }
     },
     {
-      "name": "🎖️VIP➕7嗅探",
+      "name": "🎖️VIP➕嗅探7",
       "type": 0,
       "url": "http://www.miaoys.cc/vip/?url="
     },
     {
-      "name": "🎖️VIP➕8嗅探",
+      "name": "🎖️VIP➕嗅探8",
       "type": 0,
       "url": "https://jx.ppjbk.cn/?url=",
       "ext": {
@@ -884,12 +884,12 @@
       }
     },
     {
-      "name": "🎖️VIP➕9嗅探",
+      "name": "🎖️VIP➕嗅探9",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "🎖️VIP➕10嗅探",
+      "name": "🎖️VIP➕嗅探10",
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "type": 0,
       "ext": {
@@ -923,7 +923,7 @@
       }
     },
     {
-      "name": "🎖️VIP➕11嗅探",
+      "name": "🎖️VIP➕嗅探11",
       "type": 0,
       "url": "https://jx.4kdv.com/?url=",
       "ext": {
