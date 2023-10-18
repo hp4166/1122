@@ -51,6 +51,10 @@
 
    {"key":"MoMo","name":" 陌陌┃影院","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":{"图片":"data-original=\"&&\"","链接":"href=\"&&\"","分类":"电影$dianying#连续剧$dianshiju#动漫$dongman#动作$dongzuopian#喜剧$xijupian#科幻$kehuanpian#恐怖$kongbupian#爱情$aiqingpian#战争$zhanzhengpian#犯罪$fanzuipian#电影漫$donghuadianying#邵氏电影$shaoshidianying#国剧$guochanju#港台$gangtaiju#欧美$oumeiju#日韩$rihanju#综艺$zongyi","分类url":"https://www.hbdfqc.com/ztt/{cateId}-{catePg}/"}},
 
+   {"key":"700K","name":"700看┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://700kan.cc/DyttShow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#喜剧片$6#动作片$5#科幻片$8#恐怖片$9#国产剧$12"}},
+
+   {"key":"Kanj","name":"吃西瓜┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"},
+
    {"key":"Efuns","name":" Efuns┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.pili5.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 
    {"key":"Qin","name":"QinDiea┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://qindiea.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{yeat}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#"}},
