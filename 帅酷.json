@@ -258,7 +258,7 @@
 
 {"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666"},
 
-{"key": "douban","name": " 提醒每次长按主页可以刷新哦","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": " 长按主页可以刷新哦","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],
