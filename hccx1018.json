@@ -151,7 +151,7 @@
     },
     {
       "key": "csp_日后",
-      "name": "👑日后影视┃HDR",
+      "name": "👑酷玩影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -231,7 +231,7 @@
     },
     {
       "key": "csp_兔年",
-      "name": "👑兔年影视┃HDR",
+      "name": "👑YYDS影视┃HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
