@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/星辰影院.json"
+      "ext": "./json/极客影院.json"
     },
     {
       "key": "csp_xBPQ_疯狗",
@@ -66,7 +66,7 @@
       "name": "👑VIP影视┃HDR",
       "type": 3,
       "jar": "./jar/xyq1019.jar",
-      "api": "csp_XYQHiker",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
