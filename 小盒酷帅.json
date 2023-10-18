@@ -34,8 +34,11 @@
       "key": "热剧猫",
       "name": "热剧猫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/热剧猫1018.js"
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://v.aaaa0.top:2525/api.php/app/"
     },
     {
             "key": "追忆影视",
