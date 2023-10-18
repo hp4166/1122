@@ -32,10 +32,13 @@
     },
     {
       "key": "热剧猫",
-      "name": "热剧猫┃[js] ",
+      "name": "热剧猫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/热剧猫1015.js"
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://v.aaaa0.top:2525/api.php/app/"
     },
     {
             "key": "追忆影视",
@@ -466,6 +469,63 @@
       "name": "web聚合",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "巧技解析",
+      "type": 1,
+      "url": "http://pandown.pro/app/kkdy.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "绿豆解析",
+      "type": 1,
+      "url": "http://pandown.pro/app/lvdou.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
     },
     {
       "name": "热剧猫解析",
