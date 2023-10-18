@@ -834,14 +834,14 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
-     {
+    {
       "key": "Wogg33",
       "name": "🦊阿里┃玩偶哥哥",
       "type": 3,
       "style": {
         "type": "rect",
         "ratio": 1.597
-      },
+     },
       "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$https://wogg.xyz/"
