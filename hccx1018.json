@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/极客影院.json"
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/json/极客影院.json"
     },
     {
       "key": "csp_XYQHiker_疯狗",
