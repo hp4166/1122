@@ -43,15 +43,14 @@
       "key": "csp_xBPQ_极客",
       "name": "👑极客影视┃HDR",
       "type": 3,
-      "jar": "./jar/xyq1019.jar",
-      "api": "csp_XYQHiker",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/极客影院.json"
     },
     {
-      "key": "csp_xBPQ_疯狗",
+      "key": "csp_XYQHiker_疯狗",
       "name": "👑峰哥影视┃HDR",
       "type": 3,
       "jar": "./jar/xyq1019.jar",
@@ -62,7 +61,7 @@
       "ext": "./json/疯狗影视.json"
     },
     {
-      "key": "csp_xBPQ_VIP影视",
+      "key": "csp_XPath_VIP影视",
       "name": "👑VIP影视┃HDR",
       "type": 3,
       "jar": "./jar/xyq1019.jar",
@@ -73,7 +72,7 @@
       "ext": "./json/VIP影视.json"
     },
     {
-      "key": "csp_xBPQ_锐行",
+      "key": "csp_XYQHike_锐行",
       "name": "👑瑞鑫影视┃HDR",
       "type": 3,
       "jar": "./jar/xyq1019.jar",
