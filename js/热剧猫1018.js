@@ -18,7 +18,7 @@
         class_name: '电影&剧集&综艺&动漫', // 分类筛选 /api.php/app/nav
         class_url: '1&2&3&4',
         play_parse: true,
-        lazy: 'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://pandown.pro/app/lvdou.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+        lazy: 'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://jx.daenys.vip:2587/tnmba.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
         limit: 6,
         推荐: 'json:list[0].vlist;*;*;*;*',
         一级: 'json:list;vod_name;vod_pic;vod_remarks||vod_score;vod_id',
