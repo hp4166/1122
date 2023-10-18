@@ -699,13 +699,6 @@
       "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/异世界动漫.js"
     },
     {
-      "key": "drpy_js_落雪",
-      "name": "🎶 音频| 落雪[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/落雪音乐.js"
-    },
-    {
       "key": "drpy_js_JangoIndex",
       "name": "🎶音频 | JangoIndex[js]",
       "type": 3,
