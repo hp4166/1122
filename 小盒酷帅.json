@@ -58,6 +58,8 @@
 
    {"key":"Kanj","name":"吃西瓜┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"},
 
+   {"key":"mogu","name":"👒蘑菇┃影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.180.204.151:82/api.php/app/"},
+
    {"key":"Efuns","name":" Efuns┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.pili5.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 
    {"key":"Qin","name":"QinDiea┃影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://qindiea.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{yeat}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#"}},
