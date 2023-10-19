@@ -453,7 +453,7 @@
     },
     {
       "key": "xh",
-      "name": "🎯2023.10.15更新",
+      "name": "🎯2023.10.19更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
@@ -529,14 +529,14 @@
         ]
       }
     },
-    {"name":"可米","type":1,"url":"https://jx.kemi.lol/api/?key=5AQShj9O9os1TOtUDj&url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 MUOUAPP/10.8.4506.400"},"ext": {"flag": ["kemi"]}},
+    {"name":"可米解析","type":1,"url":"https://jx.kemi.lol/api/?key=5AQShj9O9os1TOtUDj&url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 MUOUAPP/10.8.4506.400"},"ext": {"flag": ["kemi"]}},
     {
-      "name": "热剧猫解析",
+      "name": "热剧解析",
       "type": 1,
       "url": "http://jx.daenys.vip:2587/tnmba.php?url="
     },
     {
-      "name": "🕵影探",
+      "name": "🕵影探解析",
       "type": 1,
       "url": "http://jiexi.lyyytv.cn/json.php?url=",
       "ext": {
@@ -549,7 +549,7 @@
       }
     },
     {
-      "name": "🌽玉米",
+      "name": "🌽玉米解析",
       "type": 1,
       "url": "http://61.147.93.21:8090/index.php?url="
     },
