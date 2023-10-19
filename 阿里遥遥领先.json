@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "🦊仅个人测试使用，禁止商用售卖",
-      "name": "🥔豆瓣┃酷玩",
+      "name": "🥔仅个人测试使用，禁止商用售卖",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -151,8 +151,8 @@
       "jar": "./jar/hccx1019.jar"
     },
     {
-      "key": "♻️drpy_js_ddys",
-      "name": "♻️荐片┃酷玩",
+      "key": "drpy_js_ddys",
+      "name": "荐片┃酷玩",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/荐片.js"
@@ -427,7 +427,7 @@
     },
     {
       "key": "🦄PanSou3",
-      "name": "🦄业余┃酷玩",
+      "name": "🦄盘搜┃酷玩",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -625,7 +625,7 @@
     },
     {
       "key": "push_agent",
-      "name": "酷玩饭┃推送",
+      "name": "🦉酷玩饭┃推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -634,7 +634,7 @@
     },
     {
       "key": "push_agent",
-      "name": "|酷玩香┃推送",
+      "name": "🦉酷玩香┃推送",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": 1,
