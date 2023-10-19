@@ -53,7 +53,7 @@
     },
     {
       "key": "荐片",
-      "name": "⏏️荐片┃酷玩",
+      "name": "🅱️荐片┃酷玩",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
       "key": "荐片弹幕版",
-      "name": "⏏️荐片┃弹幕版",
+      "name": "🅱️荐片┃弹幕版",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -136,13 +136,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "爱奇异",
-      "name": "⏏️爱奇艺┃酷玩",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/aiqiyi1019.js"
     },
     {
       "key": "🐿csp_KungFu4041",
