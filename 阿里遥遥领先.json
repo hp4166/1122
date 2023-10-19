@@ -89,6 +89,45 @@
         "danmu": true
       },  
       "jar": "./jar/TP1019.jar"
+    },
+    {
+      "key": "jojo",
+      "name": "🌉jojo影视┃弹幕",
+      "type": 3,
+      "api": "csp_Jojo",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "./jar/OKtp1019.jar",
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "贱贱",
+      "name": "🐭贱贱┃p2p弹幕",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/OKtp1019.jar",
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "360",
+      "name": "🐘360影视┃弹幕",
+      "type": 3,
+      "api": "csp_Sp360",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "./jar/OKtp1019.jar",
+      "ext": {
+        "danmu": true
+      }
     },    
     {
       "key": "360",
