@@ -65,32 +65,6 @@
       "ext": "./Alistxy1019.json"
     },
     {
-      "key": "荐片",
-      "name": "🅱️荐片┃酷玩",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      },
-      "jar": "./jar/TP1019.jar"
-    },
-    {
-      "key": "荐片弹幕版",
-      "name": "🅱️荐片┃弹幕版",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },  
-      "jar": "./jar/TP1019.jar"
-    },
-    {
       "key": "jojo",
       "name": "🌉jojo影视┃弹幕",
       "type": 3,
@@ -117,18 +91,31 @@
       }
     },
     {
-      "key": "360",
-      "name": "🐘360影视┃弹幕",
+      "key": "荐片",
+      "name": "🅱️荐片┃酷玩",
       "type": 3,
-      "api": "csp_Sp360",
+      "api": "csp_Jianpian",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "jar": "./jar/OKtp1019.jar",
+      "ext": {
+        "danmu": false
+      },
+      "jar": "./jar/TP1019.jar"
+    },
+    {
+      "key": "荐片弹幕版",
+      "name": "🅱️荐片┃弹幕版",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
         "danmu": true
-      }
-    },    
+      },  
+      "jar": "./jar/TP1019.jar"
+    },   
     {
       "key": "360",
       "name": "🅱️360 官源|T追剧",
