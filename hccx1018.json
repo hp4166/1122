@@ -22,13 +22,13 @@
     },
     {
       "key":"AppShop",
-      "name":"应用┃商店",
+      "name":"👑应用┃商店",
       "type":3,
       "api":"csp_Market",
       "searchable":0,
       "changeable":0,
-      "ext":"./json/影视商店.json",
-      "jar":"./jar/fm1020.jar"
+      "ext":"./json/market.json",
+      "jar":"./jar/fm.jar"
     },
     {
       "key": "AliYunPan",
