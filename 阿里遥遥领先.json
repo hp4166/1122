@@ -13,6 +13,17 @@
       "filterable": 0
     },
     {
+      "key": "🐿csp_KungFu4041",
+      "name": "🐿Token设置┃酷玩",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./jar/SZ1019ali.jar"
+    },
+    {
       "key": "玩偶",
       "name": "🎭玩偶┃哥哥",
       "type": 3,
@@ -175,17 +186,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "🐿csp_KungFu4041",
-      "name": "🐿Token设置┃酷玩",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/SZ1019ali.jar"
     },
     {
       "key": "csp_woggcli",
