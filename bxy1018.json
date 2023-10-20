@@ -69,8 +69,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{"分类url":"https://www.huohutv.net/vod-show-by-{by}-class-{class}-id-{cateId}-letter-{letter}-year-{year}.html",
-      "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+      "ext":{"分类url":"https://www.huohutv.net/vod-show-area-{area}-by-{by}-class-{class}-id-{cateId}-letter-{letter}-page-{catePg}-year-{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
     },
     {
       "key": "csp_xBPQ_奇优",
