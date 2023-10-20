@@ -189,14 +189,13 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "🧚‍♂️俊哥玩偶.CLi┃酷玩",
+      "name": "🧚‍♂️俊哥玩偶T4┃酷玩",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/cli1019.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
       "key": "🍮Gitcafe6",
@@ -567,12 +566,11 @@
       "key": "🐿t4_wo",
       "name": "🐿玩偶T4┃酷玩",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/JG1019ali.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
       "key": "🐿csp_WoGG7",
