@@ -27,7 +27,7 @@
       "api":"csp_Market",
       "searchable":0,
       "changeable":0,
-      "ext":"http://tvbox.top/json/market.json",
+      "ext":"./json/market.json",
       "jar":"http://tvbox.top/jar/fm.jar"
     },
     {
