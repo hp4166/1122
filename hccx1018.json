@@ -28,7 +28,7 @@
       "searchable":0,
       "changeable":0,
       "ext":"./json/影视商店.json",
-      "jar":"http://tvbox.top/jar/fm1020.jar"
+      "jar":"./jar/fm1020.jar"
     },
     {
       "key": "AliYunPan",
