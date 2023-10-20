@@ -28,7 +28,7 @@
       "searchable":0,
       "changeable":0,
       "ext":"./json/market.json",
-      "jar":"http://tvbox.top/jar/fm.jar"
+      "jar":"./jar/fm1021.jar"
     },
     {
       "key": "AliYunPan",
