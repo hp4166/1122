@@ -269,7 +269,7 @@
     },
     {
       "key": "世界",
-      "name": "世界┃直连",
+      "name": "🗺️世界┃直连",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -279,7 +279,7 @@
     },
     {
       "key": "saohuo",
-      "name": "骚火┃直连",
+      "name": "🔥骚火┃直连",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -300,7 +300,7 @@
     },
     {
       "key": "ok",
-      "name": "Free┃APP",
+      "name": "🧑‍🚀Free┃APP",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -324,7 +324,7 @@
     },
     {
       "key": "csp_XBP南坊",
-      "name": "南坊┃APP",
+      "name": "🏡南坊┃APP",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -359,7 +359,7 @@
     },
     {
       "key": "csp_XBP美剧",
-      "name": "美剧┃APP",
+      "name": "🇺🇸美剧┃APP",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -401,7 +401,7 @@
     },
     {
       "key": "蜗牛2",
-      "name": "蜗牛┃直连",
+      "name": "🐌蜗牛┃直连",
       "type": 3,
       "api": "csp_XBPQ",
       "playStartTime": 15,
@@ -419,7 +419,7 @@
     },
     {
       "key": "云播",
-      "name": "云播┃APP",
+      "name": "☁️云播┃APP",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -451,7 +451,7 @@
     },
     {
       "key": "速映",
-      "name": "速映┃APP",
+      "name": "🚅速映┃APP",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -475,7 +475,7 @@
     },
     {
       "key": "嘉靓",
-      "name": "嘉良┃APP",
+      "name": "💽嘉良┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
@@ -486,7 +486,7 @@
     },
     {
       "key": "348",
-      "name": "酷玩┃APP",
+      "name": "✊酷玩┃APP",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -522,7 +522,7 @@
     },
      {
       "key": "黑狐",
-      "name": "黑狐┃APP",
+      "name": "🦊黑狐┃APP",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -564,7 +564,7 @@
     },
     {
       "key": "mougu",
-      "name": "蘑菇┃APP",
+      "name": "🍄蘑菇┃APP",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -585,7 +585,7 @@
     },
     {
       "key": "龟龟",
-      "name": "龟龟┃APP",
+      "name": "🐢龟龟┃APP",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -606,7 +606,7 @@
     },
     {
       "key": "双黄",
-      "name": "双黄┃APP",
+      "name": "Ⓜ️双黄┃APP",
       "type": 3,
       "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "api": "csp_XBPQ",
@@ -623,7 +623,7 @@
     },
     {
       "key": "蜗牛",
-      "name": "蜗牛┃APP",
+      "name": "♉蜗牛┃APP",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -636,7 +636,7 @@
     },
     {
       "key": "秒看资源",
-      "name": "秒看┃解析",
+      "name": "🙈秒看┃解析",
       "type": 1,
       "api": "https://www.xy1080.net/api.php/provide/vod/",
       "searchable": 1,
@@ -650,7 +650,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "索尼┃资源",
+      "name": "🔜索尼┃资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
