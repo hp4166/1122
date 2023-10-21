@@ -275,7 +275,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/ab.jar;md5;6d660515cdcf798d0816bd300f2eeae2",
       "ext": "http://106.52.241.21:83/api.php/app/"
     },
     {
@@ -285,7 +284,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "2",
-      "jar": "http://xhww.fun:63/小米/ab.jar;md5;6d660515cdcf798d0816bd300f2eeae2",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#mp4#.m3u8?",
@@ -306,7 +304,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "ext": {
         "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
@@ -330,7 +327,6 @@
       "name": "南坊┃APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -366,7 +362,6 @@
       "name": "美剧┃APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;41462cffb79f8bb10fb5250cc3e2e170",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -410,7 +405,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playStartTime": 15,
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "ext": {
         "二次截取": "module-items&&<footer id=+module-item-cover",
         "数组": "module-item-pic&&module-item-cover",
@@ -428,7 +422,6 @@
       "name": "云播┃APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "ext": {
         "影片类型": "分类：&&主演",
         "导演": "导演：</span>&&</p>",
@@ -461,7 +454,6 @@
       "name": "速映┃APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "ext": {
         "站名": "速映影视",
         "主页url": "http://www.suying.life/",
@@ -497,7 +489,6 @@
       "name": "酷玩┃APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "ext": {
         "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
         "站名": "348电影网",
@@ -536,7 +527,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "playerType": "2",
       "api": "csp_XBPQ",
       "ext": {
@@ -577,7 +567,6 @@
       "name": "蘑菇┃APP",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -599,7 +588,6 @@
       "name": "龟龟┃APP",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -620,7 +608,6 @@
       "key": "双黄",
       "name": "双黄┃APP",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -637,7 +624,6 @@
       "key": "蜗牛",
       "name": "蜗牛┃APP",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0",
