@@ -412,17 +412,6 @@
       "ext": ""
     },
     {
-      "key": "ZXZJ",
-      "name": "在线┃直连",
-      "api": "csp_Zxzj",
-      "type": 3,
-      "jar": "./jar/qj1021.jar",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
       "key": "csp_Auete",
       "name": "Auete",
       "type": 3,
