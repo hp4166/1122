@@ -578,7 +578,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/哔哩直播.js"
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/json/bilibili.json"
     },
     {
       "key": "Biliych",
