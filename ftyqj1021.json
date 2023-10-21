@@ -1,10 +1,10 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
+  "spider": ".jar/ftyqj1021.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "🌕公众号【神秘的哥哥们】",
+      "key": "酷玩",
+      "name": "仅个人测试使用，禁止商用贩卖",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "YGP",
@@ -175,8 +175,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+      "api": "./lib/drpy1.min.js",
+      "ext": "./js/jp.js"
     },
     {
       "key": "探探",
@@ -226,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+      "ext": "./json/nmys.json"
     },
     {
       "key": "Cokemv",
@@ -275,7 +275,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"
+      "ext": "./js/4khdr.js"
     },
     {
       "key": "新6V",
@@ -349,8 +349,8 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
+      "api": "./lib/drpy1.min.js",
+      "ext": "./js/88看球.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -363,8 +363,8 @@
       "key": "csp_qiumi",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
+      "api": "./lib/drpy1.min.js",
+      "ext": ",/js/JRKAN直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -377,8 +377,8 @@
       "key": "csp_310直播",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
+      "api": "./lib/drpy1.min.js",
+      "ext": "./js/310直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -399,7 +399,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
+      "ext": ",/json/企鹅直播.json"
     },
     {
       "key": "MV_vod",
@@ -417,7 +417,7 @@
       "key": "酷奇js",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "api": "./lib/drpy1.min.js",
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
@@ -431,7 +431,7 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "api": "./lib/drpy1.min.js",
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
       "style": {
         "type": "rect",
@@ -445,7 +445,7 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "api": "./lib/drpy1.min.js",
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -459,8 +459,8 @@
       "key": "csp_聚短视频",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+      "api": "./lib/drpy1.min.js",
+      "ext": "./js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -469,8 +469,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+      "api": "./lib/drpy1.min.js",
+      "ext": "./js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -487,7 +487,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "Zhaozy",
@@ -497,7 +497,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fantaiying$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$fantaiying$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -507,7 +507,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -517,7 +517,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "PanSearch",
@@ -527,7 +527,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "七夜",
@@ -537,7 +537,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "push_agent",
@@ -578,7 +578,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
+      "ext": "./json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -592,14 +592,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"
+      "ext": "./json/biliych.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "./lib/drpy1.min.js",
+      "ext": "./js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -620,7 +620,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
+      "ext": "./json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -634,7 +634,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"
+      "ext": "./json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -648,7 +648,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"
+      "ext": "./json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -662,7 +662,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"
+      "ext": "./json/高中课堂.json"
     },
     {
       "key": "ext_live_protocol",
@@ -694,7 +694,7 @@
       "url": "Web"
     },
     {
-      "name": "公众号11",
+      "name": "SVIP➕解析1",
       "type": 1,
       "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
       "ext": {
@@ -714,7 +714,7 @@
       }
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "SVIP➕解析2",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -756,6 +756,63 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
+    },
+    {
+      "name": "SVIP➕解析3",
+      "type": 1,
+      "url": "http://pandown.pro/app/kkdy.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "SVIP➕解析4",
+      "type": 1,
+      "url": "http://pandown.pro/app/lvdou.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
     },
     {
       "name": "农民",
