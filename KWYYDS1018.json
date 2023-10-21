@@ -13,6 +13,16 @@
       "filterable": 0
     },
     {
+      "key":"AppShop",
+      "name":"👑蜂蜜应用┃商店",
+      "type":3,
+      "api":"csp_Market",
+      "searchable":0,
+      "changeable":0,
+      "ext":"./json/market.json",
+      "jar":"./jar/fm1021.jar"
+    },
+    {
       "key": "🐿csp_KungFu4041",
       "name": "🐿Token设置┃酷玩",
       "type": 3,
