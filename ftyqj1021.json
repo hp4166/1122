@@ -274,7 +274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/4khdr.js"
     },
     {
@@ -349,7 +349,7 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/88看球.js",
       "style": {
         "type": "rect",
@@ -363,8 +363,8 @@
       "key": "csp_qiumi",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": ",/js/JRKAN直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/JRKAN直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -377,7 +377,7 @@
       "key": "csp_310直播",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/310直播.js",
       "style": {
         "type": "rect",
@@ -399,7 +399,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": ",/json/企鹅直播.json"
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/json/qie.json"
     },
     {
       "key": "MV_vod",
@@ -417,8 +417,8 @@
       "key": "酷奇js",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -431,8 +431,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -445,8 +445,8 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -459,7 +459,7 @@
       "key": "csp_聚短视频",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -469,7 +469,7 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/有声小说吧.js",
       "style": {
         "type": "rect",
