@@ -592,7 +592,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/biliych.json"
+      "ext": "./json/bilibili.json"
     },
     {
       "key": "dr_兔小贝",
