@@ -1,6 +1,7 @@
 {
-  "spider": "./jar/qj1021.jar",
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "spider": "./jar/fty1021.jarr",
+  "jar": "./jar/qj1021.jar",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
       "group": "redirect",
