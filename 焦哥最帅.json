@@ -3,12 +3,15 @@
 
 {
 
-"warningText":"提醒：仅个测试使用，禁止商用售卖",    
+"warningText":"提醒：仅个测试使用，禁止商用贩卖",    
 
 
 "sites":[
 
 {"key": "豆瓣","name": "🌸路漫漫┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
+{"key":"AppShop","name":"🌏蜂蜜应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/market.json",
+"jar":"./jar/fm1021.jar"},
 
 {"key": "360","name":"🐼360┃[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
 
