@@ -226,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/农民影院.json"
+      "ext": "./json/nmys.json"
     },
     {
       "key": "Cokemv",
@@ -598,7 +598,7 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/兔小贝.js",
       "style": {
         "type": "rect",
