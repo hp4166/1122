@@ -648,6 +648,17 @@
         "动漫"
       ]
     },
+    { "key":"csp_XBPQ_火狐",
+      "name":"👶火狐┃APP",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"https://cloud.lxweb.cn/f/oMrZCY/xyqgy0922.jar",
+      "ext":{"分类url":"https://www.huohutv.net/vod-show-area-{area}-by-{by}-class-{class}-id-{cateId}-letter-{letter}-page-{catePg}-year-{year}.html",
+      "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+    },
     {
       "key": "索尼资源",
       "name": "🔜索尼┃资源",
