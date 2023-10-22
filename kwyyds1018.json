@@ -196,7 +196,10 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./jar/OKtp1019.jar"
+      "jar": "./jar/OKtp1019.jar",
+      "ext":  {
+        "danmu": true
+      }
     },
     {
       "key": "jojo",
