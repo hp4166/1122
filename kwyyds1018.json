@@ -74,6 +74,23 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd",
       "jar": "./jar/woggtv1020.jar"
+    },
+    {
+      "ext": "eyJhcGlLZXkiOiI3MTQzZmQzNC0xZjY5LTQzZWYtYTE2Ny04ZTE3NWQ5ZTEwODkiLCJhcGkiOiJodHRwOi8vMjIyLjIxOC4xMjAuNzg6NzY1NCJ9",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "♻️小雅搜索",
+      "viewType": {
+        "style": {
+          "type": "rect"
+        }
+    },
+      "changeable": 0,
+      "jar": "http://222.218.120.78:7654/spring.jar",
+      "api": "csp_XiaoYa",
+      "type": 3,
+      "key": "csp_XiaoYa",
+      "searchable": 1
     },  
     {
       "key": "csp_Alistxy",
@@ -86,6 +103,92 @@
       "ext": "./Alistxy1019.json"
     },
     {
+      "key": "纸条弹幕版",
+      "name": "🔍纸条弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/OKtp1019.jar"
+    },
+    {
+      "key": "盘Se弹幕版",
+      "name": "🔍盘Se弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/OKtp1019.jar"
+    },
+    {
+      "key": "找資源弹幕版",
+      "name": "🔍找資源弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "username": "zhaoziyuannb",
+        "password": "zhaoziyuannb",
+        "danmu": true
+      },
+      "jar": "./jar/OKtp1019.jar"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "🔍七夜弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/OKtp1019.jar"
+    },
+    {
+      "key": "盘搜弹幕版",
+      "name": "🔍盘搜弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/OKtp1019.jar"
+    },
+    {
+      "key": "易搜弹幕版",
+      "name": "🔍易搜弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/OKtp1019.jar"
+    },
+    {
       "key": "jojo",
       "name": "🌉jojo影视┃弹幕",
       "type": 3,
@@ -93,7 +196,20 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
+      "jar": "./jar/OKtp1019.jar"
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "jojo弹幕直连",
+      "name": "♻️JOJO弹幕版|直连",
+      "type": 3,
       "jar": "./jar/OKtp1019.jar",
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
       "ext": {
         "danmu": true
       }
