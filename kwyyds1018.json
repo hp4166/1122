@@ -61,7 +61,7 @@
         "filter": "./json/wogg1019.json",
         "danmu": true
       },
-      "jar": "./jar/OKtp1019.jar",
+      "jar": "./jar/OKDM1022.jar",
        "timeout": 30
     },
     {
@@ -114,7 +114,7 @@
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
-      "jar": "./jar/OKtp1019.jar"
+      "jar": "./jar/OKDM.jar"
     },
     {
       "key": "盘Se弹幕版",
@@ -128,7 +128,7 @@
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
-      "jar": "./jar/OKtp1019.jar"
+      "jar": "./jar/OKDM.jar"
     },
     {
       "key": "找資源弹幕版",
@@ -144,7 +144,7 @@
         "password": "zhaoziyuannb",
         "danmu": true
       },
-      "jar": "./jar/OKtp1019.jar"
+      "jar": "./jar/OKDM.jar"
     },
     {
       "key": "七夜弹幕版",
@@ -158,7 +158,7 @@
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
-      "jar": "./jar/OKtp1019.jar"
+      "jar": "./jar/OKDM.jar"
     },
     {
       "key": "盘搜弹幕版",
@@ -172,7 +172,7 @@
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
-      "jar": "./jar/OKtp1019.jar"
+      "jar": "./jar/OKDM.jar"
     },
     {
       "key": "易搜弹幕版",
@@ -186,7 +186,7 @@
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
-      "jar": "./jar/OKtp1019.jar"
+      "jar": "./jar/OKDM.jar"
     },
     {
       "key": "sp360",
@@ -196,7 +196,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./jar/OKtp1019.jar",
+      "jar": "./jar/OKDM.jar",
       "ext":  {
         "danmu": true
       }
@@ -209,7 +209,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./jar/OKtp1019.jar",
+      "jar": "./jar/OKDM.jar",
       "ext":  {
         "danmu": true
       }
@@ -218,7 +218,7 @@
       "key": "jojo弹幕直连",
       "name": "🔱JOJO弹幕版|直连",
       "type": 3,
-      "jar": "./lib/danmu.jar",
+      "jar": "./jar/OKDM.jar",
       "api": "csp_Jiohub",
       "searchable": 1,
       "filterable": 1,
@@ -235,7 +235,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/OKtp1019.jar",
+      "jar": "./jar/OKDM.jar",
       "ext": {
         "danmu": true
       }
@@ -264,7 +264,7 @@
       "ext": {
         "danmu": true
       },  
-      "jar": "./jar/TP1019.jar"
+      "jar": "./jar/OKDM.jar"
     },   
     {
       "key": "360",
