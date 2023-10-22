@@ -86,7 +86,7 @@
         }
     },
       "changeable": 0,
-      "jar": "http://222.218.120.78:7654/spring.jar",
+      "jar": "./xysou1022.jar",
       "api": "csp_XiaoYa",
       "type": 3,
       "key": "csp_XiaoYa",
