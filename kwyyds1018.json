@@ -79,7 +79,7 @@
       "ext": "eyJhcGlLZXkiOiI3MTQzZmQzNC0xZjY5LTQzZWYtYTE2Ny04ZTE3NWQ5ZTEwODkiLCJhcGkiOiJodHRwOi8vMjIyLjIxOC4xMjAuNzg6NzY1NCJ9",
       "filterable": 1,
       "quickSearch": 1,
-      "name": "♻️小雅搜索",
+      "name": "🔍小雅┃搜索",
       "viewType": {
         "style": {
           "type": "rect"
@@ -186,6 +186,16 @@
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
+      "jar": "./jar/OKtp1019.jar"
+    },
+    {
+      "key": "sp360",
+      "name": "♻️360影视┃弹幕",
+      "type": 3,
+      "api": "csp_Sp360",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
       "jar": "./jar/OKtp1019.jar"
     },
     {
