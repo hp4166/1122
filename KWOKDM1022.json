@@ -1,11 +1,11 @@
 {
-  "spider": "./jar/OKDM.jar",
+  "spider": "./jar/OKDM1022.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/ajin0913/TV/main/tv1.txt",
+      "url": "./js/live8.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -43,11 +43,11 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/lf_live.txt"
+      "ext": "./js/lf_live8.txt"
     },
     {
       "key": "jojo",
-      "name": "🌉jojo┃影视",
+      "name": "🌉jojo弹幕┃影视",
       "type": 3,
       "api": "csp_Jojo",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
       "key": "360",
-      "name": "🐘360┃官源",
+      "name": "🐘360弹幕┃官源",
       "type": 3,
       "api": "csp_Sp360",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "哔哩哔哩",
-      "name": "🍻哔哩┃官源",
+      "name": "🍻哔哩弹幕┃官源",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -89,22 +89,22 @@
     },
     {
       "key": "玩偶弹幕",
-      "name": "🤡玩偶┃4K",
+      "name": "🤡玩偶弹幕┃4K",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
-        "filter": "./json/wogg.json",
+        "token": "abb748c232f24fd9aebdb90b0edd27b8",
+        "filter": "./json/wogg1022.json",
         "danmu": true
       },
       "timeout": 30
     },
     {
       "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
+      "name": "🐭贱贱弹幕┃p2p",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -116,28 +116,28 @@
     },
     {
       "key": "YiSo",
-      "name": "😹易搜┃搜索",
+      "name": "😹易搜弹幕┃搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
+        "token": "abb748c232f24fd9aebdb90b0edd27b8",
         "danmu": true
       },
       "timeout": 30
     },
     {
       "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
+      "name": "🐺找资源弹幕┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
+        "token": "abb748c232f24fd9aebdb90b0edd27b8",
         "username": "zhaoziyuannb",
         "password": "zhaoziyuannb",
         "danmu": true
@@ -146,56 +146,56 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
+      "name": "🦊盘搜弹幕┃搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
+        "token": "abb748c232f24fd9aebdb90b0edd27b8",
         "danmu": true
       },
       "timeout": 30
     },
     {
       "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
+      "name": "🙀盘Se弹幕┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
+        "token": "abb748c232f24fd9aebdb90b0edd27b8",
         "danmu": true
       },
       "timeout": 30
     },
     {
       "key": "小纸条",
-      "name": "🦝小纸条┃搜索",
+      "name": "🦝小纸条弹幕┃搜索",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
+        "token": "abb748c232f24fd9aebdb90b0edd27b8",
         "danmu": true
       },
       "timeout": 30
     },
     {
       "key": "七夜",
-      "name": "😾七夜┃搜索",
+      "name": "😾七夜弹幕┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
+        "token": "abb748c232f24fd9aebdb90b0edd27b8",
         "danmu": true
       },
       "timeout": 30
@@ -218,17 +218,17 @@
       "url": "Sequexe"
     },
     {
-      "name": "-00-",
+      "name": "SVIP🆚解析1",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
     },
     {
-      "name": "-01-",
+      "name": "SVIP🆚解析2",
       "type": 1,
       "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4xY&url="
     },
     {
-      "name": "-02-",
+      "name": "SVIP🆚解析3",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -256,7 +256,7 @@
       }
     },
     {
-      "name": "-04-",
+      "name": "SVIP🆚解析4",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
       "ext": {
@@ -267,7 +267,7 @@
       }
     },
     {
-      "name": "-05-",
+      "name": "SVIP🆚解析5",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
@@ -277,7 +277,7 @@
       }
     },
     {
-      "name": "-06-",
+      "name": "SVIP🆚解析6",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
@@ -287,7 +287,7 @@
       }
     },
     {
-      "name": "-07-",
+      "name": "SVIP🆚解析7",
       "type": 0,
       "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
       "ext": {
@@ -297,7 +297,7 @@
       }
     },
     {
-      "name": "-08-",
+      "name": "SVIP🆚解析8",
       "type": 0,
       "url": "https://jx.quankan.app/?url=",
       "ext": {
@@ -307,7 +307,7 @@
       }
     },
     {
-      "name": "-09-",
+      "name": "SVIP🆚解析9",
       "type": 0,
       "url": "https://jx.aidouer.net/?url=",
       "ext": {
@@ -318,7 +318,7 @@
       }
     },
     {
-      "name": "-x-",
+      "name": "SVIP🆚解析10",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     }
