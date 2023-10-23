@@ -60,6 +60,8 @@
 
 {"key":"360影视","name":" 360┃影视","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/ok.jar"},
 
+{"key":"XuanM","name":"炫猫┃影视","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"https://www.xuanmao520.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
+
 {"key":"360影视弹幕版","name":"360影视┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/ok.jar"},
 
 {"key": "小蜗","name": " 小蜗┃BPQ","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0","嗅探词": "xunlei.com#m3u8#.mp4","分类": "电影$1#电视剧$20#动漫$3#综艺$4","搜索模式": "1",
