@@ -559,18 +559,6 @@
       "api":"csp_AppYsV2",
       "ext":"http://one3.emofun.top/mogai_api.php/v1.vod"
     },
-    {
-      "key": "yc",
-      "name": "🎦HDR┃B-站",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
     {
       "key": "黑狐",
       "name": "🦊黑狐┃APP",
