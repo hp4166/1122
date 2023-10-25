@@ -8,7 +8,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "仅个人测试使用，禁止商用贩卖","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "仅测试使用，禁止贩卖","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key":"AppShop","name":"🌏蜂蜜应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/market.json",
 "jar":"./jar/fm1021.jar"},
@@ -274,6 +274,8 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
 {"name": "web聚合","type": 3,"url": "Web"},
+
+{"name": "🏆SVIP➕解析","type": 1,"url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="},
 
 {"name": "热剧解析","type": 1,"url": "http://jx.daenys.vip:2587/tnmba.php?url="},
 
