@@ -218,17 +218,22 @@
       "url": "Sequexe"
     },
     {
-      "name": "SVIP🆚解析1",
+		  "name": "SVIP🆚解析1",
+		  "type": 1,
+		  "url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="
+	  },
+    {
+      "name": "SVIP🆚解析2",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
     },
     {
-      "name": "SVIP🆚解析2",
+      "name": "SVIP🆚解析3",
       "type": 1,
       "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4xY&url="
     },
     {
-      "name": "SVIP🆚解析3",
+      "name": "SVIP🆚解析4",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -256,7 +261,7 @@
       }
     },
     {
-      "name": "SVIP🆚解析4",
+      "name": "SVIP🆚解析5",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
       "ext": {
@@ -267,7 +272,7 @@
       }
     },
     {
-      "name": "SVIP🆚解析5",
+      "name": "SVIP🆚解析6",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
@@ -277,7 +282,7 @@
       }
     },
     {
-      "name": "SVIP🆚解析6",
+      "name": "SVIP🆚解析7",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
@@ -287,7 +292,7 @@
       }
     },
     {
-      "name": "SVIP🆚解析7",
+      "name": "SVIP🆚解析8",
       "type": 0,
       "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
       "ext": {
@@ -297,7 +302,7 @@
       }
     },
     {
-      "name": "SVIP🆚解析8",
+      "name": "SVIP🆚解析9",
       "type": 0,
       "url": "https://jx.quankan.app/?url=",
       "ext": {
@@ -307,7 +312,7 @@
       }
     },
     {
-      "name": "SVIP🆚解析9",
+      "name": "SVIP🆚解析10",
       "type": 0,
       "url": "https://jx.aidouer.net/?url=",
       "ext": {
@@ -318,7 +323,7 @@
       }
     },
     {
-      "name": "SVIP🆚解析10",
+      "name": "SVIP🆚解析11",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     }
