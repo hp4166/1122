@@ -953,6 +953,11 @@
       "url": "Demo"
     },
     {
+		  "name": "SVIP解析",
+		  "type": 1,
+		  "url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url=https://v.qq.com/x/cover/mzc0020069kzne2/b0047imgdk4.html"
+	  },
+    {
       "name": "巧技解析",
       "type": 1,
       "url": "http://pandown.pro/app/kkdy.php?url=",
