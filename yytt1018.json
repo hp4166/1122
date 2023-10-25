@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "⚡️仅个人测试使用，禁止商用售卖",
+      "name": "⚡️仅个人测试使用，禁止贩卖",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/29_022812_drpy.js",
@@ -1467,6 +1467,11 @@
       "type": 3,
       "url": "Demo"
     },
+    {
+		  "name": "🏆SVIP➕解析",
+		  "type": 1,
+		  "url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="
+	  },
     {
       "name": "官解1",
       "type": 1,
