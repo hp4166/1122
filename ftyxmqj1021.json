@@ -594,6 +594,205 @@
       }
     },
     {
+      "key": "aotv",
+      "name": "📽️嗷嗷┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+      }
+    },
+    {
+      "key": "OXS",
+      "name": "📽️O先生┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "测试",
+      "name": "测试┃外剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+    },
+    {
+      "key": "耐看",
+      "name": "耐看┃BPQ",
+      "type": 3,
+      "changeable": 1,
+      "jar": "./jar/fty1013.jar",
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": {
+        "影片类型": "<div class=\"module-blocklist\">&&</div>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "嗅探词": ".mp4#.m3u8",
+        "过滤词": "aa.m3u8zy.fun",
+        "简介": "video-info-item video-info-content vod_content\">&&</span>",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索图片": "http://xhww.fun:63/小米/4.jpeg",
+        "线路数组": "module-tab-item tab-item&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
+        "分类": "动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
+        "分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html"
+      }
+    },
+     {
+      "key": "不休",
+      "name": "📽️不休┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "线路数组": "class=\"stui-pannel__&&</div>[不包含:线路#评论]",
+        "线路标题": "class=\"title\">&&</h3>[替换:不休影视①>>不休影视①有菠菜]",
+        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+        "分类url": "https://www.bxgco.com/bxtop/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
+      "key": "十品",
+      "name": "📽️十品┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "数组": "class=\"v-pic\">&&</div>",
+        "链接": "href=\"&&\"",
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "class=\"v-tips\">&&</div>",
+        "首页": "电视剧",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url": "http://v.sh5187.com/spshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
+      "key": "csp_胖虎",
+      "name": "📽️胖虎┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "胖虎影视",
+        "主页url": "https://www.panghuys.com/",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4",
+        "分类url": "https://www.panghuys.com/vodshow/{cateId}/{area}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
+      "key": "csp_白嫖者联盟",
+      "name": "📽️白嫖┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://188mv.cc/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg]/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "EMO",
+      "name": "✨EMO┃蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "yc",
+      "name": "🎦HDR┃B-站",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+    },
+    {
+      "key": "腾讯",
+      "name": "⭕官方┃资源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/tengxun.js"
+    },
+    {
+      "key": "爱迪",
+      "name": "💡爱迪┃外剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/",
+      "jar": "./jar/xyq.jar"
+    },
+    {
+      "key": "bei",
+      "name": "🗻北川┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/北川.json"
+    },
+    {
+      "key": "腾讯",
+      "name": "⭕官方┃资源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/tengxun.js"
+    },
+    {
+      "key": "555",
+      "name": "😎555┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://555dy3.com/api.php/app/"
+    },
+    {
+      "key": "baoxian",
+      "name": "😎宝仙┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://webdillo.com/api.php/app/"
+    },
+    {
+      "key": "wxtv",
+      "name": "😎无限┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.wxtv.net/api.php/app/"
+    },
+    {
+      "key": "heyik",
+      "name": "😎何以┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.heyik.cn/api.php/v1.vod"
+    },
+    {
       "key": "龟龟",
       "name": "🐢龟龟┃APP",
       "type": 3,
