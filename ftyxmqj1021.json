@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "酷玩",
-      "name": "☪️仅测试使用，禁止商用贩卖",
+      "name": "☪️仅测试使用，禁止贩卖",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -1244,7 +1244,12 @@
       "url": "Web"
     },
     {
-      "name": "🏆SVIP➕解析1",
+		  "name": "🏆SVIP➕解析1",
+		  "type": 1,
+		  "url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url=https://v.qq.com/x/cover/mzc0020069kzne2/b0047imgdk4.html"
+	  },
+    {
+      "name": "🏆SVIP➕解析2",
       "type": 1,
       "url": "http://pandown.pro/app/lvdou.php?url=",
       "ext": {
@@ -1274,7 +1279,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析2",
+      "name": "🏆SVIP➕解析3",
       "type": 1,
       "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
       "ext": {
@@ -1294,7 +1299,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析3",
+      "name": "🏆SVIP➕解析4",
       "type": 1,
       "url": "http://42.157.128.109:2323/CH/app/tv.php?url=",
       "ext": {
@@ -1326,7 +1331,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析4",
+      "name": "🏆SVIP➕解析5",
       "type": 1,
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ext": {
@@ -1355,7 +1360,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析5",
+      "name": "🏆SVIP➕解析6",
       "type": 1,
       "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=",
       "ext": {
@@ -1365,7 +1370,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析6",
+      "name": "🏆SVIP➕解析7",
       "type": 1,
       "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
       "ext": {
@@ -1377,7 +1382,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析7",
+      "name": "🏆SVIP➕解析8",
       "type": 1,
       "url": "",
       "ext": {
@@ -1389,7 +1394,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析8",
+      "name": "🏆SVIP➕解析9",
       "type": 1,
       "url": "http://pandown.pro/app/kkdy.php?url=",
       "ext": {
@@ -1416,7 +1421,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析9",
+      "name": "🏆SVIP➕解析10",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
