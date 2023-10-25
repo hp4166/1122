@@ -553,13 +553,6 @@
       }
     },
     {
-      "key":"EMO",
-      "name":"✨EMO┃蓝光",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "ext":"http://one3.emofun.top/mogai_api.php/v1.vod"
-    },
-    {
       "key": "黑狐",
       "name": "🦊黑狐┃APP",
       "type": 3,
