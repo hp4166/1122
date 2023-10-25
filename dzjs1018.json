@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🌏仅供个人测试❗请勿商用贩卖🌏",
+      "name": "🌏仅供个人测试❗禁贩卖🌏",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/drpy.js"
@@ -1135,6 +1135,11 @@
       "type": 2,
       "url": "Parallel"
     },
+    {
+		  "name": "SVIP解析",
+		  "type": 1,
+		  "url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="
+	  },
     {
       "name": "巧技解析",
       "type": 1,
