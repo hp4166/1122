@@ -630,31 +630,16 @@
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
     {
-      "key": "耐看",
-      "name": "耐看┃BPQ",
-      "type": 3,
-      "changeable": 1,
-      "jar": "./jar/fty1013.jar",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "影片类型": "<div class=\"module-blocklist\">&&</div>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "嗅探词": ".mp4#.m3u8",
-        "过滤词": "aa.m3u8zy.fun",
-        "简介": "video-info-item video-info-content vod_content\">&&</span>",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索图片": "http://xhww.fun:63/小米/4.jpeg",
-        "线路数组": "module-tab-item tab-item&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-        "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
-        "分类": "动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
-        "分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html"
-      }
+      "key":"耐看",
+      "name":"👁耐看┃自建",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{"分类数组":"swiper-wrapper\"*&&</ul>",
+      "线路数组":"data-dropdown-value=&&</div>",
+      "线路标题":"+<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集",
+      "分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"}
     },
-     {
+    {
       "key": "不休",
       "name": "📽️不休┃BPQ",
       "type": 3,
