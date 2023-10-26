@@ -346,6 +346,7 @@
       "key": "csp_XBP南坊",
       "name": "🏡南坊┃APP",
       "type": 3,
+      "jar": "./jar/xm.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
