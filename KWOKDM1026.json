@@ -76,7 +76,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "./jar/OKDM.jar"
+      "jar": "./jar/OKDM1026.jar"
     },
     {
       "key": "哔哩哔哩",
@@ -154,7 +154,7 @@
         "password": "zhaoziyuannb",
         "danmu": true
       },
-      "jar": "./jar/OKDM.jar",
+      "jar": "./jar/OKDM1026.jar",
       "timeout": 30
     },
     {
