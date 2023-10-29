@@ -59,12 +59,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{"分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html]",
-      "倒序":"0",
-      "搜索url": "http://www.7xdy.com/search.php?page=1&searchword={wd}&searchtype=",
-      "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
-      "筛选":{"dianyingpian":[{"key":"cateId",
-      "name":"分类","value":[{"n":"全部分类","v":""},{"n":"动作片","v":"dongzuopian"},{"n":"爱情片","v":"aiqingpian"},{"n":"科幻片","v":"kehuanpian"},{"n":"恐怖片","v":"kongbupian"},{"n":"战争片","v":"zhanzhengpian"},{"n":"喜剧片","v":"xijupian"},{"n":"剧情片","v":"juqingpian"}]}],"dianshiju":[{"key":"cateId","name":"分类","value":[{"n":"全部分类","v":""},{"n":"国产剧","v":"guochanju"},{"n":"港台剧","v":"gangtaiju"},{"n":"欧美剧","v":"oumeiju"},{"n":"日韩剧","v":"rihanju"}]}]}}
+      "ext":"./js/七星影视.js"
     },
     {
       "key": "Czsapp",
