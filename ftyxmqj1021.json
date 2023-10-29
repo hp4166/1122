@@ -41,7 +41,7 @@
     },
     {
       "key": "黑夜",
-      "name": "黑夜┃App",
+      "name": "🌟黑夜┃App",
       "type": 3,
       "jar": "./jar/qj1029.jar",
       "api": "csp_DDMJ",
@@ -177,6 +177,36 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://rzys.xyz"
+    },
+    {
+            "key": "全能",
+            "name": "🌞全能┃App",
+            "type": 0,
+            "api": "http://154.12.90.205/aaznjson/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1
+    },
+    {
+            "key": "玉米",
+            "name": "🎡玉米┃App",
+            "type": 0,
+            "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+    },
+    {
+      "key":"91free",
+      "name":"💟91free",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"分类":"电影$1#电视剧$2#动漫$4#综艺$3",
+      "分类url":"https://91free.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"}
     },
     {
       "key": "迪迪",
@@ -1059,17 +1089,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🅰️Auete┃直连",
-      "type": 3,
-      "jar": "./jar/qj1021.jar",
-      "api": "csp_Auete",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_Dm84",
