@@ -31,6 +31,15 @@
       "changeable": 0
     },
     {
+      "key": "橘子",
+      "name": "🍊橘子┃App",
+      "type": 3,
+      "jar": "./jar/qj1021.jar",
+      "api": "csp_Appto",
+      "playerType": 2,
+      "ext": "SRMR+YDWyjDw4OVi1abp1qmsPQBFSG/d46yjg1bMwRs2+AjVEALgCrNa182rw7JF5rG/LEkq1git0tTkngA1wZsYmjnRNFSZzj2OAUt+lp8HMp38HO1hA42NeARurO1Xg5PGigDiW57pgSMvi9j4aFj4XnDVX/JhAWwbOA8sywGFP9zPldoLpw0l+R7Xvry56BuB0Iv2tnlFzrc98gSLbjIGXRTjJ3LEgo1GZnDM/y22Ydl8Or7/+3Hp6eY4GfPi4do4miRrfuku005ljcQ5jnY+fNSnhABgSQeF9qb9HdshY4HsSu+DKxVuyJ9H1LZmd0Rghbg+tjA3UdMUOccLq5aXLQWgLQ5IRz3f6DNbpsvOsPFlRJEOoioB9Dk+nAZVNjcilTTJaPmyp02KpGiV+cMHTemVGsZNcQYbDQYn3EYKynE2qP9FlI3Pbea9HIlTnnRe4PVtN+oKowgPBNw6CHkNZhf8uIwf54cG5kfanigW/6aqWEf1wQ7E72QdnAxnTLZkLJ0XMR9ciG6noEX8cY5JuuKO5YekcDHCa1Q1+DPLJiRUmqfPswc2EKBNiX14uEHJzUYCUs6ZtGUJpgxzeM8wp/+JbKIwncsuxNM2GWKGEAuYMMaxiYBai4md94dJwu21GnQiBTGZiU4Ax60AXVnsM3cgVbfsxwe7l1TpV6sk="
+    },
+    {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
