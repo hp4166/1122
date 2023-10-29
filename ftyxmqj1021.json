@@ -1719,6 +1719,11 @@
       ]
     },
     {
+      "name":"YQK",
+      "hosts":["yqk88"],
+      "regex":["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]
+    },
+    {
       "name": "农民",
       "hosts": [
         "toutiaovod.com"
