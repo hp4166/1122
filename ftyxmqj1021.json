@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/ftyxmqj1025.jar",
+  "spider": "./jar/ftyxmqj1030.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -13,13 +13,13 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K(弹幕测试)",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt+4k|auto|fhd"
+      "ext": "./token.txt+4k|auto|fhd$$$弹"
     },
     {
       "key": "YGP",
