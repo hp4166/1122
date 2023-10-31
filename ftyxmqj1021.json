@@ -70,7 +70,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czz9.com/"
+      "ext": "https://www.czzy88.com/"
     },
     {
       "key": "Mino",
@@ -101,6 +101,28 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
+    },
+    {
+      "key": "嗨嘢",
+      "name": "👀嗨嘢┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg="
+    },
+    {
+      "key": "快影",
+      "name": "👻快影┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
     {
       "key": "皮皮虾",
