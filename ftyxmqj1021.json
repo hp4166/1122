@@ -22,6 +22,16 @@
       "ext": "./tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
+      "key": "t4_wo",
+      "name": "💽云盘┃直连",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "YGP",
       "name": "🚀叨观荐影┃速递",
       "type": 3,
@@ -697,7 +707,7 @@
     },
     {
       "key": "测试",
-      "name": "测试┃外剧",
+      "name": "♏测试┃外剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -982,6 +992,15 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "http://iosa.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶┃App",
+      "type": 3,
+      "jar":"./jar/qj1105.jar",
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "https://yundun-hdsign.zhuifeng100.cn"
     },
     {
       "key": "索尼资源",
