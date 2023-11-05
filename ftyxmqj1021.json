@@ -928,7 +928,7 @@
     },
     {
       "key": "星星",
-      "name": "星星┃App",
+      "name": "✨星星┃App",
       "type": 3,
       "jar":"./jar/qj1105.jar",
       "api": "csp_Appto",
@@ -973,7 +973,7 @@
     },
     {
       "key": "K影",
-      "name": "K影院┃App",
+      "name": "✳️K影院┃App",
       "type": 3,
       "jar":"./jar/qj1105.jar",
       "api": "csp_AppYsV2",
