@@ -203,7 +203,7 @@
     },
     {
       "key":"91free",
-      "name":"💟91free",
+      "name":"💟91┃free",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
@@ -995,7 +995,7 @@
     },
     {
       "key": "蝴蝶",
-      "name": "蝴蝶┃App",
+      "name": "🦋蝴蝶┃App",
       "type": 3,
       "jar":"./jar/qj1105.jar",
       "api": "csp_Hudie",
