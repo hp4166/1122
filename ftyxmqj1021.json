@@ -984,17 +984,6 @@
       "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "NoSearch_csp_DiDuan",
-      "name": "低端┃直连",
-      "type": 3,
-      "jar":"./jar/qj1105.jar",
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "索尼资源",
       "name": "🔜索尼┃资源",
       "type": 1,
