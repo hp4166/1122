@@ -1,6 +1,6 @@
 { 
-  "spider": "./jar/ftyxmqj1105.jar",
-  "warningText": "焦哥最酷提醒：每次使用前记得长按主页刷新接口",
+  "spider": "./jar/fty1106.jar",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆瓣",
