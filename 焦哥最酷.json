@@ -896,7 +896,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt"
     },
     {   
       "key": "csp_WoGG",
@@ -916,7 +916,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "Paper",
@@ -926,7 +926,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "drpy_js_Alist",
@@ -946,7 +946,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "七夜",
@@ -956,7 +956,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "YiSo",
@@ -967,7 +967,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tvbox/token.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "PanSou",
@@ -977,7 +977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "UpYun",
@@ -987,7 +987,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt"
     }
     ],
       "parses": [
