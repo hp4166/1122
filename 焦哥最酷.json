@@ -585,18 +585,6 @@
       "ext":"http://one3.emofun.top/mogai_api.php/v1.vod"
     },
     {
-	    "key": "yc",
-	    "name": "🎦HDR┃B-站",
-	    "type": 3,
-      "playerType": 1,
-	    "api": "csp_Hdhive",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 0,
-	    "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-	    "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-    {
       "key": "csp_XBP美剧",
       "name": "美剧┃影视",
       "type": 3,
@@ -887,6 +875,18 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/cctv.py"
+    },
+    {
+	    "key": "yc",
+	    "name": "📀阿里┃云盘",
+	    "type": 3,
+      "playerType": 1,
+	    "api": "csp_Hdhive",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+	    "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
     },
     {
       "key": "xml_玩偶",
