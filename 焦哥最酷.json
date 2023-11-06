@@ -861,18 +861,6 @@
       "ext": "./lib/cctv.py"
     },
     {
-	    "key": "yc",
-	    "name": "📀阿里┃云盘",
-	    "type": 3,
-      "playerType": 1,
-	    "api": "csp_Hdhive",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 0,
-	    "ext": "./tvbox/token.txt",
-	    "jar": "./jar/XQY.jar"
-    },
-    {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
       "type": 3,
