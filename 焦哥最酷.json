@@ -861,17 +861,18 @@
       "ext": "./lib/cctv.py"
     },
     {
-	    "key": "csp_XYQHiker",
-	    "name": "📀阿里云盘",
+
+      "key": "xry",
+	    "name": "📀阿里┃云盘",
 	    "type": 3,
       "jar": "./jar/xry.jar",
-	    "api": "csp_XYQHiker",
-	    "playerType": 1,
+      "playerType": 1,
+	    "api": "csp_Hdhive",
 	    "searchable": 1,
 	    "quickSearch": 1,
-	    "filterable": 1,
+	    "filterable": 0,
 	    "ext": "./tvbox/token.txt"
-},
+    },
     {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
