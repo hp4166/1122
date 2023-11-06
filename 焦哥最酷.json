@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt"
+      "ext": "./tvbox/token.txt"
     },
     { 
       "key":"csp_Alistxy",
@@ -896,7 +896,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     },
     {   
       "key": "csp_WoGG",
@@ -906,7 +906,7 @@
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "ext": "./tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "小纸条_cli",
@@ -916,7 +916,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "Paper",
@@ -926,7 +926,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "drpy_js_Alist",
@@ -946,7 +946,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "七夜",
@@ -956,7 +956,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "YiSo",
@@ -967,7 +967,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "PanSou",
@@ -977,7 +977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -987,7 +987,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     }
     ],
       "parses": [
