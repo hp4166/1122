@@ -114,6 +114,46 @@
       "ext": "./json/vs影视.json"
     },
     {
+      "key": "csp_低端",
+      "name": "👑低端影视┃HDR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/低端影视.json"
+    },
+    {
+      "key": "csp_达达龟",
+      "name": "👑达达龟影视┃HDR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/达达龟影视.json"
+    },
+    {
+      "key": "csp_超前",
+      "name": "👑超前B站┃HDR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/超前B站.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "👑七新影视┃HDR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/七新影视.json"
+    },
+    {
       "key": "csp_午夜",
       "name": "👑午夜影视┃HDR",
       "type": 3,
@@ -768,12 +808,47 @@
       "url": "Web"
     },
     {
-		"name": "🏆SVIP➕解析1",
+      "name": "🏆SVIP➕解析1",
+      "type": 1,
+      "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+    {
+		"name": "🏆SVIP➕解析2",
 		"type": 1,
 		"url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="
 	  },
     {
-      "name": "🏆SVIP➕解析2",
+      "name": "🏆SVIP➕解析3",
       "type": 1,
       "url": "http://61.147.93.21:8090/index.php?url=",
       "ext": {
@@ -816,7 +891,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析3",
+      "name": "🏆SVIP➕解析4",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -859,7 +934,7 @@
       }
     },
     {
-      "name": "🏆SVIP➕解析4",
+      "name": "🏆SVIP➕解析5",
       "type": 1,
       "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -887,17 +962,17 @@
       }
     },
     {
-      "name": "🎖️VIP➕嗅探5",
+      "name": "🎖️VIP➕嗅探6",
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "showType": 1
     },
     {
-      "name": "🎖️VIP➕嗅探6",
+      "name": "🎖️VIP➕嗅探7",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "🎖️VIP➕嗅探7",
+      "name": "🎖️VIP➕嗅探8",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -928,12 +1003,12 @@
       }
     },
     {
-      "name": "🎖️VIP➕嗅探8",
+      "name": "🎖️VIP➕嗅探9",
       "type": 0,
       "url": "http://www.miaoys.cc/vip/?url="
     },
     {
-      "name": "🎖️VIP➕嗅探9",
+      "name": "🎖️VIP➕嗅探10",
       "type": 0,
       "url": "https://jx.ppjbk.cn/?url=",
       "ext": {
@@ -943,12 +1018,12 @@
       }
     },
     {
-      "name": "🎖️VIP➕嗅探10",
+      "name": "🎖️VIP➕嗅探11",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "🎖️VIP➕嗅探11",
+      "name": "🎖️VIP➕嗅探12",
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "type": 0,
       "ext": {
@@ -982,7 +1057,7 @@
       }
     },
     {
-      "name": "🎖️VIP➕嗅探12",
+      "name": "🎖️VIP➕嗅探13",
       "type": 0,
       "url": "https://jx.4kdv.com/?url=",
       "ext": {
