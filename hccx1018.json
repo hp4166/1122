@@ -254,6 +254,26 @@
       "ext": "./json/七月影视.json"
     },
     {
+      "key": "csp_万达",
+      "name": "👑万达影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/万达影视.json"
+    },
+    {
+      "key": "csp_小鹿",
+      "name": "👑小鹿影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小鹿影视.json"
+    },
+    {
       "key": "csp_日后",
       "name": "👑酷玩影视┃HDR",
       "type": 3,
