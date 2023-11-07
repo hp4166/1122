@@ -22,16 +22,6 @@
       "ext": "./tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
-      "key": "t4_wo",
-      "name": "💽云盘┃直连",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "YGP",
       "name": "🚀叨观荐影┃速递",
       "type": 3,
@@ -101,16 +91,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy88.com/"
-    },
-    {
-      "key": "追忆",
-      "name": "🐿追忆┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
     },
     {
       "key": "嗨嘢",
