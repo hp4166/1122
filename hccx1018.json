@@ -94,6 +94,16 @@
       "ext": "./json/锐行加速影院.json"
     },
     {
+      "key": "csp_师兄",
+      "name": "👑师兄影视|HDR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/大师兄影视.json"
+    },
+    {
       "key": "csp_xBPQ_奇优",
       "name": "👑奇优影视┃HDR",
       "type": 3,
@@ -255,7 +265,7 @@
     },
     {
       "key": "csp_万达",
-      "name": "👑万达影视|T追剧",
+      "name": "👑万达影视|HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -265,7 +275,7 @@
     },
     {
       "key": "csp_小鹿",
-      "name": "👑小鹿影视|T追剧",
+      "name": "👑小鹿影视|HDR",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -482,16 +492,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/新视觉影视.json"
-    },
-    {
-      "key": "csp_xBPQ_子子",
-      "name": "👑紫梓影视┃HDR",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/子子影视.json"
     },
     {
       "key": "csp_非凡",
