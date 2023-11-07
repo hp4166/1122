@@ -213,7 +213,7 @@
     },
     {
       "key": "低端拼接",
-      "name": "低端┃BPQ",
+      "name": "🎨低端┃BPQ",
       "type": 3,
       "changeable": 1,
       "jar": "./jar/fty1013.jar",
@@ -245,7 +245,7 @@
     },
     {
       "key": "黑狐",
-      "name": "黑狐┃BPQ",
+      "name": "🐻‍❄️黑狐┃BPQ",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -288,7 +288,7 @@
     },
     {
       "key": "mougu",
-      "name": "蘑菇┃BPQ",
+      "name": "🍄蘑菇┃BPQ",
       "type": 3,
       "changeable": 1,
       "jar": "./jar/fty1013.jar",
@@ -310,7 +310,7 @@
     },
     {
       "key": "龟龟",
-      "name": "龟龟┃BPQ",
+      "name": "🐢龟龟┃BPQ",
       "type": 3,
       "changeable": 1,
       "jar": "./jar/fty1013.jar",
@@ -332,7 +332,7 @@
     },
     {
       "key": "saohuo",
-      "name": "骚火┃直连",
+      "name": "❤️‍🔥骚火┃直连",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -354,7 +354,7 @@
     },
     {
       "key": "蜗牛",
-      "name": "蜗牛┃BPQ",
+      "name": "🐌蜗牛┃BPQ",
       "type": 3,
       "jar": "./jar/fty1013.jar",
       "api": "csp_XBPQ",
@@ -368,7 +368,7 @@
     },
     {
       "key": "ok",
-      "name": "Free┃BPQ",
+      "name": "🔸Free┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -393,7 +393,7 @@
     },
     {
       "key": "测试",
-      "name": "测试┃外剧",
+      "name": "🆑测试┃外剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -414,7 +414,7 @@
     },
     {
       "key": "了猪",
-      "name": "乐猪┃BPQ",
+      "name": "🔘乐猪┃BPQ",
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
@@ -518,13 +518,6 @@
       }
     },
     {
-      "key": "tengxun",
-      "name": "🐧腾讯┃4K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.xn--yet226clhctt4b.fun:66/js/tx.js"
-    },
-    {
       "key": "csp_胖虎",
       "name": "📽️胖虎┃BPQ",
       "type": 3,
@@ -550,7 +543,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "农民┃直连",
+      "name": "👨‍🌾农民┃直连",
       "type": 3,
       "jar": "./jar/ftyxmqj1025.jar",
       "api": "csp_Nmys",
@@ -578,7 +571,7 @@
     },
     {
       "key": "csp_XBP美剧",
-      "name": "美剧┃影视",
+      "name": "™️美剧┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -814,7 +807,7 @@
     },
     {
       "key": "6v",
-      "name": "🧲6V┃磁力",
+      "name": "🆚6V┃磁力",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
