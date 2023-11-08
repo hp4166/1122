@@ -47,7 +47,7 @@
 	    "searchable": 0, 
 	    "quickSearch": 0,
 	    "filterable": 0,
-	    "jar": "./jars/XYQH_JOJO.jar",
+	    "jar": "./jar/XYQH_JOJO.jar",
 	    "ext": "./json/哔哩广场舞.json"
     },
     {
