@@ -43,6 +43,7 @@
 	    "key": "广场舞",
 	    "name": "👑广场舞┃HDR",
 	    "type": 3,
+      "jar":"./jar/xm.jar",
 	    "api": "csp_Bili",
 	    "searchable": 0, 
 	    "quickSearch": 0,
