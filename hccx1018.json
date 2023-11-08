@@ -43,12 +43,11 @@
 	    "key": "广场舞",
 	    "name": "👑广场舞┃HDR",
 	    "type": 3,
-      "jar":"./jar/ftyxmqj1105.jar",
 	    "api": "csp_Bili",
 	    "searchable": 0, 
 	    "quickSearch": 0,
 	    "filterable": 0,
-	    "ext": "./json/哔哩广场舞.json"
+	    "ext": "./json/哔哩戏曲.json"
     },
     {
       "key": "Wogg",
