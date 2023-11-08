@@ -5,6 +5,22 @@
       "type_id": "广场舞老年人"
     },
     {
+			"type_name": "舞蹈",
+			"type_id": "舞蹈"
+		},		
+		{
+			"type_name": "MV",
+			"type_id": "MV4K"
+		},
+		{
+			"type_name": "歌曲",
+			"type_id": "歌曲"
+		},
+		{
+			"type_name": "音乐",
+			"type_id": "音乐"
+		},
+    {
       "type_name": "太极拳",
       "type_id": "太极拳"
     },
