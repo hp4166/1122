@@ -29,6 +29,14 @@
 			"type_id": "音乐"
 		},
     {
+	    "type_name": "搞笑",
+	    "type_id": "搞笑"
+		},
+		{
+	    "type_name": "相声小品",
+	    "type_id": "相声小品"
+		},
+    {
       "type_name": "太极拳",
       "type_id": "太极拳"
     },
