@@ -5,6 +5,14 @@
       "type_id": "广场舞老年人"
     },
     {
+	    "type_name": "广场舞",
+	    "type_id": "广场舞超清"
+		},
+    {
+	    "type_name": "抖音",
+	    "type_id": "抖音美女直播超清"
+		},
+    {
 			"type_name": "舞蹈",
 			"type_id": "舞蹈"
 		},		
