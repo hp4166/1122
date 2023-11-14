@@ -30,6 +30,17 @@
 	    "ext": "./json/哔哩广场舞.json"
     },
     {
+	    "key": "戏曲",
+	    "name": "🎭戏曲┃哔哩",
+	    "type": 3,
+	    "api": "csp_Bili",
+	    "searchable": 0, 
+	    "quickSearch": 0,
+	    "filterable": 0,
+	    "jar": "./jar/XYQH_JOJO.jar",
+	    "ext": "./json/哔哩戏曲.json"
+    },
+    {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
