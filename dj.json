@@ -20,7 +20,7 @@
 		},
 		{
 			"key": "短剧1xyq1",
-			"name": "🔯短剧🆚2",
+			"name": "🔯短剧🆚二",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -31,7 +31,7 @@
 		},
 		{
 			"key": "csp_djtv",
-			"name": "🔯短剧三🔯",
+			"name": "🔯短剧🆚三",
 			"type": 3,
 			"playerType": 2,
 			"api": "csp_XBPQ",
@@ -42,7 +42,7 @@
 		},
 		{
 			"key": "PT",
-			"name": "🔯短剧四🔯",
+			"name": "🔯短剧🆚四",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -53,7 +53,7 @@
 		},
 		{
 			"key": "csp_短剧网香",
-			"name": "🔯短剧五🔯",
+			"name": "🔯短剧🆚五",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"jar": "./jar/dj2.jar",
@@ -124,7 +124,7 @@
 		},
 		{
 			"key": "yqkan_open",
-			"name": "🔯短剧六🔯",
+			"name": "🔯短剧🆚六",
 			"type": 3,
 			"api": "csp_YQKan",
 			"searchable": 1,
@@ -133,7 +133,7 @@
 		},
 		{
 			"key": "csp_XBPQ_短剧",
-			"name": "🔯短剧七🔯",
+			"name": "🔯短剧🆚七",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -146,7 +146,7 @@
 		},
 		{
 			"key": "csp_XBPQ_vstv",
-			"name": "🔯短剧八🔯",
+			"name": "🔯短剧🆚八",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./jar/dj3.jar",
@@ -160,7 +160,7 @@
 		},
 		{
 			"key": "姐姐",
-			"name": "🔯短剧九🔯",
+			"name": "🔯短剧🆚九",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"jar": "./jar/dj3.jar",
@@ -171,7 +171,7 @@
 		},
 		{
 			"key": "csp_AppYsV2_Mxone",
-			"name": "🔯短剧十🔯",
+			"name": "🔯短剧🆚十",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -181,7 +181,7 @@
 		},
 		{
 			"key": "陌陌",
-			"name": "🔯短剧十一🔯",
+			"name": "🔯短剧🆚十一",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -192,7 +192,7 @@
 
 		{
 			"key": "XBPQ_duanju5",
-			"name": "🔯短剧十二🔯",
+			"name": "🔯短剧🆚十二",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -203,7 +203,7 @@
 		},
 		{
 			"key": "csp_XYQHiker_VSYY",
-			"name": "🔯短剧十三🔯",
+			"name": "🔯短剧🆚十三",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -214,7 +214,7 @@
 		},
 		{
 			"key": "csp_XBPQ_aoaotv",
-			"name": "🔯短剧十四🔯",
+			"name": "🔯短剧🆚十四",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
