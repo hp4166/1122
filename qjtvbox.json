@@ -3,16 +3,14 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "https://cloud.lxweb.cn/f/RM8QTO/live7.txt"
-          ]
+       "name": "live",
+      "type": 0,
+      "url": "https://cloud.lxweb.cn/f/RM8QTO/live7.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
-      ]
-    }
   ],
   "sites": [
     {
