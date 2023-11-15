@@ -10,7 +10,7 @@
         },
 		{
 			"key": "横版影院",
-			"name": "🔯短剧🆚1",
+			"name": "🔯短剧🆚一",
 			"type": 1,
 			"api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
 			"searchable": 1,
