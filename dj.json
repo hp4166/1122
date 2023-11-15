@@ -193,7 +193,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---{year}.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng",
-			"jar": "./lib/xbpq.jar"
+			"jar": "./jar/xbpq.jar"
 		},
 		{
 			"key": "csp_XYQHiker_VSYY",
@@ -204,7 +204,7 @@
 			"filterable": 1,
 			"api": "csp_XYQHiker",
 			"jar": "./jar/dj4.jar",
-			"ext": "./lib/VS影院.json"
+			"ext": "./json/VS影院.json"
 		},
 		{
 			"key": "csp_XBPQ_aoaotv",
