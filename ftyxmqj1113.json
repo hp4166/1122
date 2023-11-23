@@ -52,17 +52,6 @@
       "ext": "https://www.czzy88.com/"
     },
     {
-      "key": "快影",
-      "name": "👻快影┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
-    },
-    {
       "key": "觅视频",
       "name": "🗽觅视频┃App",
       "type": 3,
@@ -1811,7 +1800,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zmjwy8899/one/main/live3.txt",
+      "url": "https://cloud.lxweb.cn/f/QRkEH1/%E5%B9%BF%E5%9C%BA%E8%88%9E.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
