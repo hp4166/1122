@@ -38,6 +38,22 @@
 	    "ext": "./json/哔哩广场舞.json"
     },
     {
+	    "key": "996影视",
+	    "name": "👶996┃影视",
+	    "type": 3,
+	    "api": "csp_XBPQ",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "ext": {
+		   "数组": "<li class=\"col-md-6 col-sm-4 col-xs-3&&</li>",
+		   "简介": "<p class=\"col-pd&&</p >",
+		   "分类url": "https://www.cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+		   "分类": "电影&电视剧&动漫&爽文短剧",
+		   "分类值": "1&2&3&4"
+	    }
+    },
+    {
       "key": "一起看 ",
       "name": "👶一起看┃App",
       "type": 3,
